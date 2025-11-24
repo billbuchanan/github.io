@@ -233,13 +233,32 @@ PhD completions:
 8. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smart phones	
 
 ## PhD Panel Chair
-1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	David Benyon	Discoverable
+1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
 2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
 3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
 4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies	
 
 ## PhD Vivas
-Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing. ENU
+* 11 PhD Vivas, ENU
+* 2025 Sunderland University (Bamidele Ajayi).
+* 2025 Nottingham University (Dimah Almani ).
+* 2021 Liverpool John Moores (Anuoluwapo Adewuyi).
+* 2019 University of Plymouth (Neameh Hasan Al-Naffakh).
+* 2019 University of Plymouth (J Crume).
+* 2018 Royal Holloway, University of London (Ian Sargeant).
+* 2016	Royal Holloway, University of London.
+* 2016	Cranfield University 		
+* 2016	University of Bedfordshire 		
+* 2013	 Dublin City University
+* 2012	 Royal Holloway, University of London 		
+* 2012	University of Plymouth 		
+* 2011	 Dublin City University 		
+* 2011	 University of Essex 		
+* 2010	 University of the West of Scotland (x2)	
+* 2010	 University of Plymouth
+* University of Jena.
+* Loughborough University
+
 
 ## Papers
 The following are a range of published work:
