@@ -187,8 +187,8 @@ PhD completions:
 5. 	Oliver Lewis	1997	2001	Performance isues of variability design in embedded system application families
 6. 	Dominic Job	1996	2002	Applying case based reasoning and evolutionary techniques to software reuse
 7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	Abid Almaini
-8. 	John Pikoulas	1998	2003	Software agents and security systems	Bill Buchanan
-9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks	Jose Munoz	
+8. 	John Pikoulas	, 1998	2003,	Software agents and security systems	, Bill Buchanan 
+9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks	Jose Munoz
 10. 	Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	Bill Buchanan
 11. 	Job Obiebi	2002	2006	Adaptive PN code synchronisation is DS-CDMA systems
 12. 	Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	Jose Munoz
@@ -198,13 +198,13 @@ PhD completions:
 16. 	Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
 17. 	Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng
 18. 	Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan
-19. 	Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai
-20. 	Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
-21. 	Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
-22. 	Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
-23. 	Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
-24. 	Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani
-25. 	Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
+19.  Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai
+20.  Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
+21.  Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
+22.  Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
+23.  Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
+24.  Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani
+25.  Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
 26. 	Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN)
 27. 	Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
 28. 	Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments
