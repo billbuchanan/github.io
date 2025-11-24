@@ -264,6 +264,8 @@ PhD completions:
 
 ## Papers
 The following are a range of published work:
+
+### 2025
 * Goddard, L., Shahbaz Khan, M., Driss, M., Ghaleb, B., Lemoudden, M., Buchanan, W. J., & Ahmad, J. (2025). Resilience without AI: Assessing the Viability of Deception-Based Ransomware Detection. Procedia Computer Science, 270, 871-880. https://doi.org/10.1016/j.procs.2025.09.207
 * Jones, G., Kasimatis, D., Pitropakis, N., Macfarlane, R., & Buchanan, W. J. (2025). Analysing the role of LLMs in cybersecurity incident management. International Journal of Information Security, 24(6), 228. https://doi.org/10.1007/s10207-025-01144-7
 * Kasimatis, D., Papadopoulos, P., Buchanan, W. J., Chrysoulas, C., Sayeed, S., Mylonas, A., & Pitropakis, N. (2025). DISTIL: Digital Identities for the Evaluation of Job Skills. 2025 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 1057-1062). IEEE. https://doi.org/10.1109/csr64739.2025.11130029
@@ -287,6 +289,8 @@ The following are a range of published work:
 * Abubakar, M. A., Onyeashie, B. I., Wadhaj, I., Leimich, P., Ali, H., & Buchanan, W. J. (2025). A Systematic Review of the Blockchain Technology Security Challenges and Threats Classification. 2024 6th International Conference on Blockchain Computing and Applications (BCCA) (pp. 684-697). Institute of Electrical and Electronics Engineers (IEEE). https://doi.org/10.1109/BCCA62388.2024.10844455
 * Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, S. (2025). Quantum agents. arXiv. https://doi.org/10.48550/arXiv.2506.01536
 * Buchanan, W., Grierson, S., & Uribe, D. (2024). Privacy-Aware Single-Nucleotide Polymorphisms (SNPs) Using Bilinear Group Accumulators in Batch Mode. Proceedings of the 10th International Conference on Information Systems Security and Privacy (1, pp. 226-233). Scitepress Digital Library. https://doi.org/10.5220/0012454300003648
+
+### 2024
 * Gursu, K., Ozdem, M., Buchanan, W. J., & Canberk, B. (2024). Autonomous Queue Management System in Software-defined Routers for Sensor Networks. 2024 IEEE 10th World Forum on Internet of Things (WF-IoT) (pp. 719-724). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/WF-IoT62078.2024.10811245
 * Ahmed, H. O., Kim, D., & Buchanan, B. (2024). A True Random Number Generator Based On Race Hazard And Jitter Of Braided And Cross-Coupled Logic Gates Using FPGA. IEEE Access, 12, 182943-182955. https://doi.org/10.1109/ACCESS.2024.3512419
 * Khan, M. S., Ahmad, J., Al-Dubai, A., Pitropakis, N., Driss, M., & Buchanan, W. J. (2024). A Novel Cosine-Modulated-Polynomial Chaotic Map to Strengthen Image Encryption Algorithms in IoT Environments. Procedia Computer Science, 246, 4214-4223. https://doi.org/10.1016/j.procs.2024.09.261
@@ -307,6 +311,8 @@ The following are a range of published work:
 * Alshehri, M. S., Ahmad, J., Almakdi, S., Qathrady, M. A., Ghadi, Y. Y., & Buchanan, W. J. (2024). SkipGateNet: A Lightweight CNN-LSTM Hybrid Model with Learnable Skip Connections for Efficient Botnet Attack Detection in IoT. IEEE Access, 12. https://doi.org/10.1109/access.2024.3371992
 * Abubakar, M., Gunathilake, N. A., Buchanan, W. J., & O’Reilly, B. (2024). A Review of the Non-Fungible Tokens (NFT): Challenges and Opportunities. Big Data Technologies and Applications (pp. 171-190). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-52265-9_12
 * Tehrani, M. G., Sultanow, E., Buchanan, W. J., Amir, M., Jeschke, A., Houmani, M., Chow, R., & Lemoudden, M. (2024). Stabilized quantum-enhanced SIEM architecture and speed-up through Hoeffding tree algorithms enable quantum cybersecurity analytics in botnet detection. Scientific Reports, 14, 1732. https://doi.org/10.1038/s41598-024-51941-8
+
+### 2023
 * Aaby, P., Giuffrida, M. V., Buchanan, W. J., & Tan, Z. (2023). TouchEnc: a Novel Behavioural Encoding Technique to Enable Computer Vision for Continuous Smartphone User Authentication. 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 788-795). IEEEE. https://doi.org/10.1109/TrustCom60117.2023.00115
 * Thaeler, A., Yigit, Y., Maglaras, L. A., Buchanan, B., Moradpoor, N., & Russell, G. (2023). Enhancing Mac OS Malware Detection through Machine Learning and Mach-O File Analysis. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD) (pp. 170-175). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CAMAD59638.2023.10478430
 * Grierson, S., Ghaleb, B., Buchanan, W. J., Thomson, C., Maglaras, L., & Eckl, C. (2023). Scalable Multi-domain Trust Infrastructures for Segmented Networks. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CAMAD59638.2023.10478427
@@ -326,6 +332,8 @@ The following are a range of published work:
 * Barton, J., Pitropakis, N., Buchanan, W., Sayeed, S., & Abramson, W. (2022). Post Quantum Cryptography Analysis of TLS Tunneling on a Constrained Device. Proceedings of the 8th International Conference on Information Systems Security and Privacy - ICISSP (pp. 551-561). SCITEPRESS - Science and Technology Publications. https://doi.org/10.5220/0010903000003120
 * Hasselgren, B., Chrysoulas, C., Pitropakis, N., & Buchanan, W. J. (2023). Using Social Media & Sentiment Analysis to Make Investment Decisions. Future Internet, 15(1), 5. https://doi.org/10.3390/fi15010005
 * Holmes, A., & Buchanan, W. J. (2023). A framework for live host-based Bitcoin wallet forensics and triage. Forensic Science International: Digital Investigation, 44, 301486. https://doi.org/10.1016/j.fsidi.2022.301486
+
+ ### 2022
 * Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Comparison of Entropy Calculation Methods for Ransomware Encrypted File Identification. Entropy, 24(10), 1503. https://doi.org/10.3390/e24101503
 * Ali, H., Ahmad, J., Jaroucheh, Z., Papadopoulos, P., Pitropakis, N., Lo, O., Abramson, W., & Buchanan, W. J. (2022). Trusted Threat Intelligence Sharing in Practice and Performance Benchmarking through the Hyperledger Fabric Platform. Entropy, 24(10), 1379. https://doi.org/10.3390/e24101379
 * Gunathilake, N. A., Al-Dubai, A., Buchanan, W. J., & Lo, O. (2022). Electromagnetic Side-Channel Attack Resilience against PRESENT Lightweight Block Cipher. 2022 6th International Conference on Cryptography, Security and Privacy (CSP). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CSP55486.2022.00018
@@ -344,6 +352,8 @@ The following are a range of published work:
 * Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). NapierOne: A modern mixed file data set alternative to Govdocs1. Forensic Science International: Digital Investigation, 40, 301330. https://doi.org/10.1016/j.fsidi.2021.301330
 * Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Exploring the Need For an Updated Mixed File Research Data Set. 2021 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 426-430). IEEE. https://doi.org/10.1109/iceet53442.2021.9659618
 * Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Review of Current Ransomware Detection Techniques. 2021 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 696-701). IEEE. https://doi.org/10.1109/iceet53442.2021.9659643
+
+### 2021
 * Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). Decentralised Privacy: A Distributed Ledger Approach. In C. Mustansar Hussain, & P. Di Sia (Eds.), Handbook of Smart Materials, Technologies, and Devices (pp. 1-26). Springer International Publishing. https://doi.org/10.1007/978-3-030-58675-1_58-1
 * Hughes, K., Papadopoulos, P., Pitropakis, N., Smales, A., Ahmad, J., & Buchanan, W. J. (2021). Browsers’ Private Mode: Is It What We Were Promised?. Computers, 10(12), 165. https://doi.org/10.3390/computers10120165
 * Abubakar, M., Jaroucheh, Z., Al Dubai, A., & Buchanan, W. (2021). Blockchain-Based Authentication and Registration Mechanism for SIP-Based VoIP Systems. 2021 5th Cyber Security in Networking Conference (CSNet). IEEE. https://doi.org/10.1109/csnet52717.2021.9614646
@@ -362,6 +372,8 @@ The following are a range of published work:
 * Kelly, C., Pitropakis, N., Mylonas, A., McKeown, S., & Buchanan, W. J. (2021). A Comparative Analysis of Honeypots on Different Cloud Platforms. Sensors, 21(7), 2433. https://doi.org/10.3390/s21072433
 * Papadopoulos, P., Abramson, W., Hall, A. J., Pitropakis, N., & Buchanan, W. J. (2021). Privacy and Trust Redefined in Federated Machine Learning. Machine Learning and Knowledge Extraction, 3(2), 333-356. https://doi.org/10.3390/make3020017
 * Churcher, A., Ullah, R., Ahmad, J., Ur Rehman, S., Masood, F., Gogate, M., Alqahtani, F., Nour, B., & Buchanan, W. J. (2021). An experimental analysis of attack classification using machine learning in IoT networks. Sensors, 21(2), 446. https://doi.org/10.3390/s21020446
+
+### 2020
 * Abubakar, M. A., Jaroucheh, Z., Al-Dubai, A., & Buchanan, B. (2020). PoNW: A Secure and Scalable Proof-of-Notarized-Work-Based Consensus Mechanism. ICVISP 2020: Proceedings of the 2020 4th International Conference on Vision, Image and Signal Processing (pp. 1-8). Association for Computing Machinery (ACM). https://doi.org/10.1145/3448823.3448875
 * Christou, O., Pitropakis, N., Papadopoulos, P., Mckeown, S., & Buchanan, W. J. (2020). Phishing URL Detection Through Top-Level Domain Analysis: A Descriptive Approach. Proceedings of the 6th International Conference on Information Systems Security and Privacy (1, pp. 289-298). Scitepress. https://doi.org/10.5220/0008902202890298
 * Christou, O., Pitropakis, N., Papadopoulos, P., Mckeown, S., & Buchanan, W. J. (2020). Phishing URL Detection Through Top-Level Domain Analysis: A Descriptive Approach. Proceedings of the 6th International Conference on Information Systems Security and Privacy (1, pp. 289-298). Scitepress. https://doi.org/10.5220/0008902202890298
@@ -395,6 +407,8 @@ The following are a range of published work:
 * Ilyas, M., Ahmad, J., Lawson, A., Khan, J. S., Tahir, A., Adeel, A., Larijani, H., Kerrouche, A., Shaikh, M. G., Buchanan, W., & Hussain, A. (2020). Height Prediction for Growth Hormone Deficiency Treatment Planning Using Deep Learning. Advances in Brain Inspired Cognitive Systems (pp. 76-85). Springer International Publishing. https://doi.org/10.1007/978-3-030-39431-8_8
 * Major, W., Buchanan, W. J., & Ahmad, J. (2020). An authentication protocol based on chaos and zero knowledge proof. Nonlinear Dynamics, 99, 3065-3087. https://doi.org/10.1007/s11071-020-05463-3
 * Lowe, I., Buchanan, W. J., Macfarlane, R., & Lo, O. (2019). Wi-Fi Channel Saturation as a Mechanism to Improve Passive Capture of Bluetooth Through Channel Usage Restriction. Journal of Networking Technology, 10(4), 124-155. https://doi.org/10.6025/jnt/2019/10/4/124-155
+
+### 2019 
 * Li, S., Yuan, Y., Zhang, J. J., Buchanan, B., Liu, E., & Ramadoss, R. (2019). Guest Editorial Special Issue on Blockchain-Based Secure and Trusted Computing for IoT [Editorial]. IEEE Transactions on Computational Social Systems, 6(6), 1369-1372. https://doi.org/10.1109/tcss.2019.2954939
 * Kim, T.-H., Goyat, R., Rai, M. K., Kumar, G., Buchanan, W. J., Saha, R., & Thomas, R. (2019). A Novel Trust Evaluation Process for Secure Localization using a Decentralized Blockchain in Wireless Sensor Networks. IEEE Access, 7, 184133-184144. https://doi.org/10.1109/access.2019.2960609
 * Saha, R., Geetha, G., Kumar, G., Kim, T.-H., & Buchanan, W. J. (2019). MRC4: A Modified RC4 Algorithm using Symmetric Random Function Generator for Improved Cryptographic Features. IEEE Access, 7, 172045-172054. https://doi.org/10.1109/access.2019.2956160
@@ -406,6 +420,8 @@ The following are a range of published work:
 * Li, S., Li, S., Choo, K.-K. R., Sun, Q., Buchanan, W. J., & Cao, J. (2019). IoT Forensics: Amazon Echo as a Use Case. IEEE Internet of Things Journal, 1-11. https://doi.org/10.1109/jiot.2019.2906946
 * Halamka, J. D., Alterovitz, G., Buchanan, W. J., Cenaj, T., Clauson, K. A., Dhillon, V., Hudson, F. D., Mokhtari, M. (., Porto, D. A., Rutschman, A., & Ngo, A. L. (2019). Top 10 Blockchain Predictions for the (Near) Future of Healthcare. Blockchain in Healthcare Today, 2. https://doi.org/10.30953/bhty.v2.106
 * Hall, A. J., Pitropakis, N., Buchanan, W. J., & Moradpoor, N. (2019). Predicting Malicious Insider Threat Scenarios Using Organizational Data and a Heterogeneous Stack-Classifier. 2018 IEEE International Conference on Big Data (Big Data). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/BigData.2018.8621922
+
+### 2018
 * Buchanan, B., Lo, O., Macfarlane, R., Penrose, P., & Ramsay, B. (2018). System and method for management of confidential data. (Patent No. GB2561176A).
 * Ukwandu, E., Buchanan, W. J., & Russell, G. (2018). Mitigating Disaster using Secure Threshold-Cloud Architecture. Current Trends in Computer Sciences & Applications, 1(2).
 * Dyson, S., Buchanan, W., & Bell, L. (2018). The Challenges of Investigating Cryptocurrencies and Blockchain Related Crime. The Journal of the British Blockchain Association, 1(2), 1-6. https://doi.org/10.31585/jbba-1-2-%288%292018
@@ -427,6 +443,8 @@ The following are a range of published work:
 * Lo, O., Buchanan, W. J., Griffiths, P., & Macfarlane, R. (2018). Distance Measurement Methods for Improved Insider Threat Detection. Security and Communication Networks, 2018, 1-18. https://doi.org/10.1155/2018/5906368
 * Moradpoor, N., Clavie, B., & Buchanan, B. (2018). Employing machine learning techniques for detection and classification of phishing emails. Proceedings of the IEEE Technically Sponsored Computing Conference 2017. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/SAI.2017.8252096
 * McLaren, P., Russell, G., & Buchanan, B. (2018). Mining malware command and control traces. Proceedings of the SAI Computing Conference 2017. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/SAI.2017.8252185
+
+### 2017
 * Spyra, G., Buchanan, W. J., & Ekonomou, E. (2017, November 29-30). Blockchain and Git repositories for sticky policies protected OOXML. [Conference session]. FTC 2017 - Future Technologies Conference 2017.
 * Uwagbole, S. O., Buchanan, W. J., & Fan, L. (2017). An applied pattern-driven corpus to predictive analytics in mitigating SQL injection attack. 2017 Seventh International Conference on Emerging Security Technologies (EST),. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/est.2017.8090392
 * Ukwandu, E., Buchanan, W. J., & Russell, G. (2017). Performance Evaluation of a Fragmented Secret Share System. Proceedings of the International Conference on Cyber Situational Awareness, Data Analytics and Assessment (Cyber SA 2017). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/cybersa.2017.8073396
@@ -443,6 +461,8 @@ The following are a range of published work:
 * Buchanan, B. (2017, March 27). The next cyberattack could come from sound waves. The Conversation.
 * Buchanan, W., Thuemmler, C., Spyra, G., Smales, A., & Prajapati, B. (2017). Towards Trust and Governance in Integrated Health and Social Care Platforms. Health 4.0: How Virtualization and Big Data are Revolutionizing Healthcare (1, pp. 219-231). Springer International Publishing. https://doi.org/10.1007/978-3-319-47617-9_11
 * Saleem, K., Tan, Z., & Buchanan, W. (2017). Security for Cyber-Physical Systems in Healthcare. Health 4.0: How Virtualization and Big Data are Revolutionizing Healthcare (pp. 233-251). Springer Nature. https://doi.org/10.1007/978-3-319-47617-9_12
+
+### 2016 and before
 * Spyra, G., & Buchanan, W. J. (2016). Protecting Documents with Sticky Policies and Identity-Based Encryption. Proceedings of the Future Technologies Conference (FTC) 2016. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/FTC.2016.7821719
 * Molla, R., Romdhani, I., & Buchanan, B. (2016, November 29-December 2). 3LS-authenticate: an e-commerce challenge-response mobile application. [Paper presentation]. 13th ACS/IEEE International Conference on Computer Systems and Applications AICCSA 2016. http://researchrepository.napier.ac.uk/Output/353515
 * Buchanan, W. J., & van Deursen, N. (2016). HI-risk: A method to analyse health information risk intelligence. 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/healthcom.2016.7749536
