@@ -194,32 +194,32 @@ PhD completions:
 12. Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	Jose Munoz
 13. Timothy Chamberlain	2003	2009	Measuring pedestiran gait using low resolution infrared people counters	Alistair Armitage
 14. Lionel Saliou	2004	2009	Network firewalls dynamic performance evaluation and formalisation	Bill Buchanan
-15. 	Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan
-16. 	Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
-17. 	Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng
-18. 	Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan
-19.  Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai
-20.  Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
-21.  Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
-22.  Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
-23.  Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
-24.  Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani
-25.  Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
-26. 	Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN)
-27. 	Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
-28. 	Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments
-29. 	Sean McKeown	2015	2019	Utilising reduced file representations to facilitate fast contraband detection
-30. 	Elo Ukwandu	2014	2019	RESCUE: Evaluation of a fragmented secret share system in distributed cloud architecture
-31. 	Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity based encryption
-32. 	Adrian Smales	2013	2021	Test-bed and evaluation of a home-based adverse event prediction infrastructure
-33. 	Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity
-34. 	Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography
-35. 	Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours
-36. 	Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
-37. 	Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
-38. 	Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning
-39. 	Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing
-40. 	Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
+15. Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan
+16. Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
+17. Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng
+18. Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan
+19. Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai
+20. Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
+21. Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
+22. Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
+23. Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
+24. Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani
+25. Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
+26. Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN)
+27. Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
+28. Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments
+29. Sean McKeown	2015	2019	Utilising reduced file representations to facilitate fast contraband detection
+30. Elo Ukwandu	2014	2019	RESCUE: Evaluation of a fragmented secret share system in distributed cloud architecture
+31. Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity based encryption
+32. Adrian Smales	2013	2021	Test-bed and evaluation of a home-based adverse event prediction infrastructure
+33. Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity
+34. Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography
+35. Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours
+36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
+37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
+38. Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning
+39. Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing
+40. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
 
 # Current PhD students
 1. 	Jonathan Barton	2025		Privacy Aware trusted AI, PQC and HE
