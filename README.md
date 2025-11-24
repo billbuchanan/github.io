@@ -61,6 +61,7 @@ The following are a range of awards:
 * Year 2016. Included in "The Digital List: 50 people from various areas of Scotland's technology industries who are changing the world" [here](https://futurescot.com/the-digital-list/).
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
+* Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards in 2016 and 2025.
 
 
 ## Invited talks
@@ -218,10 +219,9 @@ PhD completions:
 36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
 37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
 38. Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning
-39. Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing
-40. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
+39. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
 
-# Current PhD students
+## Current PhD students
 1. 	Jonathan Barton	2025		Privacy Aware trusted AI, PQC and HE
 2. 	Huma Zil E	2024		Adversarial machine learning for intrusion detection system
 3. 	Faneela Faneela	2024		Enhancing the Security and Privacy of Blockchain-based Healthcare Systems using Multi-Party Computation and Threshold Signatures
@@ -233,9 +233,12 @@ PhD completions:
 
 ## PhD Panel Chair
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	David Benyon	Discoverable
-2. 	Tom Flint	2009	2016	Appropriating interaction	Phil Turner
-3. 	Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
-4. 	Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies	
+2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
+3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
+4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies	
+
+## PhD Vivas
+Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing. ENU
 
 ## Papers
 The following are a range of published work:
