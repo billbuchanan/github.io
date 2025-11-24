@@ -62,6 +62,7 @@ The following are a range of awards:
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
 * Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards in 2016 and 2025.
+* Awarded an Outstanding Contribution to Knowledge Exchange award.
 
 
 ## Invited talks
