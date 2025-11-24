@@ -145,8 +145,13 @@ The following are a range of research projects:
 * The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
-## Papers
+## Invited talks
+The following are a sample of the invited talks:
 
+* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem.
+
+## Papers
+The following are a range of published work:
 * Goddard, L., Shahbaz Khan, M., Driss, M., Ghaleb, B., Lemoudden, M., Buchanan, W. J., & Ahmad, J. (2025). Resilience without AI: Assessing the Viability of Deception-Based Ransomware Detection. Procedia Computer Science, 270, 871-880. https://doi.org/10.1016/j.procs.2025.09.207
 * Jones, G., Kasimatis, D., Pitropakis, N., Macfarlane, R., & Buchanan, W. J. (2025). Analysing the role of LLMs in cybersecurity incident management. International Journal of Information Security, 24(6), 228. https://doi.org/10.1007/s10207-025-01144-7
 * Kasimatis, D., Papadopoulos, P., Buchanan, W. J., Chrysoulas, C., Sayeed, S., Mylonas, A., & Pitropakis, N. (2025). DISTIL: Digital Identities for the Evaluation of Job Skills. 2025 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 1057-1062). IEEE. https://doi.org/10.1109/csr64739.2025.11130029
