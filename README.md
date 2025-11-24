@@ -72,6 +72,12 @@ The following are a sample of recent invited talks:
 * 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
 * 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
 
+## Conferences organised
+The following are recently organised conferences:
+
+* 23 Oct 2025. International Conference On Digital Identity, Digital Wallets And AI. Our groundbreaking Conference brought together leading innovators, policymakers, and visionaries who are redefining how we think about identity, trust, and finance. Digital Identity is no longer an emerging technology – it’s the backbone of tomorrow’s digital systems. From the EU’s revolutionary implementation of e-ID and e-IDAS2, to the UK’s plans for increased use of digital ID, we’re witnessing a shift in how trust, security, and commerce intersect. This is your exclusive opportunity to hear directly from the visionaries and technical pioneers who are architecting these transformative systems. Explore strategic roadmaps, breakthrough innovations, and gain insider access to the minds shaping the future of digital trust [here](https://coetrust.com/events-digital-id-23-oct/).
+
+
 ## Research projects
 The following are a range of research projects:
 
