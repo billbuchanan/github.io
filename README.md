@@ -62,6 +62,15 @@ The following are a range of awards:
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
 
+
+## Invited talks
+The following are a sample of recent invited talks:
+
+* 26 Jan 2026 (forthcoming). RSSA Lecture to Fellows and Guests of the Royal Scottish Society of Arts [here](https://rssa.org.uk/20260126.shtml).
+* 7 Oct 2025. Privacy-Aware Computation: FHE, ZKP and MPC at OpenSSL 2025 in Prague. OpenSSL 2025 is one of the most significant conferences in the world on cryptography, and includes many of the international leaders in cryptography. The rise of GenAI will see an ever-increasing amount of data being gathered from citizens, both for the training of machine learning models and in the processing of PII (Personally Identifiable Information). Unfortunately, the data gathering and processing infrastructures that we have often pay little attention to the privacy of the data gathered. This presentation outlines both the theoretical and practical aspects of building a privacy-aware data gathering and processing infrastructure using Fully Homomorphic Encryption (FHE), Zero Knowledge Proofs (ZKPs) and MPC (Multi-party Computation) [here](https://www.youtube.com/watch?v=ZU8Kvc8YTV4).
+* 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
+* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
+* 
 ## Research projects
 The following are a range of research projects:
 
@@ -153,11 +162,6 @@ The following are a range of research projects:
 * The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
-## Invited talks
-The following are a sample of recent invited talks:
-
-* 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
-* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
 
 ## Papers
 The following are a range of published work:
