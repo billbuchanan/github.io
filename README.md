@@ -64,6 +64,7 @@ The following are a range of awards:
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
 * Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards in 2016 and 2025.
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
+* Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
 
 ## Invited talks
