@@ -148,7 +148,7 @@ The following are a range of research projects:
 ## Invited talks
 The following are a sample of the invited talks:
 
-* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem.
+* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
 
 ## Papers
 The following are a range of published work:
