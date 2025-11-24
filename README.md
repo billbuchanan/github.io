@@ -3,23 +3,24 @@ These pages outline Bill Buchanan's profile
 
 ## Details
 Prof. William (Bill) J Buchanan, OBE, FRSE (Fellow of the Royal Society of Edinburgh), PhD, PFHEA, CEng, BSc (Hons)
-Address:	Professor of Applied Cryptography, Edinburgh Napier University, 
-10 Colinton Road, Edinburgh. EH10 5DT
-+44 (0)131 455 2759
+
+Address:	Professor of Applied Cryptography, Edinburgh Napier University,  10 Colinton Road, Edinburgh. EH10 5DT
+
+Telephone: +44 (0)131 455 2759
+
+Email: b.buchanan@napier.ac.uk
 
 ## Interesting link
-
-ASecuritySite: 
-https://asecuritysite.com 
+I have developed the ASecuritySite.com site, and which contains many examples of cryptographic methods and implementations: [here](https://asecuritysite.com). 
 
 ## ENS identity
-https://app.ens.domains/billbuchanan.eth
+My ENS identity is [here](https://app.ens.domains/billbuchanan.eth).
 
 ## YouTube
-https://www.youtube.com/billbuchanan
+My YouTube videos are [here](https://www.youtube.com/billbuchanan).
 
 ## Wikepedia
-https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist)
+My Wikipedia page is [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist)).
 
 ## LinkedIn
 https://www.linkedin.com/in/billatnapier/
