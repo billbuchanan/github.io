@@ -10,6 +10,14 @@ Telephone: +44 (0)131 455 2759
 
 Email: b.buchanan@napier.ac.uk
 
+## Bio
+William (Bill) J Buchanan OBE FRSE  is a Professor of Applied Cryptography in the School of Computing, Edinburgh and the Built Environment at Edinburgh Napier University. He is a Fellow of the BCS and a Principal Fellow of the HEA. Bill was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity, and,  in 2024, he was appointed as a Fellow of the Royal Society of Edinburgh (FRSE). In 2023, he received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 (the "Oscars of Higher Education"), and was awarded “Cyber Evangelist of the Year” at the Scottish Cyber Awards in 2016 and 2025. Along with this, he has won the Best Lecturer/Tutor for Computing at the Student-voted Excellence Awards six times (2011, 2014, 2015, 2019, 2020 and 2023). Bill lives and works in Edinburgh and is a believer in fairness, justice, and freedom.  His social media tagline reflects his strong belief in changing the world for the better: "A Serial Innovator. An Old World Breaker. A New World”.
+ 
+Bill has a strong belief in the power of education and in supporting innovation from every angle and currently leads the Blockpass ID Lab and the Centre for Cybersecurity, IoT and Cyberphysical, and the Director of the Scottish Centre of Excellence in Digital Trust and DLT.  Bill works in the areas of cryptography, blockchain, trust, digital identity and quantum processing. He has one of the most extensive cryptography sites in the World (asecuritysite.com), and is involved in many areas of novel research and teaching.  He has published over 30 academic books and over 450 academic research papers. Along with this, Bill’s work has led to many areas of impact, including a number of highly successful spin-out companies (including Zonefox, Symphonic Software, Cyan Forensics and MemCrypt), along with awards for excellence in knowledge transfer and for teaching. He recently received an ”Outstanding Contribution to Knowledge Exchange” award and was included in the FutureScot "50 Scottish Tech People Who Are Changing The World”, along with being a regular keynote speaker at a range of conferences.  Bill’s true academic passion is building, analysing and breaking cryptographic methods.
+ 
+
+Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
+
 ## ASecuritySite
 I have developed the ASecuritySite.com site, and which contains many examples of cryptographic methods and implementations: [here](https://asecuritysite.com). 
 
@@ -146,8 +154,9 @@ The following are a range of research projects:
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
 ## Invited talks
-The following are a sample of the invited talks:
+The following are a sample of recent invited talks:
 
+* 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
 * 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
 
 ## Papers
