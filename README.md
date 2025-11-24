@@ -44,6 +44,8 @@ The Scottish Centre of Excellence in Digital Trust and DLT is [here](https://coe
 My world-leaders in cryptography podcast is [here](https://asecuritysite.com/interviews)
 
 ## Awards
+The following are a range of awards:
+
 * 2025. Top 2% of scientists ranking for four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).    
