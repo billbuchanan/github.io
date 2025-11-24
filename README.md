@@ -188,7 +188,7 @@ PhD completions:
 6. 	Dominic Job	1996	2002	Applying case based reasoning and evolutionary techniques to software reuse
 7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	Abid Almaini
 8. 	John Pikoulas	1998	2003	Software agents and security systems	Bill Buchanan
-9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks	Jose Munoz	* PhD	Withdrawn	Evan Brown	2001	2005	Canan TCS	Bill Buchanan
+9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks	Jose Munoz	
 10. 	Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	Bill Buchanan
 11. 	Job Obiebi	2002	2006	Adaptive PN code synchronisation is DS-CDMA systems
 12. 	Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	Jose Munoz
