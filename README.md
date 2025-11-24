@@ -54,6 +54,96 @@ The following are a range of awards:
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
 
+## Research projects
+The following are a range of research projects:
+
+* Privacy- and Consent-aware Data Sharing with Machine Learning Aug 1, 2024 - Aug 31, 2025
+* Data Sharing in Highly Secure Environments Nov 4, 2024 - May 3, 2027
+* Trusted Threat Sharing and Privacy Preserving using LLMs Apr 1, 2024 - May 31, 2024
+* TRUST: Centre of Excellence in Distributed Ledger Technologies Jan 6, 2025 - Aug 31, 2027
+* Information Security Conference & Privacy Conference 2024 Jul 1, 2023 - Jun 30, 2025
+* TrustShare: Privacy-Preserving And Trusted Threat Intelligence Sharing Using Distributed Ledgers May 9, 2023 - Sep 8, 2024
+* TrueDeploy - CyberASAP 2023-2024 - Phase 1 May 9, 2023 - Sep 8, 2023
+* PhD Studentship (Homomorphic Encryption) Oct 1, 2023 - Sep 30, 2026
+* TruElect Oct 9, 2023 - Oct 8, 2025
+* TruElect Dec 1, 2022 - Mar 31, 2023
+* LastingAsset: Crypto assets custodial solution Sep 26, 2022 - Feb 28, 2023
+* Smart Contract based Reward Scheme Oct 1, 2022 - Jan 31, 2023
+* TrueDeploy - Scottish Enterprise HGSP Company Creation Aug 1, 2022 - Mar 15, 2025
+* Behaviour profiling using Touch-based Behavioural Biometrics for Continuous Authentication Systems May 9, 2022 - Jul 31, 2022
+* TrueDeploy - CyberASAP Phase 1 Apr 1, 2022 - Jul 31, 2022
+* Innovative Distributed Platform for Educational Content Jan 15, 2022 - Jun 30, 2022
+* TRUST AND PRIVACY PRESERVING COMPUTING PLATFORM FOR CROSSBORDER FEDERATION OF PERSONAL DATA Jul 1, 2022 - Dec 31, 2025
+* Consensus-based Blockchain File Versioning Jun 1, 2021 - Sep 30, 2021
+* MEMCRYPT CyberASAP Phase 2 Sep 23, 2020 - Feb 28, 2021
+* Memcrypt (HGSP) Sep 15, 2020 - Mar 31, 2021
+* Cyber Hunt May 1, 2022 - Apr 30, 2025
+* MemCrypt Apr 1, 2020 - Jul 31, 2020
+* OPTIMSING U>P Security and Anonymised Data Cloud Analysis for Duty of Care and Business Continuity Sep 7, 2020 - Jun 30, 2021
+* AI-based privacy-preserving biometric authentication with mass-market smart devices Oct 1, 2021 - Sep 30, 2024
+* Cryptodoc Jun 1, 2019 - Sep 30, 2019
+* COG-MHEAR: Towards cognitively-inspired, 5G-IoT enabled multi-modal hearing aids Mar 1, 2021 - Feb 28, 2026
+* Internet Search Improved By User-side Data Sep 1, 2019 - Jun 30, 2020
+* MemoryCrypt Sep 1, 2019 - Feb 29, 2020
+* Freemove Innovation Voucher May 1, 2019 - Aug 31, 2020
+* Shared Secret Steganography for Usable Mnemonic Based Security Mar 1, 2019 - Apr 30, 2020
+* Kippitech: Innovation Voucher for Incentivising Green Behaviour with Tokens Dec 1, 2018 - Mar 31, 2019
+* Next Generation Connectivity with Health and Well-being Oct 1, 2018 - Jul 2, 2021
+* Hypervine: Innovation Voucher Construction Site Safety Enhancement Aug 1, 2018 - Nov 30, 2018
+* Eyecademy: Innovation Voucher for Food Provenance Aug 1, 2018 - Nov 30, 2018
+* Trisent: Innovation Voucher for Personal Context Data Project Feb 1, 2018 - Jun 30, 2018
+* Next Generation Trust Architecture Mar 1, 2018 - Feb 29, 2020
+* Virtualised Security Operations Centre (vSoC) KTP Sep 1, 2017 - Aug 31, 2019
+* IoT Hardware Security Test Framework Nov 1, 2017 - Oct 31, 2018
+* Health Blockchain Aug 1, 2017 - Mar 31, 2019
+* e-Frail - Phase 2 Aug 1, 2017 - Feb 28, 2018
+* Payfont - PhD sponsorship - Sep 1, 2016 - Aug 31, 2018
+* e-FRAIL - Early detection of FRAilty and Illness Oct 1, 2015 - Dec 31, 2016
+* KTP Payfont Ltd Jul 1, 2015 - Jun 30, 2017
+* Fragment Finder Mar 27, 2015 - Jan 18, 2016
+* Seven Layer Communications Ltd May 1, 2000 - Apr 30, 2002
+* DigitalDNA Sep 1, 2008 - Aug 31, 2010
+* Callendar Estate Apr 1, 2010 - Sep 30, 2010
+* Fibrehub Europe Ltd Jun 1, 2003 - Jul 31, 2005
+* Canan Jan 1, 2005 - Jul 31, 2005
+* Digital forensic Toolkit Dec 10, 2007 - Dec 1, 2008
+* Flexiant Ltd, Innovation voucher Aug 1, 2011 - Jan 31, 2012
+* RATTRAP (Guardian Toolkit) Nov 1, 2011 - Feb 10, 2013
+* sa.Fire Mar 5, 2012 - Oct 31, 2013
+* Information Sharing between Police and Community Partners Dec 1, 2011 - Feb 29, 2012
+* Audit/Compliance Integration Jan 9, 2012 - Apr 30, 2012
+* Cloud-based Cash-flow Project Jan 16, 2012 - May 31, 2012
+* Integration of Stimulating and Engaging Education Assessments Jul 1, 2012 - Dec 31, 2012
+* Social Media Analysis Reporting Tool (SMART) Jun 1, 2012 - Mar 31, 2013
+* Innovation and Integrated Learning Environment for Engaging and Ever-changing Educational Content Jan 21, 2013 - Jul 31, 2014
+* MiiCard Mar 1, 2013 - Oct 1, 2013
+* HighlandBirchwoods Jan 21, 2013 - Aug 31, 2013
+* CM2000 Aug 1, 2013 - Mar 1, 2014
+* SHEDFINDERS Jan 21, 2013 - May 31, 2013
+* IPv6 Business Case Demonstrators for Farrpoint Mar 8, 2013 - Nov 30, 2013
+* CM2000 Follow On Apr 7, 2014 - Dec 31, 2014
+* Payfont, innovation voucher Aug 1, 2013 - Jan 31, 2015
+* Development of e-commerce capability of Solution Management Jun 1, 2008 - Feb 28, 2009
+* Bare Metal Forensics - Pattern Analysis Heuristics - Data Analysis Jan 15, 2016 - Jan 31, 2017
+* Project Quaisten Jun 1, 2014 - Aug 1, 2015
+* Information Sharing between the Police and their Community Partners Sep 1, 2008 - Oct 30, 2011
+* IMP Jan 1, 2014 - Jul 16, 2014
+* QMAX Oct 1, 2005 - Jul 31, 2009
+* AyeCan Mar 1, 2014 - Aug 31, 2014
+* First August - Real-time Cyber Tracking and Risk Assessment Tool May 1, 2013 - Jan 31, 2014
+* Automated Data Extraction from Invoices May 1, 2012 - Jul 31, 2012
+* LPT Productions digital platform development project Aug 1, 2013 - Nov 30, 2013
+* Core Product Development Nov 4, 2011 - Mar 31, 2012
+* Morgan Stanley: Security Analytics for Insider Threat Monitoring Apr 1, 2017 - Nov 30, 2017
+* Bio id Security Jul 31, 2015 - Dec 31, 2015
+* Payment Cards and Mobile Technology May 1, 2015 - Oct 31, 2015
+* Onyu_Secure Apr 1, 2015 - Jul 31, 2015
+* Kulio Education Characters - online platform Mar 15, 2015 - Oct 31, 2015
+* vSOC - Virtualised Security Operations Centre Dec 8, 2015 - Feb 1, 2017
+* Data Capture and Auto Identification Reference Nov 1, 2009 - Nov 1, 2011
+* Scalable and Open Framework for Human/Digital Trust between Informal/Formal Personal Health Care Infrastructures Mar 1, 2011 - Jul 31, 2013
+* The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
+* e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
 ## Papers
 
