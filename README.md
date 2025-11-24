@@ -169,6 +169,76 @@ The following are a range of research projects:
 * The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
+## PhD Completions
+MPhil completions:
+
+* MPhil	Complete	Steven Cordiner	1997	1998		Abid Almaini	
+* MPhil	Complete	Hsiu-Chiung Wang	1998	2001	Speed improvements for the RSA encryption method	Abid Almaini	
+* MPhil	Complete	Hasanain Golam	2000	2003	Component-based network test tools platform for network design and maintenance	Bill Buchanan	
+
+
+
+## PhD Completions
+PhD completions:
+
+1. PhD	Complete	Andreas Lang	1994	1999			
+* PhD	Complete	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware	T
+* PhD	Complete	Lingli Wang	1997	2001	Automated synthesis and optimization of multilevel logic circuits	
+* PhD	Complete	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
+* PhD	Complete	Oliver Lewis	1997	2001	Performance isues of variability design in embedded system application families	
+* PhD	Complete	Dominic Job	1996	2002	Applying case based reasoning and evolutionary techniques to software reuse	
+* PhD	Complete	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	Abid Almaini	
+* PhD	Complete	John Pikoulas	1998	2003	Software agents and security systems	Bill Buchanan	
+* PhD	Complete	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks	Jose Munoz	* PhD	Withdrawn	Evan Brown	2001	2005	Canan TCS	Bill Buchanan	
+* PhD	Complete	Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	Bill Buchanan	
+* PhD	Complete	Job Obiebi	2002	2006	Adaptive PN code synchronisation is DS-CDMA systems		
+* PhD	Complete	Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	Jose Munoz	
+* PhD	Complete	Timothy Chamberlain	2003	2009	Measuring pedestiran gait using low resolution infrared people counters	Alistair Armitage	
+* PhD	Complete	Lionel Saliou	2004	2009	Network firewalls dynamic performance evaluation and formalisation	Bill Buchanan	
+* PhD	Complete	Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan	
+* PhD	Complete	Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan	
+* PhD	Complete	Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng	
+* PhD	Complete	Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan	
+* PhD	Complete	Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai	
+* PhD	Complete	Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage	
+* PhD	Complete	Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff	
+* PhD	Complete	Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan	
+* PhD	Complete	Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan	
+* PhD	Complete	Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani	
+* PhD	Complete	Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan	
+* PhD	Complete	Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN)	
+* PhD	Complete	Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
+* PhD	Complete	Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments	
+* PhD	Complete	Sean McKeown	2015	2019	Utilising reduced file representations to facilitate fast contraband detection	
+* PhD	Complete	Elo Ukwandu	2014	2019	RESCUE: Evaluation of a fragmented secret share system in distributed cloud architecture	
+* PhD	Complete	Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity based encryption	
+* PhD	Complete	Adrian Smales	2013	2021	Test-bed and evaluation of a home-based adverse event prediction infrastructure	
+* PhD	Complete	Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity	
+* PhD	Complete	Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography	
+* PhD	Complete	Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours	
+* PhD	Complete	Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers	
+* PhD	Complete	Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection	
+* PhD	Complete	Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning	
+* PhD	Complete	Richard Plant	2020	2025	Privacy preserving methods for Natural Language Processing
+* PhD	Complete	Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
+
+# Current PhD students
+
+* PhD	Current	Jonathan Barton	2025		Privacy Aware trusted AI, PQC and HE	
+*	PhD	Current	Huma Zil E	2024		Adversarial machine learning for intrusion detection system	
+*	PhD	Current	Faneela Faneela	2024		Enhancing the Security and Privacy of Blockchain-based Healthcare Systems using Multi-Party Computation and Threshold Signatures	
+*	PhD	Current	Mark Golparvaran Tehrani	2025		Investigating Quantum Machine Learning for Cyber Security	
+*	PhD	Current	Dimitrios Kasimatis	2023		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing	
+*	PhD	Current	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data	
+*	PhD	Current	Kiran 2022		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing	
+*	PhD	Current	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smart phones	
+
+## PhD Panel Chair
+* PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	David Benyon	Discoverable
+* PhD	Complete	Tom Flint	2009	2016	Appropriating interaction	Phil Turner	
+* PhD	Complete	Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
+* PhD	Complete	Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies	
+
 
 ## Papers
 The following are a range of published work:
