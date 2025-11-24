@@ -1,5 +1,5 @@
 # Outline
-This page outline Bill Buchanan's profile
+This page outlines Bill Buchanan's profile
 
 ## Details
 Prof. William (Bill) J Buchanan, OBE, FRSE (Fellow of the Royal Society of Edinburgh), PhD, PFHEA, CEng, BSc (Hons)
@@ -49,7 +49,7 @@ My Instagram pages are [here](https://www.instagram.com/billatnapier).
 The Scottish Centre of Excellence in Digital Trust and DLT is [here](https://coetrust.com/).
 
 ## World-leaders in Crytography
-My world-leaders in cryptography podcast is [here](https://asecuritysite.com/interviews)
+My World-leaders in cryptography podcast is [here](https://asecuritysite.com/interviews)
 
 ## Awards
 The following are a range of awards:
@@ -188,13 +188,12 @@ PhD completions:
 4. 	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
 5. 	Oliver Lewis	1997	2001	Performance isues of variability design in embedded system application families
 6. 	Dominic Job	1996	2002	Applying case based reasoning and evolutionary techniques to software reuse
-7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	Abid Almaini
-8. 	John Pikoulas	, 1998	2003,	Software agents and security systems	, Bill Buchanan 
+7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	
+8. 	John Pikoulas	, 1998	2003,	Software agents and security systems	
 9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks
 10. Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	
 11. Job Obiebi	2002	2006	Adaptive PN code synchronisation in DS-CDMA systems
-12. Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	Jose Munoz
-13. Timothy Chamberlain	2003	2009	Measuring pedestiran gait using low resolution infrared people counters	Alistair Armitage
+12. Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	
 14. Lionel Saliou	2004	2009	Network firewalls dynamic performance evaluation and formalisation	Bill Buchanan
 15. Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan
 16. Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
@@ -236,7 +235,8 @@ PhD completions:
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
 2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
 3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
-4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies	
+4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies
+5. Timothy Chamberlain	2003	2009	Measuring pedestiran gait using low resolution infrared people counters	
 
 ## PhD Vivas
 * 11 PhD Vivas, ENU
