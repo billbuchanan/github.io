@@ -57,7 +57,7 @@ The following are a range of awards:
 * Year 2025. Top 2% of scientists ranking for four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
-* Year 2018. Awarded a Principal Fellow of the HEA [here](https://1drv.ms/b/c/65c21eaa8741eed2/IQBriOlHNOGlQarcgT5_56nAAb-Yv861xs08zBRjwREE6js?e=PxQKfH). 
+* Year 2018. Awarded a Principal Fellow of the HEA. Fellowship reference: PR147481 Date: 20/06/2018 [here](https://1drv.ms/b/c/65c21eaa8741eed2/IQBriOlHNOGlQarcgT5_56nAAb-Yv861xs08zBRjwREE6js?e=PxQKfH). 
 * Year 2017. Received an OBE for services to cyber security [here](https://www.napier.ac.uk/about-us/news/honours17).
 * Year 2016. Included in "The Digital List: 50 people from various areas of Scotland's technology industries who are changing the world" [here](https://futurescot.com/the-digital-list/).
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
