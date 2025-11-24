@@ -261,6 +261,17 @@ PhD completions:
 * University of Jena.
 * Loughborough University
 
+## External examiner
+These include:
+
+* Robert Gordons University, Aberdeen (1997 - 2001), BSc (Hons).
+* Paisley University, Paisley (1998 - 2003), BSc.
+* University of Central Lancashire (1999 - 2003), MSc.
+* Staffordshire University (2004 –2007), BSc (Hons).
+* University of Sunderland (2007 –2011), MSc Security.
+* Dublin College University, Dublin (2011 - 2014), BEng in Media Engineering.
+* MSc in Information Security (2012-2018), Royal Holloway, University of London.
+* Oxford Brookes University (2020-2024), BSc.
 
 ## Papers
 The following are a range of published work:
