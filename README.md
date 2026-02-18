@@ -27,7 +27,10 @@ My ENS identity is [here](https://app.ens.domains/billbuchanan.eth).
 ## YouTube
 My YouTube videos are [here](https://www.youtube.com/billbuchanan).
 
-## Wikepedia
+## Grokopedia
+My Grokipedia page is [here](https://grokipedia.com/page/bill_buchanan_computer_scientist)
+
+## Wikipedia
 My Wikipedia page is [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist)).
 
 ## LinkedIn
