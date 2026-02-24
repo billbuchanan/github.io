@@ -293,14 +293,14 @@ PhD completions:
 5. 	Dimitrios Kasimatis	2023		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
 6. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
 7. 	Kiran 2022		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
-8. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smart phones	
+8. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
 
 ## PhD Panel Chair
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
 2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
 3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
 4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies
-5. Timothy Chamberlain	2003	2009	Measuring pedestiran gait using low resolution infrared people counters	
+5. Timothy Chamberlain	2003	2009	Measuring pedestrian gait using low-resolution infrared people counters	
 
 ## PhD Vivas
 * 11 PhD Vivas, ENU
@@ -326,7 +326,7 @@ PhD completions:
 ## External examiner
 These include:
 
-* Robert Gordons University, Aberdeen (1997 - 2001), BSc (Hons).
+* Robert Gordon's University, Aberdeen (1997 - 2001), BSc (Hons).
 * Paisley University, Paisley (1998 - 2003), BSc.
 * University of Central Lancashire (1999 - 2003), MSc.
 * Staffordshire University (2004 –2007), BSc (Hons).
@@ -338,11 +338,18 @@ These include:
 ## Papers
 The following are a range of published work:
 
+### 2026
+* Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress.
+
 ### 2025
+* Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2025). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys.
+* Fox, J., Buchanan, W. J., & Papadopoulos, P. (2025). Adversarial Robustness of Vision in Open Foundation Models. IEEE Access, 13, 216272-216289.
+* Kasimatis, D., Politis, I., Pitropakis, N., Papadopoulos, P., & Buchanan, W. J. (2025). Decentralised Device Identity: PUF‑Driven Soulbound Token Verification for IoT Supply Chain Security. IEEE Transactions on Consumer Electronics.
+* Jan, S. U., Ahmad, J., Buchanan, W. J., & Pitropakis, N. (2025). Enhancing IoT Security: A Meta-Learning Approach to Adversarial Robustness.
 * Goddard, L., Shahbaz Khan, M., Driss, M., Ghaleb, B., Lemoudden, M., Buchanan, W. J., & Ahmad, J. (2025). Resilience without AI: Assessing the Viability of Deception-Based Ransomware Detection. Procedia Computer Science, 270, 871-880. https://doi.org/10.1016/j.procs.2025.09.207
 * Jones, G., Kasimatis, D., Pitropakis, N., Macfarlane, R., & Buchanan, W. J. (2025). Analysing the role of LLMs in cybersecurity incident management. International Journal of Information Security, 24(6), 228. https://doi.org/10.1007/s10207-025-01144-7
 * Kasimatis, D., Papadopoulos, P., Buchanan, W. J., Chrysoulas, C., Sayeed, S., Mylonas, A., & Pitropakis, N. (2025). DISTIL: Digital Identities for the Evaluation of Job Skills. 2025 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 1057-1062). IEEE. https://doi.org/10.1109/csr64739.2025.11130029
-* Korac, S., Moradpoor, N., Buchanan, W., Canberk, B., Maglaras, L., & Kioskli, K. (2025). Ransomware: Analysis and Evaluation of Live Forensic Techniques and the Impact on Linux Based IoT Systems. 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) (pp. 507-514). IEEE. https://doi.org/10.1109/DCOSS-IoT65416.2025.00084
+* Korac, S., Moradpoor, N., Buchanan, W., Canberk, B., Maglaras, L., & Kioskli, K. (2025). Ransomware: Analysis and Evaluation of Live Forensic Techniques and the Impact on Linux-Based IoT Systems. 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) (pp. 507-514). IEEE. https://doi.org/10.1109/DCOSS-IoT65416.2025.00084
 * Faneela., Ahmad, J., Ghaleb, B., Khan, I. U., Buchanan, W. J., Jan, S. U., & Khan, M. S. (2025). Performance Evaluation of Threshold Signing Schemes in Cryptography. In F. Saeed, F. Mohammed, E. Mohammed, S. Basurra, & M. Al-Sarem (Eds.), Advances on Intelligent Computing and Data Science II (pp. 13-24). Springer. https://doi.org/10.1007/978-3-031-91351-8_2
 * Khan, M. S., Ahmad, J., Al-Dubai, A., Ghaleb, B., Pitropakis, N., & Buchanan, W. J. (2025). RNA-TransCrypt: Image encryption using chaotic RNA encoding, novel transformative substitution, and tailored cryptographic operations. In A. A. Abd El-Latif, M. A. ElAffendi, M. Ali AlShara, & Y. Maleh (Eds.), Cybersecurity, Cybercrimes, and Smart Emerging Technologies. Taylor and Francis. https://doi.org/10.1201/9781003614197
 * Bakhsh, S. A., Ahmed, F., Almas Khan, M., Boulila, W., Aziz, A., Ghaleb, B., Buchanan, W. J., & Ahmad, J. (2025). A Secure Dockerized Architecture using IIoT Sensors Predicting Machine Health and Maintenance. In A. A. Abd El-Latif, M. A. ElAffendi, M. Ali AlShara, & Y. Maleh (Eds.), Proceedings of the Second International Conference on Cybersecurity, Cybercrimes, and Smart Emerging Technologies (CCSET 2023), Riyadh, Saudi Arabia, 5th–7th December, 2023. Taylor and Francis. https://doi.org/10.1201/9781003614197-19
