@@ -115,6 +115,7 @@ GrajGphBVP2otUVrrhnb
 ## Awards
 The following are a range of awards:
 
+* Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/) and Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
 * Year 2025. Top 2% of scientists ranking for four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
@@ -128,9 +129,11 @@ The following are a range of awards:
 * Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
 
+
 ## Invited talks
 The following are a sample of recent invited talks:
 
+* 24 Feb 2026. Endnote talk at Cybersecurity 2026, Glasgow.
 * 12 Feb 2026. Keynote talk at NI-Blockchain [here](https://ni-blockchain.com/).
 * 26 Jan 2026. RSSA Lecture to Fellows and Guests of the Royal Scottish Society of Arts [here](https://rssa.org.uk/20260126.shtml).
 * 21 Oct 2025. In London, the Bank of England and the BIS Innovation Hub London Centre hosted the DLT Innovation Challenge, an initiative exploring how central bank money could be securely settled on distributed ledgers not operated by the central bank. This included a partnership between the Scottish Centre of Excellence in Digital Trust and DLT and Nethermind. This collaboration marks another step in the dialogue between engineers and central bankers on how verifiable infrastructure can enhance trust and efficiency in financial markets. We look forward to continue this important conversation [here](https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge).
