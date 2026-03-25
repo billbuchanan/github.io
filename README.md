@@ -115,7 +115,8 @@ GrajGphBVP2otUVrrhnb
 ## Awards
 The following are a range of awards:
 
-* Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/) and Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
+* Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/)
+* Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
 * Year 2025. Top 2% of scientists ranking for four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
