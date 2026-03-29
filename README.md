@@ -115,9 +115,10 @@ GrajGphBVP2otUVrrhnb
 ## Awards
 The following are a range of awards:
 
+* Year 2026. Winner, Special 10th Anniversary Security Veteran Award at computing Security Excellence Awards 2026 [here](https://www.computing.co.uk/event/2026/all-the-winners-security-excellence-awards-2026).
 * Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/)
 * Year 2026. Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
-* Year 2025. Top 2% of scientists ranking for four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
+* Year 2025. Top 2% of scientists in citations for the past four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
 * Year 2018. Awarded a Principal Fellow of the HEA. Fellowship reference: PR147481 Date: 20/06/2018 [here](https://1drv.ms/b/c/65c21eaa8741eed2/IQBriOlHNOGlQarcgT5_56nAAb-Yv861xs08zBRjwREE6js?e=PxQKfH). 
