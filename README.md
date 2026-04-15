@@ -118,15 +118,16 @@ The following are a range of awards:
 * Year 2026. Winner, Special 10th Anniversary Security Veteran Award at computing Security Excellence Awards 2026 [here](https://www.computing.co.uk/event/2026/all-the-winners-security-excellence-awards-2026).
 * Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/)
 * Year 2026. Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
+* Year 2025. Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
 * Year 2025. Top 2% of scientists in citations for the past four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
 * Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
 * Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
 * Year 2018. Awarded a Principal Fellow of the HEA. Fellowship reference: PR147481 Date: 20/06/2018 [here](https://1drv.ms/b/c/65c21eaa8741eed2/IQBriOlHNOGlQarcgT5_56nAAb-Yv861xs08zBRjwREE6js?e=PxQKfH). 
 * Year 2017. Received an OBE for services to cyber security [here](https://www.napier.ac.uk/about-us/news/honours17).
+* Year 2016. Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards.
 * Year 2016. Included in "The Digital List: 50 people from various areas of Scotland's technology industries who are changing the world" [here](https://futurescot.com/the-digital-list/).
 * Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
 * Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
-* Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards in 2016 and 2025.
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
