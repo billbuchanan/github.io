@@ -346,6 +346,11 @@ The following are a range of published work:
 
 ### 2026
 * Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress.
+* Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, M. S. (2026). Defining Quantum Agents: Formal Foundations, Architectures, and NISQ-Era Prototypes. Quantum Reports, 8(1), 24.
+* Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
+* Sultanow, E., Jeschke, A., Tfiha, A. D., Tehrani, M., & Buchanan, W. J. (2026). On Families of Elliptic Curves E p, q: y 2= x 3− pqx That Intersect the Same Line L a, b: y= abx of Rational Slope. AppliedMath, 6(1), 14.
+* Khan, M. S., Ahmad, J., Al-Dubai, A., Ghaleb, B., Pitropakis, N., & Buchanan, W. J. (2024). Rna-transcrypt: Image encryption using chaotic rna encoding, novel transformative substitution, and tailored cryptographic operations. In Cybersecurity, Cybercrimes, and Smart Emerging Technologies (pp. 353-362). CRC Press.
+* Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B978044338297000012X 
 
 ### 2025
 * Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2025). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys.
