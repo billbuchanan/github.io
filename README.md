@@ -289,7 +289,8 @@ PhD completions:
 36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
 37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
 38. Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning
-39. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts	
+39. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
+40. Kiran 2022		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
 
 ## Current PhD students
 1. 	Jonathan Barton	2025		Privacy Aware trusted AI, PQC and HE
@@ -298,8 +299,7 @@ PhD completions:
 4. 	Mark Golparvaran Tehrani	2025		Investigating Quantum Machine Learning for Cyber Security
 5. 	Dimitrios Kasimatis	2023		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
 6. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
-7. 	Kiran 2022		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
-8. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
+7. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
 
 ## PhD Panel Chair
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
