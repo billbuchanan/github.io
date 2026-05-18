@@ -350,9 +350,10 @@ The following are a range of published work:
 * Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
 * Sultanow, E., Jeschke, A., Tfiha, A. D., Tehrani, M., & Buchanan, W. J. (2026). On Families of Elliptic Curves E p, q: y 2= x 3− pqx That Intersect the Same Line L a, b: y= abx of Rational Slope. AppliedMath, 6(1), 14.
 * Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B978044338297000012X
-* Turino, C., Buchanan, W. J., Lo, O., & Thümmler, C. (2025, November). PQC-LEO: An Evaluation Framework for Post-Quantum Cryptographic Algorithms. In 2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) (pp. 237-247). IEEE.
+
 
 ### 2025
+* Turino, C., Buchanan, W. J., Lo, O., & Thümmler, C. (2025, November). PQC-LEO: An Evaluation Framework for Post-Quantum Cryptographic Algorithms. In 2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) (pp. 237-247). IEEE.
 * Fox, J., Buchanan, W. J., & Papadopoulos, P. (2025). Adversarial Robustness of Vision in Open Foundation Models. IEEE Access, 13, 216272-216289.
 * Kasimatis, D., Politis, I., Pitropakis, N., Papadopoulos, P., & Buchanan, W. J. (2025). Decentralised Device Identity: PUF‑Driven Soulbound Token Verification for IoT Supply Chain Security. IEEE Transactions on Consumer Electronics.
 * Jan, S. U., Ahmad, J., Buchanan, W. J., & Pitropakis, N. (2025). Enhancing IoT Security: A Meta-Learning Approach to Adversarial Robustness.
