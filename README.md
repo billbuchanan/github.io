@@ -345,7 +345,7 @@ These include:
 The following are a range of published work:
 
 ### 2026
-* Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress.
+* Rochford, P., Buchanan, W. J., Macfarlane, R., & Tehrani, M. (2026). Securely Scaling Autonomy: The Role of Cryptography in Future Unmanned Aircraft Systems (UASs). Cryptography, 10(2), 20.
 * Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, M. S. (2026). Defining Quantum Agents: Formal Foundations, Architectures, and NISQ-Era Prototypes. Quantum Reports, 8(1), 24.
 * Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
 * Sultanow, E., Jeschke, A., Tfiha, A. D., Tehrani, M., & Buchanan, W. J. (2026). On Families of Elliptic Curves E p, q: y 2= x 3− pqx That Intersect the Same Line L a, b: y= abx of Rational Slope. AppliedMath, 6(1), 14.
@@ -353,7 +353,6 @@ The following are a range of published work:
 * Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B978044338297000012X 
 
 ### 2025
-* Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2025). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys.
 * Fox, J., Buchanan, W. J., & Papadopoulos, P. (2025). Adversarial Robustness of Vision in Open Foundation Models. IEEE Access, 13, 216272-216289.
 * Kasimatis, D., Politis, I., Pitropakis, N., Papadopoulos, P., & Buchanan, W. J. (2025). Decentralised Device Identity: PUF‑Driven Soulbound Token Verification for IoT Supply Chain Security. IEEE Transactions on Consumer Electronics.
 * Jan, S. U., Ahmad, J., Buchanan, W. J., & Pitropakis, N. (2025). Enhancing IoT Security: A Meta-Learning Approach to Adversarial Robustness.
