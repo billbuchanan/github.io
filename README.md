@@ -115,7 +115,7 @@ GrajGphBVP2otUVrrhnb
 ## Awards
 The following are a range of awards:
 
-* Year 2026. Including in Computing Top 100 IT Leaders [here](https://www.computing.co.uk/leaders-100-2026?page=1).
+* Year 2026. Included in Computing Top 100 IT Leaders in the UK [here](https://www.computing.co.uk/leaders-100-2026?page=1).
 * Year 2026. Winner, Special 10th Anniversary Security Veteran Award at computing Security Excellence Awards 2026 [here](https://www.computing.co.uk/event/2026/all-the-winners-security-excellence-awards-2026).
 * Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/)
 * Year 2026. Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
