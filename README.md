@@ -290,18 +290,18 @@ PhD completions:
 35. Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours
 36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
 37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
-38. Adam Hall	2018	2024	Advancements in privacy enhancing technologies for machine learning
-39. Will Abramson	2018		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
-40. Kiran 2022		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
+38. Adam Hall	2018-2024	Advancements in privacy-enhancing technologies for machine learning
+39. Will Abramson	2018-2021		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
+40. Kiran 2022-2026		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
+41. Dimitrios Kasimatis	2023-2026		Digital ID
 
 ## Current PhD students
-1. 	Jonathan Barton	2025		Privacy Aware trusted AI, PQC and HE
+1. 	Jonathan Barton	2025		Privacy-aware trusted AI, PQC and HE
 2. 	Huma Zil E	2024		Adversarial machine learning for intrusion detection system
 3. 	Faneela Faneela	2024		Enhancing the Security and Privacy of Blockchain-based Healthcare Systems using Multi-Party Computation and Threshold Signatures
 4. 	Mark Golparvaran Tehrani	2025		Investigating Quantum Machine Learning for Cyber Security
-5. 	Dimitrios Kasimatis	2023		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
-6. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
-7. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
+5. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
+6. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
 
 ## PhD Panel Chair
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
