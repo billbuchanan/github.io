@@ -246,13 +246,13 @@ The following are a range of research projects:
 ## MPhil/PhD Completions
 41 PhD completions (mainly as first supervisor):
 
-1. 	Andreas Lang	1994	1999			
-2. 	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware
-3. 	Lingli Wang	1997	2001	Automated synthesis and optimization of multilevel logic circuits	
+1. 	Andreas Lang	1994	1999		(2nd supervisor)
+2. 	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware (2nd supervisor)
+3. 	Lingli Wang	1997	2001	Automated synthesis and optimization of multilevel logic circuits	 (2nd supervisor)
 4. 	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
 5. 	Oliver Lewis	1997	2001	Performance issues of variability design in embedded system application families
 6. 	Dominic Job	1996	2002	Applying case-based reasoning and evolutionary techniques to software reuse
-7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	
+7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	(2nd supervisor)
 8. 	John Pikoulas, 1998	2003,	Software agents and security systems	
 9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks
 10. Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	
@@ -261,27 +261,27 @@ The following are a range of research projects:
 14. Lionel Saliou	2004	2009	Network firewalls dynamic performance evaluation and formalisation	Bill Buchanan
 15. Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan
 16. Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
-17. Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng
+17. Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng (2nd supervisor)
 18. Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan
-19. Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai
+19. Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai (2nd supervisor)
 20. Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
 21. Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
 22. Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
 23. Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
-24. Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani
+24. Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani (2nd supervisor)
 25. Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
-26. Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN)
+26. Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN) (2nd supervisor)
 27. Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
 28. Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments
 29. Sean McKeown	2015	2019	Utilising reduced file representations to facilitate fast contraband detection
 30. Elo Ukwandu	2014	2019	RESCUE: Evaluation of a fragmented secret share system in distributed cloud architecture
-31. Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity based encryption
+31. Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity-based encryption
 32. Adrian Smales	2013	2021	Test-bed and evaluation of a home-based adverse event prediction infrastructure
-33. Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity
-34. Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography
-35. Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours
+33. Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity (2nd supervisor)
+34. Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography (2nd supervisor)
+35. Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours (2nd supervisor)
 36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
-37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection
+37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection (2nd supervisor)
 38. Adam Hall	2018-2024	Advancements in privacy-enhancing technologies for machine learning
 39. Will Abramson	2018-2021		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
 40. Kiran 2022-2026		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
