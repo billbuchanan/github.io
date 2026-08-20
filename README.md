@@ -243,25 +243,17 @@ The following are a range of research projects:
 * The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
-## PhD Completions
-MPhil completions:
-
-1. 	Steven Cordiner	1997	1998		Abid Almaini
-2. 	Hsiu-Chiung Wang	1998	2001	Speed improvements for the RSA encryption method	Abid Almaini
-3. 	Hasanain Golam	2000	2003	Component-based network test tools platform for network design and maintenance	Bill Buchanan	
-
-
-## PhD Completions
-PhD completions:
+## MPhil/PhD Completions
+41 PhD completions (mainly as first supervisor):
 
 1. 	Andreas Lang	1994	1999			
 2. 	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware
 3. 	Lingli Wang	1997	2001	Automated synthesis and optimization of multilevel logic circuits	
 4. 	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
-5. 	Oliver Lewis	1997	2001	Performance isues of variability design in embedded system application families
-6. 	Dominic Job	1996	2002	Applying case based reasoning and evolutionary techniques to software reuse
+5. 	Oliver Lewis	1997	2001	Performance issues of variability design in embedded system application families
+6. 	Dominic Job	1996	2002	Applying case-based reasoning and evolutionary techniques to software reuse
 7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	
-8. 	John Pikoulas	, 1998	2003,	Software agents and security systems	
+8. 	John Pikoulas, 1998	2003,	Software agents and security systems	
 9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks
 10. Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	
 11. Job Obiebi	2002	2006	Adaptive PN code synchronisation in DS-CDMA systems
@@ -294,6 +286,12 @@ PhD completions:
 39. Will Abramson	2018-2021		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
 40. Kiran 2022-2026		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
 41. Dimitrios Kasimatis	2023-2026		Digital ID
+
+MPhil completions:
+
+1. 	Steven Cordiner	1997	1998		Abid Almaini
+2. 	Hsiu-Chiung Wang	1998	2001	Speed improvements for the RSA encryption method	Abid Almaini
+3. 	Hasanain Golam	2000	2003	Component-based network test tools platform for network design and maintenance	Bill Buchanan	
 
 ## Current PhD students
 1. 	Jonathan Barton	2025		Privacy-aware trusted AI, PQC and HE
