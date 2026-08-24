@@ -78,6 +78,7 @@ These can be grouped into at least seven patent areas:
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Defined in "Top 50 Scottish Tech People Who Are Changing The World".
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
+* Part of the IT Leaders 100 - a list of the most influential IT leaders in the UK in 2026.
 
 ### 1.7 Tagline
 
