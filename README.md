@@ -13,13 +13,13 @@ Email: b.buchanan@napier.ac.uk
 ## Bio
 ### Outline
 
-William (Bill) J Buchanan OBE FRSE is a Professor in the School of Computing, Engineering and the Built Environment at Edinburgh Napier University, and a Fellow of the Royal Society of Edinburgh (RSE) and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research - the first in the UK to be awarded this for cybersecurity.
+William (Bill) J Buchanan OBE FRSE is a Professor in the School of Computing, Engineering and the Built Environment (SCEBE) at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh (RSE) and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research - the first in the UK to be awarded this for cybersecurity. In 2024, he was elected as a Fellow of the prestigious Royal Society of Edinburgh (RSE). Bill has received many awards for his teaching, research, and innovation work, including being named the Scottish Cyber Evangelist of the Year in 2016 and 2024, and, in 2026, winning the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards.
 
-Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical, the Blockpass ID Lab, and the Scottish Centre of Excellence in Digital Trust and DLT (https://coetrust.com/). Overall, he has published more than 30 academic books and more than 350 research papers, and features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 185 and an h-index of 56.
+Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical [here](https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cic), the Blockpass ID Lab [here](https://identity-lab.blockpass.org/), and the Scottish Centre of Excellence in Digital Trust and DLT [here](https://coetrust.com/). Overall, he has published more than 30 academic books and more than 400 research papers, and features in Stanford University’s global index of the “Top 2% of Scientists”. Bill has an i-10 index of 185 and an h-index of 56 (source: Google Scholar).
 
-In 2023, he received the Most Innovative Teacher of the Year award at the Times Higher Awards (the “Oscars of Higher Education”), and in 2024, he was elected a Fellow of the Royal Society of Edinburgh (FRSE). In 2025, he was the winner of the Cyber Evangelist of the Year award at the Scottish Cyber Awards, and, in 2026, the winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards. In 2026, Bill was elected to the DSIT College of Experts.
+Bill is a passionate teacher, and in 2023 he received the Most Innovative Teacher of the Year award at the Times Higher Awards (the “Oscars of Higher Education”), and in 2024 he was elected a Fellow of the Royal Society of Edinburgh (FRSE). In 2025, he was the winner of the Cyber Evangelist of the Year award at the Scottish Cyber Awards, and in 2026, the winner of the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards. In 2026, Bill was elected to the DSIT College of Experts.
 
-His main research focus is cybersecurity, applied cryptography, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt) and which focuses on the discovery of encryption keys in running memory. This work is the first in the world to recover ChaCha20 encryption keys and salt values from running memory and is progressing towards VC funding. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants.
+His main research focus is cybersecurity, applied cryptography, blockchain, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); and Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt), and which focuses on the discovery of encryption keys in running memory. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants, and has gained over £4.5 million in research funding as a Principal Investigator (PI).
 
 ### Research Impact and Leadership
 
@@ -29,7 +29,7 @@ Bill’s work has led to many areas of impact, including three highly successful
 
 In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bill led two research impact case studies: "Enabling Sensitive Personal Data to be Shared with Trust using Novel Digital Security Methods", and "Protecting Employees, Children and Sensitive Data using Innovative Approaches to Cyber Security". Both of these impact case studies were graded as 4* (the highest grading - and "outstanding in their impact").
 
-Within the Blockpass ID Lab, Bill leads a team which focuses of areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion.
+Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion.
 
 ### Teaching and Engagement
 
@@ -43,7 +43,7 @@ His lectures are online at http://youtube.com/billatnapier, and have over 1,000 
 
 Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2019, 2020 and 2023. He was the PI on the Trust4Futures programme, and which is funded by EIT Digital. This has resulted in nearly 1,000 registered trainees, and which over 55% are female.
 
-Bill integrates with a wide range of UK and Scottish government activities, including giving evidence of the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
+Bill integrates with a wide range of UK and Scottish government activities, including giving evidence on the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
 
 
 ## Patents and inventions ==
@@ -837,10 +837,6 @@ The following are a range of published work:
 * Buchanan, W. J. (1988, March 8). Microwaves in the laboratory.. IEE Colloquium on 'Teaching Antennas and Propagation to Undergraduates'. http://researchrepository.napier.ac.uk/id/eprint/3940
 * Buchanan, W. J., Anderson, C., Smales, A., Varga, J., Burns, N., Uthmani, O., Fan, L., Lo, O., & Lawson, A. (n.d.). Who would you trust to identify you in accessing your health record? [Paper presentation]. http://researchrepository.napier.ac.uk/id/eprint/6191
 * Buchanan, B., Imran, M., Pagliari, C., Pell, J., & Rimpiläinen, S. (n.d.). Use Of Participatory Apps In Contact Tracing: Options And Implications for Public Health, Privacy and Trust. https://doi.org/10.17868/73197
-
-
-
-
 
 
 
