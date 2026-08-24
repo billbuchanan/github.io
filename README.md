@@ -21,7 +21,7 @@ In 2023, he received the Most Innovative Teacher of the Year award at the Times 
 
 His main research focus is cybersecurity, applied cryptography, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt) and which focuses on the discovery of encryption keys in running memory. This work is the first in the world to recover ChaCha20 encryption keys and salt values from running memory and is progressing towards VC funding. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants.
 
-### Research Impact and Leadership ==
+### Research Impact and Leadership
 
 Bill has gained more than £4.5 million in funding as a PI, and over £10 million overall. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding.
 
@@ -69,7 +69,7 @@ Bill is the co-inventor on at least seven patent families, with multiple UK, Eur
 * Winner of Scottish Cyber Evangelist of the Year, 2016 and 2024.
 * Principal Fellow of Advance HE = the highest level of Fellowship in the HEA.
 * Creator of Asecuritysite.com. One of the most extensive online sites for cryptography/cybersecurity education in the world and has over 24 million accesses and around 1.2 million unique users per year.
-* Winner of six ENU student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and a number of “Highly Commended” awards (including 2024 and 2025).
+* Winner of six Edinburgh Napier University student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and a number of “Highly Commended” awards (including 2024 and 2025).
 * Creator of vSoC. This is one of the most extensive virtualised platforms for Cybersecurity education within Higher Education and supports 1,000s of students around the world.
 * Writer of 30 academic books, including ones related to cryptography and network forensics.
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
