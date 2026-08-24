@@ -10,8 +10,8 @@ Telephone: +44 (0)131 455 2759
 
 Email: b.buchanan@napier.ac.uk
 
-## Bio
-### Outline
+## 1 Bio
+### 1.1 Outline
 
 William (Bill) J Buchanan OBE FRSE is a Professor in the School of Computing, Engineering and the Built Environment (SCEBE) at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh (RSE) and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research - the first in the UK to be awarded this for cybersecurity. In 2024, he was elected as a Fellow of the prestigious Royal Society of Edinburgh (RSE). Bill has received many awards for his teaching, research, and innovation work, including being named the Scottish Cyber Evangelist of the Year in 2016 and 2024, and, in 2026, winning the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards.
 
@@ -21,7 +21,7 @@ Bill is a passionate teacher, and in 2023 he received the Most Innovative Teache
 
 His main research focus is cybersecurity, applied cryptography, blockchain, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); and Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt), and which focuses on the discovery of encryption keys in running memory. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants, and has gained over £4.5 million in research funding as a Principal Investigator (PI).
 
-### Research Impact and Leadership
+### 1.2 Research Impact and Leadership
 
 Bill has gained more than £4.5 million in funding as a PI, and over £10 million overall. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding.
 
@@ -31,7 +31,7 @@ In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bil
 
 Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion.
 
-### Teaching and Engagement
+### 1.3 Teaching and Engagement
 
 Bill has created one of the most extensive cryptography websites in the world: https://asecuritysite.com. This has over four million unique users and 24 million accesses per year, and contains more than 22,000 unique web pages.
 
@@ -46,7 +46,7 @@ Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2
 Bill integrates with a wide range of UK and Scottish government activities, including giving evidence on the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
 
 
-## Patents and inventions
+### 1.4 Patents and inventions
 
 Bill is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants:
 
@@ -58,7 +58,7 @@ Bill is the co-inventor on at least seven patent families, with multiple UK, Eur
 * Resilient Secret Sharing Cloud-Based Architecture for Data Vault.
 * Detection of Ransomware.
 
-### Key highlights
+### 1.6 Key highlights
 
 * OBE for services to Cybersecurity.
 * Led research for the creation of three highly successful spin-out companies (Zonefox - acquired by Fortinet, Symphonic - acquired by Ping ID, and Cyacomb - an international leader in Digital Forensics).
@@ -76,11 +76,11 @@ Bill is the co-inventor on at least seven patent families, with multiple UK, Eur
 * Defined in "Top 50 Scottish Tech People Who Are Changing The World".
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
 
-### Tagline
+### 1.7 Tagline
 
 Bill lives and works in Edinburgh and is a believer in fairness, justice, and freedom. His social media tagline reflects his strong belief in changing the world for the better: "A Serial Innovator. An Old World Breaker. A New World Creator." He also has a strong belief in the power of education and in supporting innovation from every angle.
 
-### References
+### 1.8 References
 
 * Wikipedia: [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist))
 * Google Scholar: [here](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ)
@@ -94,43 +94,44 @@ Bill lives and works in Edinburgh and is a believer in fairness, justice, and fr
 * Podcast: [here](https://open.spotify.com/show/3SX5sY2PqQowc3aA6xGoVO?si=50787c01ec8944b4)
 * Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
 
-## ASecuritySite
+## 2 Media Details
+### 2.1 ASecuritySite
 I have developed the ASecuritySite.com site, and which contains many examples of cryptographic methods and implementations: [here](https://asecuritysite.com). 
 
-## ENS identity
+### 2.2 ENS identity
 My ENS identity is [here](https://app.ens.domains/billbuchanan.eth).
 
-## YouTube
+### 2.3 YouTube
 My YouTube videos are [here](https://www.youtube.com/billbuchanan).
 
-## Grokopedia
+### 2.4 Grokopedia
 My Grokipedia page is [here](https://grokipedia.com/page/bill_buchanan_computer_scientist)
 
-## Wikipedia
+### 2.5 Wikipedia
 My Wikipedia page is [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist)).
 
-## LinkedIn
+### 2.6 LinkedIn
 My LinkedIn profile is [here](https://www.linkedin.com/in/billatnapier/).
 
-## Twitter
+### 2.7 Twitter
 My Twitter page is [here](https://twitter.com/billatnapier).
 
-## Blog posts
+### 2.8 Blog posts
 My blog pages are [here](https://medium.com/asecuritysite-when-bob-met-alice). 
 
-## University research pages
+### 2.9 University research pages
 My research pages are [here](https://napier-repository.worktribe.com/person/110736/bill-buchanan).
 
-## Instagram
+### 2.10 Instagram
 My Instagram pages are [here](https://www.instagram.com/billatnapier).
 
-## Scottish Centre of Excellence in Digital Trust and DLT
+### 2.11 Scottish Centre of Excellence in Digital Trust and DLT
 The Scottish Centre of Excellence in Digital Trust and DLT is [here](https://coetrust.com/).
 
-## World-leaders in Cryptography
+### 2.12 World-leaders in Cryptography
 My World-leaders in cryptography podcast is [here](https://asecuritysite.com/interviews)
 
-## My public key
+## 3 My public key
 My public key is:
 
 ```
@@ -188,7 +189,7 @@ GrajGphBVP2otUVrrhnb
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-## Awards
+## 4 Awards
 The following are a range of awards:
 
 * Year 2026. One of the 71 experts that are part of the DSIT (Department of Science, Innovation and Technology) College of Experts [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
@@ -210,8 +211,7 @@ The following are a range of awards:
 * Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
 
-
-## Invited talks
+## 5 Invited talks
 The following are a sample of recent invited talks:
 
 * 24 Feb 2026. Endnote talk at Cybersecurity 2026, Glasgow.
@@ -222,13 +222,13 @@ The following are a sample of recent invited talks:
 * 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
 * 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
 
-## Conferences organised
+## 6 Conferences organised
 The following are recently organised conferences:
 
 * 23 Oct 2025. International Conference On Digital Identity, Digital Wallets And AI. Our groundbreaking Conference brought together leading innovators, policymakers, and visionaries who are redefining how we think about identity, trust, and finance. Digital Identity is no longer an emerging technology – it’s the backbone of tomorrow’s digital systems. From the EU’s revolutionary implementation of e-ID and e-IDAS2, to the UK’s plans for increased use of digital ID, we’re witnessing a shift in how trust, security, and commerce intersect. This is your exclusive opportunity to hear directly from the visionaries and technical pioneers who are architecting these transformative systems. Explore strategic roadmaps, breakthrough innovations, and gain insider access to the minds shaping the future of digital trust [here](https://coetrust.com/events-digital-id-23-oct/).
 
 
-## Research projects
+## 7 Research projects
 The following are a range of research projects:
 
 * Privacy- and Consent-aware Data Sharing with Machine Learning Aug 1, 2024 - Aug 31, 2025
@@ -319,7 +319,7 @@ The following are a range of research projects:
 * The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
 * e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
 
-## MPhil/PhD Completions
+## 8 MPhil/PhD Completions
 41 PhD completions (mainly as first supervisor):
 
 1. 	Andreas Lang	1994	1999		(2nd supervisor)
@@ -369,7 +369,7 @@ MPhil completions:
 2. 	Hsiu-Chiung Wang	1998	2001	Speed improvements for the RSA encryption method	Abid Almaini
 3. 	Hasanain Golam	2000	2003	Component-based network test tools platform for network design and maintenance	Bill Buchanan	
 
-## Current PhD students
+## 9 Current PhD students
 1. 	Jonathan Barton	2025		Privacy-aware trusted AI, PQC and HE
 2. 	Huma Zil E	2024		Adversarial machine learning for intrusion detection system
 3. 	Faneela Faneela	2024		Enhancing the Security and Privacy of Blockchain-based Healthcare Systems using Multi-Party Computation and Threshold Signatures
@@ -377,14 +377,14 @@ MPhil completions:
 5. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
 6. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
 
-## PhD Panel Chair
+## 10 PhD Panel Chair
 1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
 2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
 3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
 4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies
 5. Timothy Chamberlain	2003	2009	Measuring pedestrian gait using low-resolution infrared people counters	
 
-## PhD Vivas
+## 11 PhD Vivas
 * 11 PhD Vivas, ENU
 * 2025 Sunderland University (Bamidele Ajayi).
 * 2025 Nottingham University (Dimah Almani ).
@@ -405,7 +405,7 @@ MPhil completions:
 * University of Jena.
 * Loughborough University
 
-## External examiner
+## 12 External examiner
 These include:
 
 * Robert Gordon's University, Aberdeen (1997 - 2001), BSc (Hons).
@@ -417,7 +417,7 @@ These include:
 * MSc in Information Security (2012-2018), Royal Holloway, University of London.
 * Oxford Brookes University (2020-2024), BSc.
 
-## Papers
+## 13 Papers
 The following are a range of published work:
 
 ### 2026
