@@ -21,6 +21,8 @@ Bill is a passionate teacher, and in 2023 he received the Most Innovative Teache
 
 His main research focus is cybersecurity, applied cryptography, blockchain, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); and Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt), and which focuses on the discovery of encryption keys in running memory. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants, and has gained over £4.5 million in research funding as a Principal Investigator (PI).
 
+Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
+
 ### 1.2 Research Impact and Leadership
 
 Bill has gained more than £4.5 million in funding as a PI, and over £10 million overall. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding.
