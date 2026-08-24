@@ -82,15 +82,16 @@ Bill lives and works in Edinburgh and is a believer in fairness, justice, and fr
 
 ### References
 
-* Google Scholar: [here](https://scholar.google....n&user=ov8KfAsAAAAJ)
-* ResearchGate: [here](https://www.researchgat...file/William-Buchanan-3)
+* Wikipedia: [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist))
+* Google Scholar: [here](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ)
+* ResearchGate: [here](https://www.researchgate.net/profile/William-Buchanan-3)
 * ORCID: [here](https://orcid.org/0000-0003-0809-3523)
-* ArXiv: [here](https://arxiv.org/searc...p;query=Buchanan%2C+W+J)
+* ArXiv: [here](https://arxiv.org/search/cs?searchtype=author&query=Buchanan%2C+W+J)
 * DBLP: [here](https://dblp.org/pid/04/5266.html)
 * YouTube: [here](https://youtube.com/billbuchanan)
 * LinkedIn: [here](https://www.linkedin.com/in/billatnapier/)
 * Website: [here](https://asecuritysite.com)
-* Podcast: [here](https://open.spotify.co.../3SX5sY2PqQowc3aA6xGoVO)
+* Podcast: [here](https://open.spotify.com/show/3SX5sY2PqQowc3aA6xGoVO?si=50787c01ec8944b4)
 * Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
 
 ## ASecuritySite
