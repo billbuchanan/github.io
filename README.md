@@ -46,7 +46,7 @@ Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2
 Bill integrates with a wide range of UK and Scottish government activities, including giving evidence on the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
 
 
-## Patents and inventions ==
+## Patents and inventions
 
 Bill is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants:
 
