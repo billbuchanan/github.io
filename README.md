@@ -11,12 +11,87 @@ Telephone: +44 (0)131 455 2759
 Email: b.buchanan@napier.ac.uk
 
 ## Bio
-William (Bill) J Buchanan OBE FRSE  is a Professor of Applied Cryptography in the School of Computing, Edinburgh and the Built Environment at Edinburgh Napier University. He is a Fellow of the BCS and a Principal Fellow of the HEA. Bill was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity, and,  in 2024, he was appointed as a Fellow of the Royal Society of Edinburgh (FRSE). In 2023, he received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 (the "Oscars of Higher Education"), and was awarded “Cyber Evangelist of the Year” at the Scottish Cyber Awards in 2016 and 2025. Along with this, he has won the Best Lecturer/Tutor for Computing at the Student-voted Excellence Awards six times (2011, 2014, 2015, 2019, 2020 and 2023) - along with Highly Commended awards in 2024 and 2025. In 2026, he was the winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards. Bill lives and works in Edinburgh and is a believer in fairness, justice, and freedom.  His social media tagline reflects his strong belief in changing the world for the better: "A Serial Innovator. An Old World Breaker. A New World”.
- 
-Bill has a strong belief in the power of education and in supporting innovation from every angle and currently leads the Blockpass ID Lab and the Centre for Cybersecurity, IoT and Cyberphysical, and the Director of the Scottish Centre of Excellence in Digital Trust and DLT.  Bill works in the areas of cryptography, blockchain, trust, digital identity and quantum processing. He has one of the most extensive cryptography sites in the World (asecuritysite.com), and is involved in many areas of novel research and teaching.  He has published over 30 academic books and over 450 academic research papers. Along with this, Bill’s work has led to many areas of impact, including a number of highly successful spin-out companies (including Zonefox, Symphonic Software, Cyan Forensics and MemCrypt), along with awards for excellence in knowledge transfer and for teaching. He recently received an ”Outstanding Contribution to Knowledge Exchange” award and was included in the FutureScot "50 Scottish Tech People Who Are Changing The World”, along with being a regular keynote speaker at a range of conferences.  Bill’s true academic passion is building, analysing and breaking cryptographic methods.
- 
+### Outline
 
-Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
+William (Bill) J Buchanan OBE FRSE is a Professor in the School of Computing, Engineering and the Built Environment at Edinburgh Napier University, and a Fellow of the Royal Society of Edinburgh (RSE) and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research - the first in the UK to be awarded this for cybersecurity.
+
+Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical, the Blockpass ID Lab, and the Scottish Centre of Excellence in Digital Trust and DLT (https://coetrust.com/). Overall, he has published more than 30 academic books and more than 350 research papers, and features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 185 and an h-index of 56.
+
+In 2023, he received the Most Innovative Teacher of the Year award at the Times Higher Awards (the “Oscars of Higher Education”), and in 2024, he was elected a Fellow of the Royal Society of Edinburgh (FRSE). In 2025, he was the winner of the Cyber Evangelist of the Year award at the Scottish Cyber Awards, and, in 2026, the winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards. In 2026, Bill was elected to the DSIT College of Experts.
+
+His main research focus is cybersecurity, applied cryptography, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox (zonefox.com); Symphonic (symphonicsoft.com); Cyacomb (cyanforensics.com). Bill has supported a recent spin-out (MemCrypt) and which focuses on the discovery of encryption keys in running memory. This work is the first in the world to recover ChaCha20 encryption keys and salt values from running memory and is progressing towards VC funding. He is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants.
+
+### Research Impact and Leadership ==
+
+Bill has gained more than £4.5 million in funding as a PI, and over £10 million overall. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding.
+
+Bill’s work has led to many areas of impact, including three highly successful spin-out companies (Zonefox, Symphonic Software and Cyan Forensics), along with awards for excellence in knowledge transfer and for teaching. Bill recently received an ”Outstanding Contribution to Knowledge Exchange” award, and was included in the FutureScot "Top 50 Scottish Tech People Who Are Changing The World”.
+
+In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bill led two research impact case studies: "Enabling Sensitive Personal Data to be Shared with Trust using Novel Digital Security Methods", and "Protecting Employees, Children and Sensitive Data using Innovative Approaches to Cyber Security". Both of these impact case studies were graded as 4* (the highest grading - and "outstanding in their impact").
+
+Within the Blockpass ID Lab, Bill leads a team which focuses of areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion.
+
+### Teaching and Engagement
+
+Bill has created one of the most extensive cryptography websites in the world: https://asecuritysite.com. This has over four million unique users and 24 million accesses per year, and contains more than 22,000 unique web pages.
+
+He also runs a World Leaders in Cryptography podcast, which has included many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
+
+He was also included in the FutureScot “50 Scottish Tech People Who Are Changing The World". In 2017 and 2024, he received the "Cyber Evangelist of the Year" award at the Scottish Cybersecurity Awards.
+
+His lectures are online at http://youtube.com/billatnapier, and have over 1,000 online lectures, with around 17K subscribers, with more than 2.8 million views. Along with this, he created one of the most extensive online environments for schools in Scotland, and which has over 120K registered users (http://brightredbooks.net) and over one million test questions taken.
+
+Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2019, 2020 and 2023. He was the PI on the Trust4Futures programme, and which is funded by EIT Digital. This has resulted in nearly 1,000 registered trainees, and which over 55% are female.
+
+Bill integrates with a wide range of UK and Scottish government activities, including giving evidence of the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
+
+
+## Patents and inventions ==
+
+Bill is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants:
+
+* Digital DNA / insider-threat detection.
+* Information Sharing - Policy-based access control.
+* Improvements in or relating to Digital Forensics
+* System and Method for Management of Confidential Data.
+* Method for Identification of Digital Content.
+* Resilient Secret Sharing Cloud-Based Architecture for Data Vault.
+* Detection of Ransomware.
+
+### Key highlights
+
+* OBE for services to Cybersecurity.
+* Led research for the creation of three highly successful spin-out companies (Zonefox - acquired by Fortinet, Symphonic - acquired by Ping ID, and Cyacomb - an international leader in Digital Forensics).
+* Featured in Stanford University’s global “Top 2% Scientists”.
+* Winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards.
+* Elected to the DSIT College of Experts.
+* Awarded Fellowship of the Royal Society of Edinburgh (RSE).
+* Winner of Scottish Cyber Evangelist of the Year, 2016 and 2024.
+* Principal Fellow of Advance HE = the highest level of Fellowship in the HEA.
+* Creator of Asecuritysite.com. One of the most extensive online sites for cryptography/cybersecurity education in the world and has over 24 million accesses and around 1.2 million unique users per year.
+* Winner of six ENU student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and a number of “Highly Commended” awards (including 2024 and 2025).
+* Creator of vSoC. This is one of the most extensive virtualised platforms for Cybersecurity education within Higher Education and supports 1,000s of students around the world.
+* Writer of 30 academic books, including ones related to cryptography and network forensics.
+* Awarded an Outstanding Contribution to Knowledge Exchange award.
+* Defined in "Top 50 Scottish Tech People Who Are Changing The World".
+* Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
+
+### Tagline
+
+Bill lives and works in Edinburgh and is a believer in fairness, justice, and freedom. His social media tagline reflects his strong belief in changing the world for the better: "A Serial Innovator. An Old World Breaker. A New World Creator." He also has a strong belief in the power of education and in supporting innovation from every angle.
+
+### References
+
+* Google Scholar: [here](https://scholar.google....n&user=ov8KfAsAAAAJ)
+* ResearchGate: [here](https://www.researchgat...file/William-Buchanan-3)
+* ORCID: [here](https://orcid.org/0000-0003-0809-3523)
+* ArXiv: [here](https://arxiv.org/searc...p;query=Buchanan%2C+W+J)
+* DBLP: [here](https://dblp.org/pid/04/5266.html)
+* YouTube: [here](https://youtube.com/billbuchanan)
+* LinkedIn: [here](https://www.linkedin.com/in/billatnapier/)
+* Website: [here](https://asecuritysite.com)
+* Podcast: [here](https://open.spotify.co.../3SX5sY2PqQowc3aA6xGoVO)
+* Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
 
 ## ASecuritySite
 I have developed the ASecuritySite.com site, and which contains many examples of cryptographic methods and implementations: [here](https://asecuritysite.com). 
