@@ -48,7 +48,10 @@ Bill integrates with a wide range of UK and Scottish government activities, incl
 
 ### 1.4 Patents and inventions
 
-Bill is the co-inventor on at least seven patent families, with multiple UK, European, US and worldwide patent filings/grants:
+Bill is the co-inventor on at least 22 patents, with multiple UK, European, US and worldwide patent filings/grants: WO2010029346A1, US20120011153A1, US8887274B2, US20140201804A1, US9043867B2, WO2014108678A1, GB2525119A, US20170005797A1, US11991279B2, EP3317998B1, GB2561176A/B, WO2018185456A1, US11601403B2, CA3059014A1 GB2561177B, WO2018185455A1, EP3607467B1, US11762959B2, US12693994B2, CA3059013A1, ES3040473T3 and
+US20240152616A1
+
+These can be grouped into at least seven patent areas:
 
 * Digital DNA / insider-threat detection.
 * Information Sharing - Policy-based access control.
