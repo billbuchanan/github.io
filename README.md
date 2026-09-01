@@ -35,13 +35,13 @@ Bill’s work has led to many areas of impact, including three highly successful
 
 In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bill led two research impact case studies: "Enabling Sensitive Personal Data to be Shared with Trust using Novel Digital Security Methods", and "Protecting Employees, Children and Sensitive Data using Innovative Approaches to Cyber Security". Both of these impact case studies were graded as 4* (the highest grading - and "outstanding in their impact").
 
-Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion.
+Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion. 
 
 ### 1.3 Teaching and Engagement
 
 Bill has created one of the most extensive cryptography websites in the world: https://asecuritysite.com. This has over four million unique users and 24 million accesses per year, and contains more than 22,000 unique web pages.
 
-He also runs a World Leaders in Cryptography podcast, which has included many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
+He also runs a World-Leaders in Cryptography podcast, which has included many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
 
 He was also included in the FutureScot “50 Scottish Tech People Who Are Changing The World". In 2017 and 2024, he received the "Cyber Evangelist of the Year" award at the Scottish Cybersecurity Awards.
 
@@ -49,29 +49,29 @@ His lectures are online at http://youtube.com/billatnapier, and have over 1,000 
 
 Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2019, 2020 and 2023. He was the PI on the Trust4Futures programme, and which is funded by EIT Digital. This has resulted in nearly 1,000 registered trainees, and which over 55% are female.
 
-Bill integrates with a wide range of UK and Scottish government activities, including giving evidence on the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
+Bill integrates with a wide range of UK and Scottish government activities, including giving evidence of the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
 
 
 ### 1.4 Patents and inventions
 
-Bill is the co-inventor on at least 22 patents, with multiple UK, European, US and worldwide patent filings/grants: WO2010029346A1, US20120011153A1, US8887274B2, US20140201804A1, US9043867B2, WO2014108678A1, GB2525119A, US20170005797A1, US11991279B2, EP3317998B1, GB2561176A/B, WO2018185456A1, US11601403B2, CA3059014A1 GB2561177B, WO2018185455A1, EP3607467B1, US11762959B2, US12693994B2, CA3059013A1, ES3040473T3 and
-US20240152616A1
+Bill is the co-inventor on at least 23 patents, with multiple UK, European, US and worldwide patent filings/grants: WO2010029346A1, US20120011153A1, US8887274B2, US20140201804A1, US9043867B2, WO2014108678A1, GB2525119A, US20170005797A1, US11991279B2, EP3317998B1, GB2561176A/B, WO2018185456A1, US11601403B2, CA3059014A1 GB2561177B, WO2018185455A1, EP3607467B1, US11762959B2, US12693994B2, CA3059013A1, ES3040473T3, US20240152616A1 and US11984203B1.
 
-These can be grouped into at least seven patent areas:
+These can be grouped into at least eight patent areas:
 
 * Digital DNA / insider-threat detection.
 * Information Sharing - Policy-based access control.
-* Improvements in or relating to Digital Forensics
+* Improvements in or relating to Digital Forensics.
 * System and Method for Management of Confidential Data.
 * Method for Identification of Digital Content.
 * Resilient Secret Sharing Cloud-Based Architecture for Data Vault.
 * Detection of Ransomware.
+* Privacy-aware DNA systems.
 
 ### 1.6 Key highlights
 
 * OBE for services to Cybersecurity.
 * Led research for the creation of three highly successful spin-out companies (Zonefox - acquired by Fortinet, Symphonic - acquired by Ping ID, and Cyacomb - an international leader in Digital Forensics).
-* Featured in Stanford University’s global “Top 2% Scientists”.
+Featured in Stanford University’s global “Top 2% Scientists”.
 * Winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards.
 * Elected to the DSIT College of Experts.
 * Awarded Fellowship of the Royal Society of Edinburgh (RSE).
@@ -84,7 +84,7 @@ These can be grouped into at least seven patent areas:
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Defined in "Top 50 Scottish Tech People Who Are Changing The World".
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
-* Part of the IT Leaders 100 - a list of the most influential IT leaders in the UK in 2026.
+* £5 million in direct research funding as Principal Investigator (PI).
 
 ### 1.7 Tagline
 
