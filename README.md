@@ -432,6 +432,10 @@ These include:
 The following are a range of published work:
 
 ### 2026
+* Gillot, O., Buchanan, W. J., & Tehrani, M. G. (2026). Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures. Cryptography, 10(4), 55.
+* Gunathilake, N. A., Al-Dubai, A., & Buchanan, W. J. (2026, July). Lightweight Cryptanalysis in Resource-Constrained Environments: A Systematic Review. In 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET) (pp. 1-6). IEEE.
+* G. Tehrani, M., J. Buchanan, W., Sultanow, E., Houmani, M., H. Djaha Fodja, C., & Lemoudden, M. (2026, June). A Methodology for Analysing Coding Bugs for LLMs and SAST. In Computing Conference (pp. 666-684). Cham: Springer Nature Switzerland.
+* Khan, M. S., Pitropakis, N., Al-Dubai, A., Ahmad, J., Ghaleb, B., & Buchanan, W. J. (2026). Chaos-Based Quantum Image Encryption for Future Edge Computing and IoT Networks Security: Taxonomy, Review, and Future Directions. In Intelligent Transformative Technologies (pp. 249-283). Cham: Springer Nature Switzerland.
 * Rochford, P., Buchanan, W. J., Macfarlane, R., & Tehrani, M. (2026). Securely Scaling Autonomy: The Role of Cryptography in Future Unmanned Aircraft Systems (UASs). Cryptography, 10(2), 20.
 * Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, M. S. (2026). Defining Quantum Agents: Formal Foundations, Architectures, and NISQ-Era Prototypes. Quantum Reports, 8(1), 24.
 * Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
