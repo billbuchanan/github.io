@@ -19,7 +19,7 @@ He was appointed an Officer of the Order of the British Empire (OBE) in the 2017
 
 Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical [here](https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cic), the Blockpass ID Lab [here](https://identity-lab.blockpass.org/), and the Scottish Centre of Excellence in Digital Trust and DLT [here](https://coetrust.com/). He is also co-Director of the Academic Centre of Excellence in Cybersecurity Education (ACE-CSE). Overall, Bill has published more than 30 academic books and more than 300 research papers. He also features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 185 and an h-index of 56 (source: Google Scholar).
 
-He is the co-inventor on at least 24 patents (within eight patent families), and with multiple UK, European, US and worldwide patent filings/grants, and has gained over £5 million in research funding as a Principal Investigator (PI).
+He is the co-inventor on at least 24 patents (with eight patent families), and with multiple UK, European, US and worldwide patent filings/grants, and has gained over £10 million in research funding, and over £5 million as a Principal Investigator (PI).
 
 Bill is a passionate teacher, and in 2023 he received the Most Innovative Teacher of the Year award at the Times Higher Awards (the “Oscars of Higher Education”), and in 2024 he was elected a Fellow of the Royal Society of Edinburgh (FRSE). In 2025, he was the winner of the Cyber Evangelist of the Year award at the Scottish Cyber Awards, and in 2026, the winner of the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards. In 2026, Bill was elected to the DSIT College of Experts, and included in the Computing Top 100 leaders in IT (https://www.computing.co.uk/leaders-100-2026).
 
@@ -30,7 +30,7 @@ Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
 
 ### 1.2 Research Impact and Leadership
 
-Bill has gained more than £5 million in funding as a PI, and over £10 million overall. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding.
+Bill has secured more than £10 million in research funding and over £5 million as PI. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding. 
 
 Bill’s work has led to many areas of impact, including three highly successful spin-out companies (Zonefox, Symphonic Software and Cyan Forensics), along with awards for excellence in knowledge transfer and for teaching. Bill recently received an ”Outstanding Contribution to Knowledge Exchange” award, and was included in the FutureScot "Top 50 Scottish Tech People Who Are Changing The World”.
 
