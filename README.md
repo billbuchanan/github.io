@@ -70,15 +70,18 @@ These can be grouped into at least eight patent areas:
 
 ### 1.6 Key highlights
 
-* OBE for services to Cybersecurity.
+* OBE for services to Cybersecurity (the first ever to be awarded for Cybersecurity).
 * Led research for the creation of three highly successful spin-out companies (Zonefox - acquired by Fortinet, Symphonic - acquired by Ping ID, and Cyacomb - an international leader in Digital Forensics).
 Featured in Stanford University’s global “Top 2% Scientists”.
 * Winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards.
 * Elected to the DSIT College of Experts.
+* Computing Top 100 leaders in IT in 2026 (https://www.computing.co.uk/leaders-100-2026).
 * Awarded Fellowship of the Royal Society of Edinburgh (RSE).
-* Computing Top 100 leaders in IT [here](https://www.computing.co.uk/leaders-100-2026).
 * Winner of Scottish Cyber Evangelist of the Year, 2016 and 2024.
 * Principal Fellow of Advance HE = the highest level of Fellowship in the HEA.
+* Gained more than £10 million in research funding and over £5 million as PI. 
+* Supervised 41 PhD students to successful completion.
+* Examiner for 30 PhD examinations (19 external and 11 ENU).
 * Creator of Asecuritysite.com. One of the most extensive online sites for cryptography/cybersecurity education in the world and has over 24 million accesses and around 1.2 million unique users per year.
 * Winner of six Edinburgh Napier University student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and a number of “Highly Commended” awards (including 2024 and 2025).
 * Creator of vSoC. This is one of the most extensive virtualised platforms for Cybersecurity education within Higher Education and supports 1,000s of students around the world.
@@ -86,7 +89,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Defined in "Top 50 Scottish Tech People Who Are Changing The World".
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
-* £5 million in direct research funding as Principal Investigator (PI).
+
 
 ### 1.7 Tagline
 
@@ -230,7 +233,7 @@ The following are a sample of recent invited talks:
 * 24 Feb 2026. Endnote talk at Cybersecurity 2026, Glasgow.
 * 12 Feb 2026. Keynote talk at NI-Blockchain [here](https://ni-blockchain.com/).
 * 26 Jan 2026. RSSA Lecture to Fellows and Guests of the Royal Scottish Society of Arts [here](https://rssa.org.uk/20260126.shtml).
-* 21 Oct 2025. In London, the Bank of England and the BIS Innovation Hub London Centre hosted the DLT Innovation Challenge, an initiative exploring how central bank money could be securely settled on distributed ledgers not operated by the central bank. This included a partnership between the Scottish Centre of Excellence in Digital Trust and DLT and Nethermind. This collaboration marks another step in the dialogue between engineers and central bankers on how verifiable infrastructure can enhance trust and efficiency in financial markets. We look forward to continue this important conversation [here](https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge).
+* 21 Oct 2025. In London, the Bank of England and the BIS Innovation Hub London Centre hosted the DLT Innovation Challenge, an initiative exploring how central bank money could be securely settled on distributed ledgers not operated by the central bank. This included a partnership between the Scottish Centre of Excellence in Digital Trust and DLT and Nethermind. This collaboration marks another step in the dialogue between engineers and central bankers on how verifiable infrastructure can enhance trust and efficiency in financial markets. We look forward to continuing this important conversation [here](https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge).
 * 7 Oct 2025. Privacy-Aware Computation: FHE, ZKP and MPC at OpenSSL 2025 in Prague. OpenSSL 2025 is one of the most significant conferences in the world on cryptography, and includes many of the international leaders in cryptography. The rise of GenAI will see an ever-increasing amount of data being gathered from citizens, both for the training of machine learning models and in the processing of PII (Personally Identifiable Information). Unfortunately, the data gathering and processing infrastructures that we have often pay little attention to the privacy of the data gathered. This presentation outlines both the theoretical and practical aspects of building a privacy-aware data gathering and processing infrastructure using Fully Homomorphic Encryption (FHE), Zero Knowledge Proofs (ZKPs) and MPC (Multi-party Computation) [here](https://www.youtube.com/watch?v=ZU8Kvc8YTV4).
 * 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
 * 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
