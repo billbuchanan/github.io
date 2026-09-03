@@ -75,6 +75,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * Winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards.
 * Elected to the DSIT College of Experts.
 * Awarded Fellowship of the Royal Society of Edinburgh (RSE).
+* Computing Top 100 leaders in IT [here](https://www.computing.co.uk/leaders-100-2026).
 * Winner of Scottish Cyber Evangelist of the Year, 2016 and 2024.
 * Principal Fellow of Advance HE = the highest level of Fellowship in the HEA.
 * Creator of Asecuritysite.com. One of the most extensive online sites for cryptography/cybersecurity education in the world and has over 24 million accesses and around 1.2 million unique users per year.
