@@ -13,7 +13,7 @@ Email: b.buchanan@napier.ac.uk
 ## 1 Bio
 ### 1.1 Outline
 
-William (Bill) J Buchanan OBE FRSE is a Professor of Cybersecurity and Applied Cryptography in the School of Computing, Engineering and the Built Environment (SCEBE) at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh (RSE), and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning").
+William (Bill) J Buchanan OBE FRSE is a world-leading cybersecurity researcher with an internationally recognised profile in cybersecurity, applied cryptography, digital identity and digital trust. He was the first to be awarded an OBE for cybersecurity. Bill is currently a Professor of Cybersecurity and Applied Cryptography in the School of Computing, Engineering and the Built Environment (SCEBE) at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh (RSE), and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). 
 
 He was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research - the first in the UK to be awarded this for cybersecurity. In 2024, he was elected as a Fellow of the prestigious Royal Society of Edinburgh (RSE). Bill has received many awards for his teaching, research, and innovation work, including being named the Scottish Cyber Evangelist of the Year in 2016 and 2024, and, in 2026, winning the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards.
 
