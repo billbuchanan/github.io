@@ -89,6 +89,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Defined in "Top 50 Scottish Tech People Who Are Changing The World".
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
+* Chair, Digital Forensics Conference 2027 EU (formerly known as DFRWS). [here](https://dfrws.org/conferences/dfceurope2027/).  
 
 
 ### 1.7 Tagline
