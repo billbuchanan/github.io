@@ -32,7 +32,7 @@ Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
 
 Bill has secured more than £10 million in research funding and over £5 million as PI. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding. 
 
-Bill’s work has led to many areas of impact, including three highly successful spin-out companies (Zonefox, Symphonic Software and Cyan Forensics), along with awards for excellence in knowledge transfer and for teaching. Bill recently received an ”Outstanding Contribution to Knowledge Exchange” award, and was included in the FutureScot "Top 50 Scottish Tech People Who Are Changing The World”.
+Bill’s work has led to many areas of impact, including three highly successful spin-out companies (Zonefox, Symphonic Software and Cyan Forensics), as well as awards for excellence in knowledge transfer and teaching. Bill recently received an ”Outstanding Contribution to Knowledge Exchange” award, and was included in the FutureScot "Top 50 Scottish Tech People Who Are Changing The World”.
 
 In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bill led two research impact case studies: "Enabling Sensitive Personal Data to be Shared with Trust using Novel Digital Security Methods", and "Protecting Employees, Children and Sensitive Data using Innovative Approaches to Cyber Security". Both of these impact case studies were graded as 4* (the highest grading - and "outstanding in their impact").
 
@@ -42,7 +42,7 @@ Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital
 
 Bill has created one of the most extensive cryptography websites in the world: https://asecuritysite.com. This has over four million unique users and 24 million accesses per year, and contains more than 22,000 unique web pages.
 
-He also runs a World-Leaders in Cryptography podcast, which has included many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
+He also runs a World Leaders in Cryptography podcast, which has featured many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
 
 He was also included in the FutureScot “50 Scottish Tech People Who Are Changing The World". In 2017 and 2024, he received the "Cyber Evangelist of the Year" award at the Scottish Cybersecurity Awards.
 
@@ -91,6 +91,40 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
 * Chair, Digital Forensics Conference 2027 EU (formerly known as DFRWS). [here](https://dfrws.org/conferences/dfceurope2027/).  
 
+## Awards and recognition
+
+* 2003	Finalist, KTP of the Year with Seven Layer Communications	Innovation / Knowledge Exchange	Team/project	
+* 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd	Innovation.
+* 2011:	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
+* 2014	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2015	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2015	Named among the 50 most influential UK higher-education professionals on social media.
+* 2015	Winning team, Universally Challenged cipher-cracking competition.
+* 2016	Cyber Evangelist of the Year, inaugural Scottish Cyber Awards.
+* 2016	Included in The Digital List – 50 Scottish technology people changing the world	Innovation.
+* 2016	Award-winning collaborative cyber project with Police Scotland	Knowledge exchange.
+* 2017	Officer of the Order of the British Empire – OBE	Cybersecurity / Public service	Yes	2017 Birthday Honours, for services to cybersecurity.
+* 2017	Innovation of the Year, Scottish Knowledge Exchange Awards, for ADeCA	Research.
+* 2018	Outstanding Contribution to Knowledge Exchange, Scottish Knowledge Exchange Awards.
+* 2018	Ranked #14 in IFSEC Global Influencers in Cybersecurity	Public/industry recognition.
+* 2019	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2020	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2020	Innovation of the Year, Scottish Knowledge Exchange Awards, for ARMED / e-frailty work.
+* 2021	Best Paper Award, 14th International Conference on Security of Information and Networks (SIN 2021)	Research	Co-author	For PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 
+* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research.
+* 2022	Leading Light Innovation Award, Scottish Cyber Awards, for GLASS	Research.
+* 2023	Most Innovative Teacher of the Year, Times Higher Education Awards.
+* 2023	Best Lecturer/Tutor, School of Computing	Teaching.
+* 2024	Elected Fellow of the Royal Society of Edinburgh – FRSE.
+* 2024	Highly Commended, student teaching awards.
+* 2025	Cyber Evangelist of the Year, Scottish Cyber Awards	Public engagement.
+* 2025	Highly Commended, student teaching awards	Teaching.
+* 2025	Included in Stanford/Elsevier Top 2% Scientists database	Research recognition.
+* 2026	10th Anniversary Security Veteran Award, Computing Security Excellence Awards.
+* 2026	Selected for the DSIT College of Experts	Research.
+* 2026	Included in Computing Top 100 IT Leaders in the UK.
+* 2026	Included among Top 25 Quantum Security Experts.
+* 2026	Included among Top 200 cybersecurity creators.
 
 ### 1.7 Tagline
 
