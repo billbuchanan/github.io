@@ -91,40 +91,6 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
 * Chair, Digital Forensics Conference 2027 EU (formerly known as DFRWS). [here](https://dfrws.org/conferences/dfceurope2027/).  
 
-### 1.6.1 Awards and recognition
-
-* 2003	Finalist, KTP of the Year with Seven Layer Communications.
-* 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd.
-* 2011	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
-* 2014	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
-* 2015	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
-* 2015	Named among the 50 most influential UK higher-education professionals on social media. [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
-* 2015	Winning team, Universally Challenged cipher-cracking competition.
-* 2016	Cyber Evangelist of the Year, inaugural Scottish Cyber Awards. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
-* 2016	Included in The Digital List – 50 Scottish technology people changing the world. [here](https://futurescot.com/the-digital-list/).
-* 2016	Award-winning collaborative cyber project with Police Scotland	Knowledge exchange. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
-* 2017	Officer of the Order of the British Empire – OBE	Cybersecurity/Public service. [here](https://www.napier.ac.uk/about-us/news/honours17/).
-* 2017	Innovation of the Year, Scottish Knowledge Exchange Awards, for ADeCA	Research.
-* 2018	Outstanding Contribution to Knowledge Exchange, Scottish Knowledge Exchange Awards. [here](https://www.napier.ac.uk/About%20Us/News/KnowledgeExchangeAwards2018).
-* 2018	Ranked #14 in IFSEC Global Influencers in Cybersecurity. [here](https://www.ifsecglobal.com/global/ifsec-global-influencers-2018-cybersecurity/).
-* 2019	Best Lecturer/Tutor, School of Computing.
-* 2020	Best Lecturer/Tutor, School of Computing. [here](https://www.youtube.com/watch?v=OIBYxRnvlpE).
-* 2020	Innovation of the Year, Scottish Knowledge Exchange Awards, for ARMED / e-frailty work. [here](https://www.napier.ac.uk/About%20Us/News/Knowledge%20Exchange%202020).
-* 2021	Best Paper Award, 14th International Conference on Security of Information and Networks (SIN 2021)	Research	Co-author	For PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 
-* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research.
-* 2022	Leading Light Innovation Award, Scottish Cyber Awards, for GLASS	Research. [here](https://www.napier.ac.uk/About%20Us/News/Triple%20success%20for%20Edinburgh%20Napier%20University%20at%20Scottish%20Cyber%20Awards).
-* 2023	Most Innovative Teacher of the Year, Times Higher Education Awards. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-2023-the-awards-win).
-* 2023	Best Lecturer/Tutor, School of Computing	Teaching. [here](https://www.youtube.com/watch?v=LGn_GbqZIGI).
-* 2024	Elected Fellow of the Royal Society of Edinburgh – FRSE. [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
-* 2024	Highly Commended, student teaching awards.
-* 2025	Cyber Evangelist of the Year, Scottish Cyber Awards. [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
-* 2025	Highly Commended, student teaching awards	Teaching.
-* 2025	Included in Stanford/Elsevier Top 2% Scientists database	Research recognition.
-* 2026	10th Anniversary Security Veteran Award. [here](https://www.napier.ac.uk/about-us/news/cybersecurity-awards-double-aimie-grant-bill-buchanan-2026).
-* 2026	Selected for the DSIT College of Experts. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
-* 2026	Included in Computing Top 100 IT Leaders in the UK [here](https://www.computing.co.uk/leaders-100-2026?page=1).
-* 2026	Included among Top 25 Quantum Security Experts. [here](https://quantumsecurity25.com/about/introducing-quantum-security-25/).
-* 2026	Included among Top 200 cybersecurity creators. [here](https://www.linkedin.com/pulse/list-top-200-cybersecurity-professionals-you-should-follow-santos-amnff/)
 
 ### 1.7 Tagline
 
@@ -261,6 +227,40 @@ The following are a range of awards:
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
+### 1.6.1 Awards and recognition
+
+* 2003	Finalist, KTP of the Year with Seven Layer Communications.
+* 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd.
+* 2011	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
+* 2014	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2015	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
+* 2015	Named among the 50 most influential UK higher-education professionals on social media. [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
+* 2015	Winning team, Universally Challenged cipher-cracking competition.
+* 2016	Cyber Evangelist of the Year, inaugural Scottish Cyber Awards. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
+* 2016	Included in The Digital List – 50 Scottish technology people changing the world. [here](https://futurescot.com/the-digital-list/).
+* 2016	Award-winning collaborative cyber project with Police Scotland	Knowledge exchange. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
+* 2017	Officer of the Order of the British Empire – OBE	Cybersecurity/Public service. [here](https://www.napier.ac.uk/about-us/news/honours17/).
+* 2017	Innovation of the Year, Scottish Knowledge Exchange Awards, for ADeCA	Research.
+* 2018	Outstanding Contribution to Knowledge Exchange, Scottish Knowledge Exchange Awards. [here](https://www.napier.ac.uk/About%20Us/News/KnowledgeExchangeAwards2018).
+* 2018	Ranked #14 in IFSEC Global Influencers in Cybersecurity. [here](https://www.ifsecglobal.com/global/ifsec-global-influencers-2018-cybersecurity/).
+* 2019	Best Lecturer/Tutor, School of Computing.
+* 2020	Best Lecturer/Tutor, School of Computing. [here](https://www.youtube.com/watch?v=OIBYxRnvlpE).
+* 2020	Innovation of the Year, Scottish Knowledge Exchange Awards, for ARMED / e-frailty work. [here](https://www.napier.ac.uk/About%20Us/News/Knowledge%20Exchange%202020).
+* 2021	Best Paper Award, 14th International Conference on Security of Information and Networks (SIN 2021)	Research	Co-author	For PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 
+* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research.
+* 2022	Leading Light Innovation Award, Scottish Cyber Awards, for GLASS	Research. [here](https://www.napier.ac.uk/About%20Us/News/Triple%20success%20for%20Edinburgh%20Napier%20University%20at%20Scottish%20Cyber%20Awards).
+* 2023	Most Innovative Teacher of the Year, Times Higher Education Awards. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-2023-the-awards-win).
+* 2023	Best Lecturer/Tutor, School of Computing	Teaching. [here](https://www.youtube.com/watch?v=LGn_GbqZIGI).
+* 2024	Elected Fellow of the Royal Society of Edinburgh – FRSE. [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
+* 2024	Highly Commended, student teaching awards.
+* 2025	Cyber Evangelist of the Year, Scottish Cyber Awards. [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
+* 2025	Highly Commended, student teaching awards	Teaching.
+* 2025	Included in Stanford/Elsevier Top 2% Scientists database	Research recognition. [here](https://topresearcherslist.com/Home/Profile/868890).
+* 2026	10th Anniversary Security Veteran Award. [here](https://www.napier.ac.uk/about-us/news/cybersecurity-awards-double-aimie-grant-bill-buchanan-2026).
+* 2026	Selected for the DSIT College of Experts. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
+* 2026	Included in Computing Top 100 IT Leaders in the UK [here](https://www.computing.co.uk/leaders-100-2026?page=1).
+* 2026	Included among Top 25 Quantum Security Experts. [here](https://quantumsecurity25.com/about/introducing-quantum-security-25/).
+* 2026	Included among Top 200 cybersecurity creators. [here](https://www.linkedin.com/pulse/list-top-200-cybersecurity-professionals-you-should-follow-santos-amnff/)
 
 ## 5 Invited talks
 The following are a sample of recent invited talks:
