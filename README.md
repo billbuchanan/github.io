@@ -95,7 +95,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 
 * 2003	Finalist, KTP of the Year with Seven Layer Communications	Innovation / Knowledge Exchange	Team/project	
 * 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd	Innovation.
-* 2011:	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
+* 2011	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
 * 2014	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
 * 2015	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
 * 2015	Named among the 50 most influential UK higher-education professionals on social media.
@@ -124,7 +124,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * 2026	Selected for the DSIT College of Experts	Research.
 * 2026	Included in Computing Top 100 IT Leaders in the UK.
 * 2026	Included among Top 25 Quantum Security Experts.
-* 2026	Included among Top 200 cybersecurity creators.
+* 2026	Included among Top 200 cybersecurity creators. [here](https://www.linkedin.com/pulse/list-top-200-cybersecurity-professionals-you-should-follow-santos-amnff/)
 
 ### 1.7 Tagline
 
