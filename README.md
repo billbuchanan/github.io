@@ -207,6 +207,7 @@ GrajGphBVP2otUVrrhnb
 
 ```
 ## 4 Awards
+### Highlights
 The following are a range of awards:
 
 * Year 2026. One of the 71 experts that are part of the DSIT (Department of Science, Innovation and Technology) College of Experts [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
@@ -227,7 +228,7 @@ The following are a range of awards:
 * Awarded an Outstanding Contribution to Knowledge Exchange award.
 * Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
 
-### 1.6.1 Awards and recognition
+### 4.1 Awards and recognition
 
 * 2003	Finalist, KTP of the Year with Seven Layer Communications.
 * 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd.
