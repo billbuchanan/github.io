@@ -123,7 +123,7 @@ Featured in Stanford University’s global “Top 2% Scientists”.
 * 2026	10th Anniversary Security Veteran Award, Computing Security Excellence Awards.
 * 2026	Selected for the DSIT College of Experts	Research.
 * 2026	Included in Computing Top 100 IT Leaders in the UK.
-* 2026	Included among Top 25 Quantum Security Experts.
+* 2026	Included among Top 25 Quantum Security Experts. [here](https://quantumsecurity25.com/about/introducing-quantum-security-25/).
 * 2026	Included among Top 200 cybersecurity creators. [here](https://www.linkedin.com/pulse/list-top-200-cybersecurity-professionals-you-should-follow-santos-amnff/)
 
 ### 1.7 Tagline
