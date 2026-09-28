@@ -247,14 +247,14 @@ The following are a range of awards:
 * 2020	Best Lecturer/Tutor, School of Computing. [here](https://www.youtube.com/watch?v=OIBYxRnvlpE).
 * 2020	Innovation of the Year, Scottish Knowledge Exchange Awards, for ARMED / e-frailty work. [here](https://www.napier.ac.uk/About%20Us/News/Knowledge%20Exchange%202020).
 * 2021	Best Paper Award, 14th International Conference on Security of Information and Networks (SIN 2021)	Research	Co-author	For PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 
-* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research.
+* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research. [here](https://researchrepository.napier.ac.uk/about-us/news/scottish-cyber-awards-2021).
 * 2022	Leading Light Innovation Award, Scottish Cyber Awards, for GLASS	Research. [here](https://www.napier.ac.uk/About%20Us/News/Triple%20success%20for%20Edinburgh%20Napier%20University%20at%20Scottish%20Cyber%20Awards).
 * 2023	Most Innovative Teacher of the Year, Times Higher Education Awards. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-2023-the-awards-win).
 * 2023	Best Lecturer/Tutor, School of Computing	Teaching. [here](https://www.youtube.com/watch?v=LGn_GbqZIGI).
 * 2024	Elected Fellow of the Royal Society of Edinburgh – FRSE. [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
 * 2024	Highly Commended, student teaching awards.
 * 2025	Cyber Evangelist of the Year, Scottish Cyber Awards. [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
-* 2025	Highly Commended, student teaching awards	Teaching.
+* 2025	Highly Commended, student teaching awards.
 * 2025	Included in Stanford/Elsevier Top 2% Scientists database	Research recognition. [here](https://topresearcherslist.com/Home/Profile/868890).
 * 2026	10th Anniversary Security Veteran Award. [here](https://www.napier.ac.uk/about-us/news/cybersecurity-awards-double-aimie-grant-bill-buchanan-2026).
 * 2026	Selected for the DSIT College of Experts. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
