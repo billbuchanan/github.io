@@ -473,6 +473,7 @@ These include:
 The following are a range of published work:
 
 ### 2026
+* Faneela, F., Ghaleb, B., Ahmad, J., Al-Dubai, A. Y., Buchanan, W. J., & Jan, S. U. (2026, June). A Split-Trust Architecture for Confidential NLP Inference with CKKS Encryption. In 2026 International Wireless Communications and Mobile Computing (IWCMC) (pp. 1635-1640). IEEE.
 * Gillot, O., Buchanan, W. J., & Tehrani, M. G. (2026). Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures. Cryptography, 10(4), 55.
 * Gunathilake, N. A., Al-Dubai, A., & Buchanan, W. J. (2026, July). Lightweight Cryptanalysis in Resource-Constrained Environments: A Systematic Review. In 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET) (pp. 1-6). IEEE.
 * G. Tehrani, M., J. Buchanan, W., Sultanow, E., Houmani, M., H. Djaha Fodja, C., & Lemoudden, M. (2026, June). A Methodology for Analysing Coding Bugs for LLMs and SAST. In Computing Conference (pp. 666-684). Cham: Springer Nature Switzerland.
@@ -482,6 +483,7 @@ The following are a range of published work:
 * Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
 * Sultanow, E., Jeschke, A., Tfiha, A. D., Tehrani, M., & Buchanan, W. J. (2026). On Families of Elliptic Curves E p, q: y 2= x 3− pqx That Intersect the Same Line L a, b: y= abx of Rational Slope. AppliedMath, 6(1), 14.
 * Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B978044338297000012X
+* Faneela, B. G., Ahmad, J., Al-Dubai, A., Buchanan, W. J., Jan, S. U., & Khan, M. A. (2026). Privacy-Preserving Sentiment Analysis on Noisy Tweets Using CKKS-based Encrypted Inference.
 
 
 ### 2025
