@@ -437,6 +437,7 @@ MPhil completions:
 5. Timothy Chamberlain	2003	2009	Measuring pedestrian gait using low-resolution infrared people counters	
 
 ## 11 PhD Vivas
+Over 30 PhD Vivas, including:
 * 11 PhD Vivas, ENU
 * 2025 Sunderland University (Bamidele Ajayi).
 * 2025 Nottingham University (Dimah Almani ).
