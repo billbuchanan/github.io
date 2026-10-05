@@ -17,7 +17,7 @@ William (Bill) J Buchanan OBE FRSE is a world-leading cybersecurity researcher w
 
 Bill was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research. In 2024, he was elected as a Fellow of the prestigious Royal Society of Edinburgh (RSE). Bill has received many awards for his teaching, research, and innovation work, including being named the Scottish Cyber Evangelist of the Year in 2016 and 2024, and, in 2026, winning the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards.
 
-Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical [here](https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cic), the Blockpass ID Lab [here](https://identity-lab.blockpass.org/), and the Scottish Centre of Excellence in Digital Trust and DLT [here](https://coetrust.com/). He is also co-Director of the Academic Centre of Excellence in Cybersecurity Education (ACE-CSE). Overall, Bill has published more than 30 academic books and more than 300 research papers. He also features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 186 and an h-index of 57 (source: Google Scholar).
+Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical [here](https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cic), the Blockpass ID Lab [here](https://identity-lab.blockpass.org/), and the Scottish Centre of Excellence in Digital Trust and DLT [here](https://coetrust.com/). He is also co-Director of the Academic Centre of Excellence in Cybersecurity Education (ACE-CSE). Overall, Bill has published more than 31 academic books and more than 350 research papers. He also features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 186 and an h-index of 57 (source: Google Scholar).
 
 He is the co-inventor on at least 24 patents (with eight patent families), and with multiple UK, European, US and worldwide patent filings/grants, and has gained over £10 million in research funding, and over £5 million as a Principal Investigator (PI).
 
@@ -376,7 +376,7 @@ The following are a range of research projects:
 
 1. 	Andreas Lang	1994	1999		(2nd supervisor)
 2. 	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware (2nd supervisor)
-3. 	Lingli Wang	1997	2001	Automated synthesis and optimization of multilevel logic circuits	 (2nd supervisor)
+3. 	Lingli Wang	1997	2001	Automated synthesis and optimisation of multilevel logic circuits	 (2nd supervisor)
 4. 	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
 5. 	Oliver Lewis	1997	2001	Performance issues of variability design in embedded system application families
 6. 	Dominic Job	1996	2002	Applying case-based reasoning and evolutionary techniques to software reuse
@@ -471,9 +471,11 @@ These include:
 * Oxford Brookes University (2020-2024), BSc.
 
 ## 13 Papers
-The following are a range of published work:
+The following are a range of published works:
 
 ### 2026
+
+* Papadopoulos P., Buchanan W. J., Lo O.,  Guide to Distributed Ledger Technology and Blockchain, Artech House Publishers. ISBN: 1685690238.
 * Faneela, F., Ghaleb, B., Ahmad, J., Al-Dubai, A. Y., Buchanan, W. J., & Jan, S. U. (2026, June). A Split-Trust Architecture for Confidential NLP Inference with CKKS Encryption. In 2026 International Wireless Communications and Mobile Computing (IWCMC) (pp. 1635-1640). IEEE.
 * Gillot, O., Buchanan, W. J., & Tehrani, M. G. (2026). Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures. Cryptography, 10(4), 55.
 * Sayeed, S., Papadopoulos, P., Kasimatis, D., Pitropakis, N., Buchanan, W. J., Markakis, E. K., ... & Politis, I. (2026). A Secure and Auditable Distributed Data-Sharing Framework for Multi-Domain Systems. ICCK Transactions on Information Security and Cryptography, 2(3), 172-191.
