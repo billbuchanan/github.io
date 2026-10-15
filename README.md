@@ -28,6 +28,9 @@ His main research focus is cybersecurity, applied cryptography, blockchain, digi
 
 Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
 
+Photo: [here](https://github.com/billbuchanan/github.io/blob/main/Bill_Buchanan_-0001.jpg)
+Photo: [here]
+
 ### 1.2 Research Impact and Leadership
 
 Bill has secured more than £10 million in research funding and over £5 million as PI. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding. 
