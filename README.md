@@ -29,7 +29,8 @@ His main research focus is cybersecurity, applied cryptography, blockchain, digi
 Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
 
 Photo: [here](https://github.com/billbuchanan/github.io/blob/main/Bill_Buchanan_-0001.jpg)
-Photo: [here]
+Photo: [here](https://github.com/billbuchanan/github.io/blob/main/Bill_Buchanan_-0003.jpg)
+Headshot: 
 
 ### 1.2 Research Impact and Leadership
 
