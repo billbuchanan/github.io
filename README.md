@@ -483,6 +483,7 @@ The following are a range of published works:
 
 ### 2026
 
+* Gillot, O., Buchanan, W. J., & Turino, C. (2026, November 17-20). Testing TLS 1.3 PQC on constrained devices and microcontrollers [Paper presentation]. QSIoT 2026 (Workshop on Quantum-Safe and Intelligent Security for IoT and Cyber-Physical Systems), Newcastle. 
 * Yigit, Y., Buchanan, W. J., Tehrani, M. G., & Maglaras, L. (2026). Review of generative ai methods in cybersecurity. Internet of Things and Cyber-Physical Systems.
 * Huma, Z. E., Jan, S. U., & Buchanan, W. J. (2026, May). Lightweight Online Meta-Learning for Intrusion Detection under Drift and Adversarial Attacks. In ICC 2026-IEEE International Conference on Communications (pp. 1-6). IEEE.
 * Papadopoulos P., Buchanan W. J., Lo O.,  Guide to Distributed Ledger Technology and Blockchain, Artech House Publishers. ISBN: 1685690238.
