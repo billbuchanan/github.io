@@ -118,6 +118,7 @@ Bill lives and works in Edinburgh and is a believer in fairness, justice, and fr
 * Podcast: [here](https://open.spotify.com/show/3SX5sY2PqQowc3aA6xGoVO?si=50787c01ec8944b4)
 * Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
 * Royal Society of Edinburgh: [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
+* ResearchAD: [here](https://adscientificindex.com/scientist/bill-buchanan/1344091/).
 
 ## 2 Media Details
 ### 2.1 ASecuritySite
