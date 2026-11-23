@@ -70,7 +70,6 @@ His research and collaborations have contributed to several cybersecurity ventur
 | **Symphonic** | Policy-based authorisation and access control | Acquired by Ping Identity in 2020 |
 | **Cyacomb** (formerly Cyan Forensics) | Digital forensics and harmful-content detection | Research-led commercialisation |
 | **MemCrypt** | Discovery of encryption keys in computer memory | Research and spin-out support |
-| **LastingAsset** | Digital trust and security | Identified in Edinburgh Napier University's 2026 coverage of innovation activity |
 
 These organisations reflect different forms of research collaboration and support; this table does not imply that Bill individually founded or owned each business.
 
