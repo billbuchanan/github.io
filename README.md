@@ -6,8 +6,6 @@
  <img src="/headshot01.png" width="300" >
 </p>
 
-![Professor Bill Buchanan](headshot01.png){ align=right }
-
 **Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
 
 **Research areas:** Applied cryptography · Cybersecurity · Digital trust and identity · Privacy-enhancing technologies · Post-quantum cryptography · Distributed ledger technology · Digital forensics
