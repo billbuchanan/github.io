@@ -2,19 +2,22 @@
 
 **Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
-<p align="right">
- <img src="/headshot01.png" width="300" >
-</p>
-<p align="left">
+<table>
+
+<tr>
+<td>
+
 **Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
 
 **Research areas:** Applied cryptography · Cybersecurity · Digital trust and identity · Privacy-enhancing technologies · Post-quantum cryptography · Distributed ledger technology · Digital forensics
 
 [University research profile](https://napier-repository.worktribe.com/person/110736/bill-buchanan) · [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ) · [ORCID](https://orcid.org/0000-0003-0809-3523) · [ASecuritySite](https://asecuritysite.com) · [LinkedIn](https://www.linkedin.com/in/billatnapier/)
+</td>
+<td>
+ <img src="/headshot01.png" width="300" ></td>
 
----
-</p>
-
+</tr>
+</table>
 ## Biography
 
 Professor William (Bill) J Buchanan OBE FRSE is an internationally recognised researcher, educator and innovator in cybersecurity and applied cryptography. He is Professor of Cybersecurity and Applied Cryptography at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh, and a Principal Fellow of Advance HE.
