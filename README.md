@@ -18,6 +18,7 @@
 
 </tr>
 </table>
+
 ## Biography
 
 Professor William (Bill) J Buchanan OBE FRSE is an internationally recognised researcher, educator and innovator in cybersecurity and applied cryptography. He is Professor of Cybersecurity and Applied Cryptography at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh, and a Principal Fellow of Advance HE.
