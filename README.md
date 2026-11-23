@@ -1,11 +1,12 @@
 # Professor William (Bill) J Buchanan OBE FRSE
 
-**Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
 <table>
 
 <tr>
 <td>
+
+**Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
 **Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
 
