@@ -2,6 +2,10 @@
 
 **Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
+<p align="center">
+ <img src="/headshot01.png" width="300" >
+</p>
+
 ![Professor Bill Buchanan](headshot01.png){ align=right }
 
 **Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
