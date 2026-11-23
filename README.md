@@ -5,7 +5,7 @@
 <p align="right">
  <img src="/headshot01.png" width="300" >
 </p>
-
+<p align="left">
 **Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
 
 **Research areas:** Applied cryptography · Cybersecurity · Digital trust and identity · Privacy-enhancing technologies · Post-quantum cryptography · Distributed ledger technology · Digital forensics
@@ -13,6 +13,7 @@
 [University research profile](https://napier-repository.worktribe.com/person/110736/bill-buchanan) · [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ) · [ORCID](https://orcid.org/0000-0003-0809-3523) · [ASecuritySite](https://asecuritysite.com) · [LinkedIn](https://www.linkedin.com/in/billatnapier/)
 
 ---
+</p>
 
 ## Biography
 
