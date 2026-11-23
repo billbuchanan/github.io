@@ -2,7 +2,7 @@
 
 **Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
-<p align="center">
+<p align="right">
  <img src="/headshot01.png" width="300" >
 </p>
 
