@@ -1,917 +1,146 @@
-# Outline
-This page outlines Bill Buchanan's profile
+# Professor William (Bill) J Buchanan OBE FRSE
 
-## Details
-Prof. William (Bill) J Buchanan, OBE, FRSE (Fellow of the Royal Society of Edinburgh), PhD, PFHEA, CEng, BSc (Hons)
+**Professor of Cybersecurity and Applied Cryptography | Edinburgh Napier University**
 
-Address:	Professor of Applied Cryptography, Edinburgh Napier University,  10 Colinton Road, Edinburgh. EH10 5DT
+![Professor Bill Buchanan](headshot01.png)
 
-Telephone: +44 (0)131 455 2759
+**Qualifications and professional recognition:** OBE, FRSE, PhD, PFHEA, CEng, BSc (Hons)
 
-Email: b.buchanan@napier.ac.uk
+**Research areas:** Applied cryptography · Cybersecurity · Digital trust and identity · Privacy-enhancing technologies · Post-quantum cryptography · Distributed ledger technology · Digital forensics
 
-## 1 Bio
-### 1.1 Outline
+[University research profile](https://napier-repository.worktribe.com/person/110736/bill-buchanan) · [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ) · [ORCID](https://orcid.org/0000-0003-0809-3523) · [ASecuritySite](https://asecuritysite.com) · [LinkedIn](https://www.linkedin.com/in/billatnapier/)
 
-William (Bill) J Buchanan OBE FRSE is a world-leading cybersecurity researcher with an internationally recognised profile in cybersecurity, applied cryptography, digital identity and digital trust. He was the first to be awarded an OBE for cybersecurity. Bill is currently a Professor of Cybersecurity and Applied Cryptography in the School of Computing, Engineering and the Built Environment (SCEBE) at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh (RSE), and a Principal Fellow of Advance HE ("sustained record of effectiveness in strategic leadership of high-quality learning"). 
+---
 
-Bill was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity innovation, teaching and research. He received this award from Queen Elizabeth II at Holyrood Palace, Edinburgh in June 2018. In 2024, Bill was elected as a Fellow of the prestigious Royal Society of Edinburgh (RSE). He has also received many awards for his teaching, research, and innovation work, including being named the Scottish Cyber Evangelist of the Year in 2016 and 2024, and, in 2026, winning the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards. 
+## Biography
 
-Bill currently leads the Centre for Cybersecurity, IoT and Cyberphysical [here](https://www.napier.ac.uk/about-us/our-schools/school-of-computing-engineering-and-the-built-environment/cic), the Blockpass ID Lab [here](https://identity-lab.blockpass.org/), and the Scottish Centre of Excellence in Digital Trust and DLT [here](https://coetrust.com/). He is also co-Director of the Academic Centre of Excellence in Cybersecurity Education (ACE-CSE). Overall, Bill has published more than 31 academic books and more than 350 research papers. He also features in Stanford University’s global index of the “Top 2% of Scientists”. He has an i-10 index of 186 and an h-index of 57 (source: Google Scholar).
+Professor William (Bill) J Buchanan OBE FRSE is an internationally recognised researcher, educator and innovator in cybersecurity and applied cryptography. He is Professor of Cybersecurity and Applied Cryptography at Edinburgh Napier University, a Fellow of the Royal Society of Edinburgh, and a Principal Fellow of Advance HE.
 
-He is the co-inventor on at least 24 patents (with eight patent families), and with multiple UK, European, US and worldwide patent filings/grants, and has gained over £10 million in research funding, and over £5 million as a Principal Investigator (PI).
+His work addresses the design, evaluation and application of trustworthy digital systems, with particular interests in cryptographic engineering, digital identity, privacy, distributed ledgers, digital forensics and the transition to post-quantum cryptography. His research connects foundational security techniques with practical applications across the public and private sectors.
 
-Bill is a passionate teacher, and in 2023 he received the Most Innovative Teacher of the Year award at the Times Higher Awards (the “Oscars of Higher Education”), and in 2024 he was elected a Fellow of the Royal Society of Edinburgh (FRSE). In 2025, he was the winner of the Cyber Evangelist of the Year award at the Scottish Cyber Awards, and in 2026, the winner of the special 10th-anniversary Security Veteran Award at the Computing Security Excellence Awards. In 2026, Bill was elected to the DSIT College of Experts, and included in the Computing Top 100 leaders in IT (https://www.computing.co.uk/leaders-100-2026).
+Bill was appointed an Officer of the Order of the British Empire (OBE) in the 2017 Birthday Honours for services to cybersecurity. In 2024, he was elected a Fellow of the Royal Society of Edinburgh. He received the **Most Innovative Teacher of the Year** award at the 2023 Times Higher Education Awards and the special **10th Anniversary Cybersecurity Veteran Award** at the 2026 Computing Security Excellence Awards. In 2026 he was also appointed to the UK Department for Science, Innovation and Technology (DSIT) College of Experts.
 
-His main research focus is cybersecurity, applied cryptography, blockchain, digital privacy/trust, digital forensics and digital identity. Bill’s work has led to many UK/World-wide patents, and three highly successful spin-out companies: Zonefox; Symphonic; and Cyacomb (https://www.cyacomb.com/). Zonefox was acquired by Fortinet in 2018, and Symphonic was acquired by Ping ID in 2020. Bill has supported a recent spin-out (MemCrypt), and which focuses on the discovery of encryption keys in running memory.
+Bill combines academic research with industry collaboration, intellectual-property development, spin-out activity and public engagement. He is the creator of [ASecuritySite](https://asecuritysite.com), a substantial open educational resource for applied cryptography and cybersecurity, and hosts interviews with leading figures in cryptography.
 
+### Short biography (for conferences and events)
 
-Interview: [here](https://www.youtube.com/watch?v=O_kMmbvu9VM).
+Professor Bill Buchanan OBE FRSE is Professor of Cybersecurity and Applied Cryptography at Edinburgh Napier University. His research spans cryptography, digital trust, privacy-enhancing technologies, digital identity and post-quantum security. He is a Fellow of the Royal Society of Edinburgh and a Principal Fellow of Advance HE. Awarded an OBE for services to cybersecurity in 2017, he won the Times Higher Education Most Innovative Teacher award in 2023 and a special Cybersecurity Veteran Award in 2026. He leads research and innovation initiatives that connect academia, industry and public policy, and created the widely used ASecuritySite cryptography education platform.
 
-Photo: [here](https://github.com/billbuchanan/github.io/blob/main/Bill_Buchanan_-0001.jpg)
+## Research leadership and impact
 
-Photo: [here](https://github.com/billbuchanan/github.io/blob/main/Bill_Buchanan_-0003.jpg)
+Bill's research and innovation activities include leadership and involvement in:
 
-Headshot: [here](https://github.com/billbuchanan/github.io/blob/main/headshot01.png)
+- The [Scottish Centre of Excellence in Digital Trust and DLT](https://coetrust.com/), supporting collaboration between academia and industry on trusted digital systems.
+- The [Blockpass Identity Lab](https://identity-lab.blockpass.org/), focused on digital identity and privacy-enhancing cryptography.
+- Edinburgh Napier University's cybersecurity research and education initiatives, including work associated with the National Cyber Security Centre's Academic Centre of Excellence in Cyber Security Education recognition.
+- Research programmes involving cryptographic protocols, privacy-aware systems, blockchain and distributed-ledger technologies, homomorphic encryption and zero-knowledge proofs.
+- Engagement with government, policy, industry and professional communities on cybersecurity and digital trust.
 
-Headshot: [here](https://github.com/billbuchanan/github.io/blob/main/headshot02.png)
+### Research themes
 
-### 1.2 Research Impact and Leadership
+**Applied cryptography and cryptographic engineering.** Secure implementation and evaluation of public-key and symmetric cryptographic techniques, protocols, authentication, signatures and key management.
 
-Bill has secured more than £10 million in research funding and over £5 million as PI. This includes being the Director of the Scottish Centre of Excellence in Digital Trust and DLT, and which is a partnership with the University of Edinburgh and the University of Glasgow, and funded by Scottish Enterprise. One of his most recent achievements is the creation of a Blockpass Identity Lab, which is one of the first of its type in the world. This lab has significant industry funding. 
+**Post-quantum security.** Migration to quantum-resistant public-key algorithms, cryptographic agility, and the resilience of long-lived digital systems and financial infrastructures.
 
-Bill’s work has led to many areas of impact, including three highly successful spin-out companies (Zonefox, Symphonic Software and Cyan Forensics), as well as awards for excellence in knowledge transfer and teaching. Bill recently received an ”Outstanding Contribution to Knowledge Exchange” award, and was included in the FutureScot "Top 50 Scottish Tech People Who Are Changing The World”.
+**Digital identity and privacy.** Privacy-enhancing computation, selective disclosure, zero-knowledge proofs, homomorphic encryption and responsible use of sensitive data.
 
-In Unit of Assessment 11 (Computer Science and Informatics) within REF 2021, Bill led two research impact case studies: "Enabling Sensitive Personal Data to be Shared with Trust using Novel Digital Security Methods", and "Protecting Employees, Children and Sensitive Data using Innovative Approaches to Cyber Security". Both of these impact case studies were graded as 4* (the highest grading - and "outstanding in their impact").
+**Digital trust and distributed ledgers.** Security and trust models for tokenisation, digital assets, settlement infrastructures and cross-organisational systems.
 
-Within the Blockpass ID Lab, Bill leads a team which focuses on areas of digital identity and cryptography and which hosts a number of research projects, including two EU projects (GLASS and TRUSTEE), and three KTP projects (Acub.IT, MIRACL and Democracy Counts). Current work includes the integration of homomorphic encryption and ZKP (Zero Knowledge Proofs) into privacy-aware systems and with a special focus on the rights of citizens to privacy. A key focus of Bill’s work is around industry collaborations, which now include four co-funded PhD studentship collaborations with an industrial partner. Overall, Bill has supervised over 40 PhD students to successful completion. 
+**Digital forensics and cyber resilience.** Methods and tools for detecting cyber threats, protecting information and supporting digital investigations.
 
-### 1.3 Teaching and Engagement
+### Research outputs and funding
 
-Bill has created one of the most extensive cryptography websites in the world: https://asecuritysite.com. This has over four million unique users and 24 million accesses per year, and contains more than 22,000 unique web pages.
+The [existing profile repository](https://github.com/billbuchanan/github.io/) reports:
 
-He also runs a World Leaders in Cryptography podcast, which has featured many world leaders in cryptography. This includes Whitfield Diffie (co-inventor of the Diffie-Hellman method), Marty Hellman (co-inventor of the Diffie-Hellman method), Len Adleman (co-inventor of the RSA method), Victor S Miller (co-inventor of ECC), Neal Koblitz (co-inventor of ECC), and Ralph Merkle (co-inventor of public key cryptography)
+- More than **350 research papers** and **31 academic books**.
+- More than **£10 million in research funding**, including over **£5 million as principal investigator**.
+- Contributions as a co-inventor to **at least 24 patent filings or grants**, across several patent families.
+- Supervision of **more than 40 doctoral researchers** to successful completion.
+- Inclusion in the Stanford/Elsevier **Top 2% Scientists** database.
 
-He was also included in the FutureScot “50 Scottish Tech People Who Are Changing The World". In 2017 and 2024, he received the "Cyber Evangelist of the Year" award at the Scottish Cybersecurity Awards.
+These are profile-reported figures, not independently recalculated live totals. For current citation counts and publication records, consult [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ), [ORCID](https://orcid.org/0000-0003-0809-3523) and the [institutional research repository](https://napier-repository.worktribe.com/person/110736/bill-buchanan).
 
-His lectures are online at http://youtube.com/billatnapier, and have over 1,000 online lectures, with around 17K subscribers, with more than 2.8 million views. Along with this, he created one of the most extensive online environments for schools in Scotland, and which has over 120K registered users (http://brightredbooks.net) and over one million test questions taken.
+### Commercialisation and innovation
 
-Bill has won student-voted awards for teaching excellence in 2011, 2014, 2015, 2019, 2020 and 2023. He was the PI on the Trust4Futures programme, and which is funded by EIT Digital. This has resulted in nearly 1,000 registered trainees, and which over 55% are female.
+His research and collaborations have contributed to several cybersecurity ventures, including:
 
-Bill integrates with a wide range of UK and Scottish government activities, including giving evidence of the Digital Assets Bill in the Scottish Parliament, and, in 2026, being elected to the DSIT College of Experts.
+| Venture | Area | Notable outcome or contribution |
+| --- | --- | --- |
+| **Zonefox** | Insider-threat and user-behaviour monitoring | Acquired by Fortinet in 2018 |
+| **Symphonic** | Policy-based authorisation and access control | Acquired by Ping Identity in 2020 |
+| **Cyacomb** (formerly Cyan Forensics) | Digital forensics and harmful-content detection | Research-led commercialisation |
+| **MemCrypt** | Discovery of encryption keys in computer memory | Research and spin-out support |
+| **LastingAsset** | Digital trust and security | Identified in Edinburgh Napier University's 2026 coverage of innovation activity |
 
+These organisations reflect different forms of research collaboration and support; this table does not imply that Bill individually founded or owned each business.
 
-### 1.4 Patents and inventions
+## Awards and recognition
 
-Bill is the co-inventor on at least 24 patents, with multiple UK, European, US and worldwide patent filings/grants: WO2026/176072, WO2010029346A1, US20120011153A1, US8887274B2, US20140201804A1, US9043867B2, WO2014108678A1, GB2525119A, US20170005797A1, US11991279B2, EP3317998B1, GB2561176A/B, WO2018185456A1, US11601403B2, CA3059014A1 GB2561177B, WO2018185455A1, EP3607467B1, US11762959B2, US12693994B2, CA3059013A1, ES3040473T3, US20240152616A1 and US11984203B1.
+| Year | Honour or recognition |
+| --- | --- |
+| **2026** | Appointed to the [DSIT College of Experts](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts) |
+| **2026** | Winner, special 10th Anniversary **Cybersecurity Veteran Award**, [Computing Security Excellence Awards](https://www.computing.co.uk/event/2026/all-the-winners-security-excellence-awards-2026) |
+| **2026** | Included in [Computing's Top 100 IT Leaders](https://www.computing.co.uk/leaders-100-2026) |
+| **2025** | **Scottish Cyber Evangelist of the Year**, as recorded in the repository's detailed awards chronology and the Scottish Centre of Excellence profile |
+| **2024** | Elected [Fellow of the Royal Society of Edinburgh (FRSE)](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/) |
+| **2023** | [Most Innovative Teacher of the Year](https://www.timeshighereducation.com/news/awards-2023-winners-announced), Times Higher Education Awards |
+| **2018** | Principal Fellow of Advance HE (PFHEA) |
+| **2017** | [Officer of the Order of the British Empire (OBE)](https://www.napier.ac.uk/about-us/news/honours17), for services to cybersecurity |
+| **2016** | Scottish Cyber Evangelist of the Year |
 
-These can be grouped into at least eight patent areas:
+Bill has also received multiple student-voted awards for excellence in teaching at Edinburgh Napier University and recognition for knowledge exchange and wider engagement.
 
-* Digital DNA / insider-threat detection.
-* Information Sharing - Policy-based access control.
-* Improvements in or relating to Digital Forensics.
-* System and Method for Management of Confidential Data.
-* Method for Identification of Digital Content.
-* Resilient Secret Sharing Cloud-Based Architecture for Data Vault.
-* Detection of Ransomware.
-* Privacy-aware DNA systems.
+> **Editorial note:** Older sections of the source repository give conflicting years for the Scottish Cyber Evangelist award (2024 versus 2025). This refreshed summary uses 2016 and 2025, supported by the detailed awards chronology and the Centre of Excellence biography. Verify against the original award organiser if an authoritative complete award record is required.
 
-### 1.6 Key highlights
+## Teaching and public engagement
 
-* OBE for services to Cybersecurity (the first ever to be awarded for Cybersecurity).
-* Led research for the creation of three highly successful spin-out companies (Zonefox - acquired by Fortinet, Symphonic - acquired by Ping ID, and Cyacomb - an international leader in Digital Forensics).
-Featured in Stanford University’s global “Top 2% Scientists”.
-* Winner of the special 10th anniversary Security Veteran Award at the Computing Security Excellence Awards.
-* Elected to the DSIT College of Experts.
-* Computing Top 100 leaders in IT in 2026 (https://www.computing.co.uk/leaders-100-2026).
-* Awarded Fellowship of the Royal Society of Edinburgh (RSE).
-* Winner of Scottish Cyber Evangelist of the Year, 2016 and 2024.
-* Principal Fellow of Advance HE = the highest level of Fellowship in the HEA.
-* Gained more than £10 million in research funding and over £5 million as PI. 
-* Supervised 41 PhD students to successful completion.
-* Examiner for 30 PhD examinations (19 external and 11 ENU).
-* Creator of Asecuritysite.com. One of the most extensive online sites for cryptography/cybersecurity education in the world and has over 24 million accesses and around 1.2 million unique users per year.
-* Winner of six Edinburgh Napier University student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and a number of “Highly Commended” awards (including 2024 and 2025).
-* Creator of vSoC. This is one of the most extensive virtualised platforms for Cybersecurity education within Higher Education and supports 1,000s of students around the world.
-* Writer of 30 academic books, including ones related to cryptography and network forensics.
-* Awarded an Outstanding Contribution to Knowledge Exchange award.
-* Defined in "Top 50 Scottish Tech People Who Are Changing The World".
-* Extensive social media engagement. Nearly 2,500 blog posts on Medium related to Cybersecurity (with over 1.5 million reads). Also around 1,000 YouTube videos related to Cybersecurity (with over 2 million views), and an audio Podcast.
-* Chair, Digital Forensics Conference 2027 EU (formerly known as DFRWS). [here](https://dfrws.org/conferences/dfceurope2027/).  
+Bill is committed to making complex cryptographic and cybersecurity concepts accessible to students, practitioners and the public.
 
-
-### 1.7 Tagline
-
-Bill lives and works in Edinburgh and is a believer in fairness, justice, and freedom. His social media tagline reflects his strong belief in changing the world for the better: "A Serial Innovator. An Old World Breaker. A New World Creator." He also has a strong belief in the power of education and in supporting innovation from every angle.
-
-### 1.8 References
-
-* Wikipedia: [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist))
-* Google Scholar: [here](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ)
-* ResearchGate: [here](https://www.researchgate.net/profile/William-Buchanan-3)
-* ORCID: [here](https://orcid.org/0000-0003-0809-3523)
-* ArXiv: [here](https://arxiv.org/search/cs?searchtype=author&query=Buchanan%2C+W+J)
-* DBLP: [here](https://dblp.org/pid/04/5266.html)
-* YouTube: [here](https://youtube.com/billbuchanan)
-* LinkedIn: [here](https://www.linkedin.com/in/billatnapier/)
-* Website: [here](https://asecuritysite.com)
-* Podcast: [here](https://open.spotify.com/show/3SX5sY2PqQowc3aA6xGoVO?si=50787c01ec8944b4)
-* Photo: [here](https://innovationhub.napier.ac.uk/-/media/project/napier/news/bill-buchanan-500.ashx?h=500&w=500&la=en&hash=74F00F2504F7F6BD090F354D4DA70E9E).
-* Royal Society of Edinburgh: [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
-* ResearchAD: [here](https://adscientificindex.com/scientist/bill-buchanan/1344091/).
-
-## 2 Media Details
-### 2.1 ASecuritySite
-I have developed the ASecuritySite.com site, and which contains many examples of cryptographic methods and implementations: [here](https://asecuritysite.com). 
-
-### 2.2 ENS identity
-My ENS identity is [here](https://app.ens.domains/billbuchanan.eth).
-
-### 2.3 YouTube
-My YouTube videos are [here](https://www.youtube.com/billbuchanan).
-
-### 2.4 Grokopedia
-My Grokipedia page is [here](https://grokipedia.com/page/bill_buchanan_computer_scientist)
-
-### 2.5 Wikipedia
-My Wikipedia page is [here](https://en.wikipedia.org/wiki/Bill_Buchanan_(computer_scientist)).
-
-### 2.6 LinkedIn
-My LinkedIn profile is [here](https://www.linkedin.com/in/billatnapier/).
-
-### 2.7 Twitter
-My Twitter page is [here](https://twitter.com/billatnapier).
-
-### 2.8 Blog posts
-My blog pages are [here](https://medium.com/asecuritysite-when-bob-met-alice). 
-
-### 2.9 University research pages
-My research pages are [here](https://napier-repository.worktribe.com/person/110736/bill-buchanan).
-
-### 2.10 Instagram
-My Instagram pages are [here](https://www.instagram.com/billatnapier).
-
-### 2.11 Scottish Centre of Excellence in Digital Trust and DLT
-The Scottish Centre of Excellence in Digital Trust and DLT is [here](https://coetrust.com/).
-
-### 2.12 World-leaders in Cryptography
-My World-leaders in cryptography podcast is [here](https://asecuritysite.com/interviews)
-
-## 3 My public key
-My public key is:
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mQINBGAtkzYBEACkIejC2VRgZQ9uWwDlgdwtzNb6zQ3TPk6hU604XB+8eYAhM8q7
-+u19vbnKQfT+asaunJO6VGdTAyUwJqYAnQAguAMOJpYcMVfLFdFkxmJ/WHssxtZN
-Y5Y0uJ8w5jQhPhBTN0CIFBgcM95gUxADbIDZoxhL8PcCz7C/d9a1AItZLg/QWkXp
-k0sQdvM+ki3kCoa7cVF499NgXNmkdUIdbFxR/l6nhMO0y8ZC5rc1GVTVKeKmFjZ5
-obPKv9Gzrg0hFqe8v0M2UkdVDUhQxRPhvofhKuATF3oTVjCpdsiAnoE5ym4TKYS6
-nnJykQnDdk0sLjjDy3ypfPXzSj4guJRi46AtYi/gsKNob52va3kdXjf/ZrRP4+PS
-N6ODYP0VBaCQ58KGYIzjNWXwB2U8dk/WFLAL5kvj0jEIr0DzJyxaW3kZ6XXQlHTB
-Um+PFd3h6nPSXq/7f69y3Wdlda4WeJSXXk2MUzVdlOlQIJxtyt4z/o2zi0cYqgP6
-ZBLu9T8rhJY447sTiZx/8eDCdhGLtkMkqS8vxxpbonRKaog1hJ0cYKO13QmsudSp
-n/23cO7gdIWMzGxYW5MFiHmNLo/9vCWbQPhM07Z+lunTlZIHVDGbjpfeNuJKU+uZ
-NtUhec+rOcf+Fl2Wh8PTOy0J13sEgJLf8w4SOlPR8wWkEuu0uC26fm1MRQARAQAB
-tCdCaWxsIEJ1Y2hhbmFuIDxCLkJ1Y2hhbmFuQG5hcGllci5hYy51az6JAlQEEwEI
-AD4CGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AWIQSIFvygLS/JJTJT9vZIquNs
-qTrj2AUCZ7MoYgUJDTJqJgAKCRBIquNsqTrj2NTAEACYQNG9cY37izksv3+YkrgA
-hq7aIoECCFQ8vg+dDRRhXWFsDJ7XOc/w8o4y4TyPoMPSz7p+SpU0af6Xvn/j+Zu7
-U0ZXLQGBkfkl6enddHOIi34gy9QdpKtxSWvHrLT1c+keyUP5wVotnqrebJnNqTQc
-iIQcB0G8iw0TC3nIIv8OdzExmuG3eKcCSNTAEBws5/H9J5d/4YA48IGG7Xw6chE5
-PS/JUqLLEf4EbrJ+VpNBLnWrREmgDiWFNdJEIbfQlZLUwlSVNgwOIuvT6W9BVmQJ
-mGRXj+5mo1/vDIj1mPKWrPs/+avXW7eo8PJc013xODE5XJyocHRD+Bfp8smrG0wG
-/MxONrtL6IVTEzmwMFDwD+XSjMZpCrXqscDyoAqU92Eqlkaf8dqWmcMNtU5UU+HT
-hZBcs2uTB2P30/2O9LU1e64gHoLJBSQLEYh5dFRkIgQOCr/pjLCCAKg3oQflt36X
-wRj/RLcj1eoARNbeNOoN1yAnlTYUxTxY3Pdgs/O15bcD0DYUAKrRNsXzHuPeKU6X
-2A7UeqbIbNqfV/yyJaxT0B7NZlZ2X0+LBNg1+euhawfcNxlZZTnP04lX85dL9nnE
-5YbW5GUYRgo3N1AiqsvQrZ45Qd9DOmIiMw6WhtaJ3Lhve6imrPS0H6y+U09q/RPQ
-Y5dG8XrrUVTQGtkDzpvOybkCDQRgLZM2ARAAsfxQeEZirG6H6zhKSlPRhnVqUIQA
-F5LSnCaIdjPxVtO1y6GESwT3vkRcNqEaCSFh4cMKeLZjYPWAuqriKVmPBvp8TBQa
-YTLcBZRBBCYeqVYdklDDChW8xcrWzIYs5vHOhnHklEZGsnGkpV8zScJIG3iKqINp
-5i3SjnUKBooDR0dKHcv3mA3BHm6HBR9EqVMoTq42ssPypOtB3jHFPB9mxzIHOCrc
-U851IRMhRxiIFFPldFQNeucNWCTAmiBFBAZmW5sOjfeOvWd0R7iPatdqK+0QeBx+
-MbeIEYNBfoLwedMDMszmtGidPhoc3bECzp3JFW6VTetvb/84eO/WdZXtOectMVJP
-QXcyfzu0OMqWNV9tOHxsCXUY1tvJWYm+AiTuSbyuJv6UI/LyfbqDBYX2yNHw1iTY
-HIjjk02RER9R4Wk0PdLxQlb7r5zwNOIM5mz7202BunB0e4qLbpH2tp9zLxrUxc8r
-XqvSmTRv6NE95gPvagWORVnIe96Ag6kRA/ifstZQEldlB7LLWetpmDLj+wcdXMur
-qHiPUJxg9vdZ939P/1AXM2iSLYp76VR0NR3WnavOwv8xLkGn0sYXBOKOMh8AGvUT
-oAjFGfCIAlAw7ZcXyfbtgpmBnVCcQKu7Ft7x/L5Wh5XCeHJa4eih09I4d248yDr+
-rB4ZBqbjh/b1IX0AEQEAAYkCPAQYAQgAJgIbDBYhBIgW/KAtL8klMlP29kiq42yp
-OuPYBQJpkiMNBQkNJvbXAAoJEEiq42ypOuPY0uwP/0ktvm/tu3JukW5rzTzOM1I/
-ouPUXwc1HxqvgCX0ER94POvnQZcpZFMqbLa4c452EXXmfCJaO+cpju/gfO/xG1OL
-bnHArjWMVdw0ylv1d6XcQbnO4n5aryvEeiBhkan1NiFL31zkYIUiQvnwpbaUeSJy
-rlvkCjkQw7vkZmS05SETw8akG69OEtR2sayH6BTTedW7Q4mSse1fUh9ZY4ZzXcuV
-cWwhrz/O22TuDWirPJIQCGvg1sr2/4bltvytumePjsEg9Opnz/KoMF8Hczo5md48
-LHhflKIE5K5kPYCBIcfDVLGy9GVHnZfggtQjHlAppX1dffG1ioQGdtqViKYaPEpb
-MP3VqQ3r00B8EbSyLOZOHSlFiVQp5Yy5YAQsV0R3oMVYeKbsI0/3DUmibt/THsss
-wbWPcrN8UM2SBXftqqS5fYME88EUAvQNeHbPj+m5OkUNv/y2wMzf+/Hgdy126Qrq
-rN4db8hGLxgd4SOsPLMUX0+dEFH0VjG5zdFVK0mXmpkN9vQ3DdbGCbj1rDB/Iauf
-VlKvmCVqBr2CXHzArIyWq8QD5Xi7Vg0QbIUeKBub0zww1wklp6SI1Lx9konR7Nac
-QT0zCNbOVXVj9ePV9y2Z/plXdGCbfmDJEfXSShOfKt0ueHwf2v8XD62QO0PfHo2S
-GrajGphBVP2otUVrrhnb
-=hitL
------END PGP PUBLIC KEY BLOCK-----
-
-```
-## 4 Awards
-### Highlights
-The following are a range of awards:
-
-* Year 2026. One of the 71 experts that are part of the DSIT (Department of Science, Innovation and Technology) College of Experts [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
-* Year 2026. Included in Computing Top 100 IT Leaders in the UK [here](https://www.computing.co.uk/leaders-100-2026?page=1).
-* Year 2026. Winner, Special 10th Anniversary Security Veteran Award at Computing Security Excellence Awards 2026 [here](https://www.computing.co.uk/event/2026/all-the-winners-security-excellence-awards-2026).
-* Year 2026. Top 200 cybersecurity creators [here](https://www.linkedin.com/posts/kimmorousku_favikontop200creatorsworldwidecybersecurity-activity-7431811825660403714-HDVm/)
-* Year 2026. Top 25 Quantum Security Experts [here](https://quantumsecurity25.com/quantum-security-25-winners/).
-* Year 2025. Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
-* Year 2025. Top 2% of scientists in citations for the past four years. 2025 Single year and Career [here](https://topresearcherslist.com/Home/Profile/868890).
-* Year 2024. Awarded a Fellowship of the Royal Society of Edinburgh [here](https://rse.org.uk/eminent-cultural-and-scientific-figures-named-as-rse-fellows/).
-* Year 2023. Received the "Most Innovative Teacher of the Year" award at the Times Higher Education Awards 2023 [here](https://www.timeshighereducation.com/news/awards-2023-winners-announced).
-* Year 2018. Awarded a Principal Fellow of the HEA. Fellowship reference: PR147481 Date: 20/06/2018 [here](https://1drv.ms/b/c/65c21eaa8741eed2/IQBriOlHNOGlQarcgT5_56nAAb-Yv861xs08zBRjwREE6js?e=PxQKfH). 
-* Year 2017. Received an OBE for services to cyber security [here](https://www.napier.ac.uk/about-us/news/honours17).
-* Year 2016. Winner of Cyber Evangelist of the Year at the Scottish Cybersecurity Awards.
-* Year 2016. Included in "The Digital List: 50 people from various areas of Scotland's technology industries who are changing the world" [here](https://futurescot.com/the-digital-list/).
-* Year 2015. Named in the "50 most influential UK higher education professionals on social media" [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
-* Year 2015. Led a cipher cracking team to win the Universally Challenged competition [here](https://www.deadlinenews.co.uk/2015/03/12/69343/).
-* Awarded an Outstanding Contribution to Knowledge Exchange award.
-* Winner of six student-voted awards for excellence in teaching (2011, 2014, 2015, 2019, 2020 and 2023), and Highly Commended (2024 and 2025).
-
-### 4.1 Awards and recognition
-
-* 2003	Finalist, KTP of the Year with Seven Layer Communications.
-* 2004	KTP of the Year and Grade 1 Certificate of Excellence with Cànan Ltd.
-* 2011	Best Lecturer/Tutor, School of Computing, Edinburgh Napier University.
-* 2014	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
-* 2015	Best Lecturer/Tutor, School of Computing	Teaching	Yes	Student-voted Excellence Award. 
-* 2015	Named among the 50 most influential UK higher-education professionals on social media. [here](https://www.timeshighereducation.com/features/50-most-influential-uk-higher-education-professionals-social-media).
-* 2015	Winning team, Universally Challenged cipher-cracking competition.
-* 2016	Cyber Evangelist of the Year, inaugural Scottish Cyber Awards. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
-* 2016	Included in The Digital List – 50 Scottish technology people changing the world. [here](https://futurescot.com/the-digital-list/).
-* 2016	Award-winning collaborative cyber project with Police Scotland	Knowledge exchange. [here](https://www.holyroodpr.co.uk/sbrc-cyber-awards/). [here](https://www.napier.ac.uk/about-us/news/cyberawards).
-* 2017	Officer of the Order of the British Empire – OBE	Cybersecurity/Public service. [here](https://www.napier.ac.uk/about-us/news/honours17/).
-* 2017	Innovation of the Year, Scottish Knowledge Exchange Awards, for ADeCA	Research.
-* 2018	Outstanding Contribution to Knowledge Exchange, Scottish Knowledge Exchange Awards. [here](https://www.napier.ac.uk/About%20Us/News/KnowledgeExchangeAwards2018).
-* 2018	Ranked #14 in IFSEC Global Influencers in Cybersecurity. [here](https://www.ifsecglobal.com/global/ifsec-global-influencers-2018-cybersecurity/).
-* 2019	Best Lecturer/Tutor, School of Computing.
-* 2020	Best Lecturer/Tutor, School of Computing. [here](https://www.youtube.com/watch?v=OIBYxRnvlpE).
-* 2020	Innovation of the Year, Scottish Knowledge Exchange Awards, for ARMED / e-frailty work. [here](https://www.napier.ac.uk/About%20Us/News/Knowledge%20Exchange%202020).
-* 2021	Best Paper Award, 14th International Conference on Security of Information and Networks (SIN 2021)	Research	Co-author	For PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 
-* 2021	Leading Light Innovation Award, Scottish Cyber Awards, for MemCrypt-related research. [here](https://researchrepository.napier.ac.uk/about-us/news/scottish-cyber-awards-2021).
-* 2022	Leading Light Innovation Award, Scottish Cyber Awards, for GLASS	Research. [here](https://www.napier.ac.uk/About%20Us/News/Triple%20success%20for%20Edinburgh%20Napier%20University%20at%20Scottish%20Cyber%20Awards).
-* 2023	Most Innovative Teacher of the Year, Times Higher Education Awards. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-2023-the-awards-win).
-* 2023	Best Lecturer/Tutor, School of Computing	Teaching. [here](https://www.youtube.com/watch?v=LGn_GbqZIGI).
-* 2024	Elected Fellow of the Royal Society of Edinburgh – FRSE. [here](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/).
-* 2024	Highly Commended, student teaching awards.
-* 2025	Cyber Evangelist of the Year, Scottish Cyber Awards. [here](https://www.digit.fyi/winners-announced-for-the-2025-scottish-cyber-awards/).
-* 2025	Highly Commended, student teaching awards.
-* 2025	Included in Stanford/Elsevier Top 2% Scientists database	Research recognition. [here](https://topresearcherslist.com/Home/Profile/868890).
-* 2026	10th Anniversary Security Veteran Award. [here](https://www.napier.ac.uk/about-us/news/cybersecurity-awards-double-aimie-grant-bill-buchanan-2026).
-* 2026	Selected for the DSIT College of Experts. [here](https://www.napier.ac.uk/about-us/news/bill-buchanan-dsit-college-of-experts).
-* 2026	Included in Computing Top 100 IT Leaders in the UK [here](https://www.computing.co.uk/leaders-100-2026?page=1).
-* 2026	Included among Top 25 Quantum Security Experts. [here](https://quantumsecurity25.com/about/introducing-quantum-security-25/).
-* 2026	Included among Top 200 cybersecurity creators. [here](https://www.linkedin.com/pulse/list-top-200-cybersecurity-professionals-you-should-follow-santos-amnff/)
-
-## 5 Invited talks
-The following are a sample of recent invited talks:
-
-* 24 Feb 2026. Endnote talk at Cybersecurity 2026, Glasgow.
-* 12 Feb 2026. Keynote talk at NI-Blockchain [here](https://ni-blockchain.com/).
-* 26 Jan 2026. RSSA Lecture to Fellows and Guests of the Royal Scottish Society of Arts [here](https://rssa.org.uk/20260126.shtml).
-* 21 Oct 2025. In London, the Bank of England and the BIS Innovation Hub London Centre hosted the DLT Innovation Challenge, an initiative exploring how central bank money could be securely settled on distributed ledgers not operated by the central bank. This included a partnership between the Scottish Centre of Excellence in Digital Trust and DLT and Nethermind. This collaboration marks another step in the dialogue between engineers and central bankers on how verifiable infrastructure can enhance trust and efficiency in financial markets. We look forward to continuing this important conversation [here](https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge).
-* 7 Oct 2025. Privacy-Aware Computation: FHE, ZKP and MPC at OpenSSL 2025 in Prague. OpenSSL 2025 is one of the most significant conferences in the world on cryptography, and includes many of the international leaders in cryptography. The rise of GenAI will see an ever-increasing amount of data being gathered from citizens, both for the training of machine learning models and in the processing of PII (Personally Identifiable Information). Unfortunately, the data gathering and processing infrastructures that we have often pay little attention to the privacy of the data gathered. This presentation outlines both the theoretical and practical aspects of building a privacy-aware data gathering and processing infrastructure using Fully Homomorphic Encryption (FHE), Zero Knowledge Proofs (ZKPs) and MPC (Multi-party Computation) [here](https://www.youtube.com/watch?v=ZU8Kvc8YTV4).
-* 11 Sept 2025. Invited talk at AI & Cloud Innovation Summit Scotland 2025. The use of GenAI and Agentic AI has completely changed the landscape of cybersecurity. This presentation will provide practical examples of how organisations can use GenAI within Cloud-based systems to parse, index and process data, and thus break down siloes of data. It will also outline the core weaknesses for GenAI and the mechanisms that organisations can put in place to identify and mitigate these issues [here](https://events.holyrood.com/event/ai-cloud-innovation-summit/#event-schedule-collapse-648887).
-* 15 May 2025. Endnote talk at EIE 2025. This outlined how the Scottish ecosystem has supported a range of university spin-outs and discussed cutting-edge developments in cybersecurity, AI and cryptography and their potential impact on Scotland’s tech ecosystem [here](https://www.eie-invest.com/speakers/bill-buchanan).
-
-## 6 Conferences organised
-The following are recently organised conferences:
-
-* 23 Oct 2025. International Conference On Digital Identity, Digital Wallets And AI. Our groundbreaking Conference brought together leading innovators, policymakers, and visionaries who are redefining how we think about identity, trust, and finance. Digital Identity is no longer an emerging technology – it’s the backbone of tomorrow’s digital systems. From the EU’s revolutionary implementation of e-ID and e-IDAS2, to the UK’s plans for increased use of digital ID, we’re witnessing a shift in how trust, security, and commerce intersect. This is your exclusive opportunity to hear directly from the visionaries and technical pioneers who are architecting these transformative systems. Explore strategic roadmaps, breakthrough innovations, and gain insider access to the minds shaping the future of digital trust [here](https://coetrust.com/events-digital-id-23-oct/).
-
-
-## 7 Research projects
-The following are a range of research projects:
-
-* Privacy- and Consent-aware Data Sharing with Machine Learning Aug 1, 2024 - Aug 31, 2025
-* Data Sharing in Highly Secure Environments Nov 4, 2024 - May 3, 2027
-* Trusted Threat Sharing and Privacy Preserving using LLMs Apr 1, 2024 - May 31, 2024
-* TRUST: Centre of Excellence in Distributed Ledger Technologies Jan 6, 2025 - Aug 31, 2027
-* Information Security Conference & Privacy Conference 2024 Jul 1, 2023 - Jun 30, 2025
-* TrustShare: Privacy-Preserving And Trusted Threat Intelligence Sharing Using Distributed Ledgers May 9, 2023 - Sep 8, 2024
-* TrueDeploy - CyberASAP 2023-2024 - Phase 1 May 9, 2023 - Sep 8, 2023
-* PhD Studentship (Homomorphic Encryption) Oct 1, 2023 - Sep 30, 2026
-* TruElect Oct 9, 2023 - Oct 8, 2025
-* TruElect Dec 1, 2022 - Mar 31, 2023
-* LastingAsset: Crypto assets custodial solution Sep 26, 2022 - Feb 28, 2023
-* Smart Contract based Reward Scheme Oct 1, 2022 - Jan 31, 2023
-* TrueDeploy - Scottish Enterprise HGSP Company Creation Aug 1, 2022 - Mar 15, 2025
-* Behaviour profiling using Touch-based Behavioural Biometrics for Continuous Authentication Systems May 9, 2022 - Jul 31, 2022
-* TrueDeploy - CyberASAP Phase 1 Apr 1, 2022 - Jul 31, 2022
-* Innovative Distributed Platform for Educational Content Jan 15, 2022 - Jun 30, 2022
-* TRUST AND PRIVACY PRESERVING COMPUTING PLATFORM FOR CROSSBORDER FEDERATION OF PERSONAL DATA Jul 1, 2022 - Dec 31, 2025
-* Consensus-based Blockchain File Versioning Jun 1, 2021 - Sep 30, 2021
-* MEMCRYPT CyberASAP Phase 2 Sep 23, 2020 - Feb 28, 2021
-* Memcrypt (HGSP) Sep 15, 2020 - Mar 31, 2021
-* Cyber Hunt May 1, 2022 - Apr 30, 2025
-* MemCrypt Apr 1, 2020 - Jul 31, 2020
-* OPTIMSING U>P Security and Anonymised Data Cloud Analysis for Duty of Care and Business Continuity Sep 7, 2020 - Jun 30, 2021
-* AI-based privacy-preserving biometric authentication with mass-market smart devices Oct 1, 2021 - Sep 30, 2024
-* Cryptodoc Jun 1, 2019 - Sep 30, 2019
-* COG-MHEAR: Towards cognitively-inspired, 5G-IoT enabled multi-modal hearing aids Mar 1, 2021 - Feb 28, 2026
-* Internet Search Improved By User-side Data Sep 1, 2019 - Jun 30, 2020
-* MemoryCrypt Sep 1, 2019 - Feb 29, 2020
-* Freemove Innovation Voucher May 1, 2019 - Aug 31, 2020
-* Shared Secret Steganography for Usable Mnemonic Based Security Mar 1, 2019 - Apr 30, 2020
-* Kippitech: Innovation Voucher for Incentivising Green Behaviour with Tokens Dec 1, 2018 - Mar 31, 2019
-* Next Generation Connectivity with Health and Well-being Oct 1, 2018 - Jul 2, 2021
-* Hypervine: Innovation Voucher Construction Site Safety Enhancement Aug 1, 2018 - Nov 30, 2018
-* Eyecademy: Innovation Voucher for Food Provenance Aug 1, 2018 - Nov 30, 2018
-* Trisent: Innovation Voucher for Personal Context Data Project Feb 1, 2018 - Jun 30, 2018
-* Next Generation Trust Architecture Mar 1, 2018 - Feb 29, 2020
-* Virtualised Security Operations Centre (vSoC) KTP Sep 1, 2017 - Aug 31, 2019
-* IoT Hardware Security Test Framework Nov 1, 2017 - Oct 31, 2018
-* Health Blockchain Aug 1, 2017 - Mar 31, 2019
-* e-Frail - Phase 2 Aug 1, 2017 - Feb 28, 2018
-* Payfont - PhD sponsorship - Sep 1, 2016 - Aug 31, 2018
-* e-FRAIL - Early detection of FRAilty and Illness Oct 1, 2015 - Dec 31, 2016
-* KTP Payfont Ltd Jul 1, 2015 - Jun 30, 2017
-* Fragment Finder Mar 27, 2015 - Jan 18, 2016
-* Seven Layer Communications Ltd May 1, 2000 - Apr 30, 2002
-* DigitalDNA Sep 1, 2008 - Aug 31, 2010
-* Callendar Estate Apr 1, 2010 - Sep 30, 2010
-* Fibrehub Europe Ltd Jun 1, 2003 - Jul 31, 2005
-* Canan Jan 1, 2005 - Jul 31, 2005
-* Digital forensic Toolkit Dec 10, 2007 - Dec 1, 2008
-* Flexiant Ltd, Innovation voucher Aug 1, 2011 - Jan 31, 2012
-* RATTRAP (Guardian Toolkit) Nov 1, 2011 - Feb 10, 2013
-* sa.Fire Mar 5, 2012 - Oct 31, 2013
-* Information Sharing between Police and Community Partners Dec 1, 2011 - Feb 29, 2012
-* Audit/Compliance Integration Jan 9, 2012 - Apr 30, 2012
-* Cloud-based Cash-flow Project Jan 16, 2012 - May 31, 2012
-* Integration of Stimulating and Engaging Education Assessments Jul 1, 2012 - Dec 31, 2012
-* Social Media Analysis Reporting Tool (SMART) Jun 1, 2012 - Mar 31, 2013
-* Innovation and Integrated Learning Environment for Engaging and Ever-changing Educational Content Jan 21, 2013 - Jul 31, 2014
-* MiiCard Mar 1, 2013 - Oct 1, 2013
-* HighlandBirchwoods Jan 21, 2013 - Aug 31, 2013
-* CM2000 Aug 1, 2013 - Mar 1, 2014
-* SHEDFINDERS Jan 21, 2013 - May 31, 2013
-* IPv6 Business Case Demonstrators for Farrpoint Mar 8, 2013 - Nov 30, 2013
-* CM2000 Follow On Apr 7, 2014 - Dec 31, 2014
-* Payfont, innovation voucher Aug 1, 2013 - Jan 31, 2015
-* Development of e-commerce capability of Solution Management Jun 1, 2008 - Feb 28, 2009
-* Bare Metal Forensics - Pattern Analysis Heuristics - Data Analysis Jan 15, 2016 - Jan 31, 2017
-* Project Quaisten Jun 1, 2014 - Aug 1, 2015
-* Information Sharing between the Police and their Community Partners Sep 1, 2008 - Oct 30, 2011
-* IMP Jan 1, 2014 - Jul 16, 2014
-* QMAX Oct 1, 2005 - Jul 31, 2009
-* AyeCan Mar 1, 2014 - Aug 31, 2014
-* First August - Real-time Cyber Tracking and Risk Assessment Tool May 1, 2013 - Jan 31, 2014
-* Automated Data Extraction from Invoices May 1, 2012 - Jul 31, 2012
-* LPT Productions digital platform development project Aug 1, 2013 - Nov 30, 2013
-* Core Product Development Nov 4, 2011 - Mar 31, 2012
-* Morgan Stanley: Security Analytics for Insider Threat Monitoring Apr 1, 2017 - Nov 30, 2017
-* Bio id Security Jul 31, 2015 - Dec 31, 2015
-* Payment Cards and Mobile Technology May 1, 2015 - Oct 31, 2015
-* Onyu_Secure Apr 1, 2015 - Jul 31, 2015
-* Kulio Education Characters - online platform Mar 15, 2015 - Oct 31, 2015
-* vSOC - Virtualised Security Operations Centre Dec 8, 2015 - Feb 1, 2017
-* Data Capture and Auto Identification Reference Nov 1, 2009 - Nov 1, 2011
-* Scalable and Open Framework for Human/Digital Trust between Informal/Formal Personal Health Care Infrastructures Mar 1, 2011 - Jul 31, 2013
-* The Online Pension Company Ltd Aug 8, 2011 - Jan 31, 2012
-* e-Health Security Infrastructure Evaluation Jan 1, 2012 - Jun 30, 2012
-
-## 8 MPhil/PhD Completions
-41 PhD completions (mainly as first supervisor):
-
-1. 	Andreas Lang	1994	1999		(2nd supervisor)
-2. 	Vesselin Vassilev	1997	2000	Cellular Automata for Evolvable Hardware (2nd supervisor)
-3. 	Lingli Wang	1997	2001	Automated synthesis and optimisation of multilevel logic circuits	 (2nd supervisor)
-4. 	William Pearson	1997	2001	An expert system for the performance control of rotating machinery	
-5. 	Oliver Lewis	1997	2001	Performance issues of variability design in embedded system application families
-6. 	Dominic Job	1996	2002	Applying case-based reasoning and evolutionary techniques to software reuse
-7. 	Yinshui Xia	2000	2003	Low power design techniques for digital logic circuits	(2nd supervisor)
-8. 	John Pikoulas, 1998	2003,	Software agents and security systems	
-9. 	Chih-Ming Wu	1997	2005	Congestion control and avoidance for ATM networks
-10. Nikos Migas	2002	2005	MARIAN: Mobile Agents for Routing in Ad-Hoc Networks	
-11. Job Obiebi	2002	2006	Adaptive PN code synchronisation in DS-CDMA systems
-12. Abiola Abimbola	2003	2007	NetHost-Sensor: Enhancing Intrusion Detection via an Active Target Host	
-14. Lionel Saliou	2004	2009	Network firewalls dynamic performance evaluation and formalisation	Bill Buchanan
-15. Jamie Graves	2005	2009	Forensic verification of operating system activity via novel data, acquisition and analysis techniques	Bill Buchanan
-16. Zbigniew Kwecka	2006	2011	Cryptographic privacy-preserving enhancement method for investigative data acquisition	Bill Buchanan
-17. Lin Li	2008	2012	Data quality and data cleaning in database applications	Taoxin Peng (2nd supervisor)
-18. Omair Uthmani	2008	2013	Context-aware definition, modelling and implementation for policy-compliant information sharing	Bill Buchanan
-19. Mustafa Bani Khalaf	2010	2013	Dynamic probabilistic routing discovery and broadcast schemes for high mobility ad-hoc networks	Ahmed Al-Dubai (2nd supervisor)
-20. Keshava Grama	2006	2013	Binary matrix for pedestrian tracking in infrared images	Alistair Armitage
-21. Nicole van Deursen (Hazelhoff Roelfze)	2009	2014	HI-Risk: a socio-technical method to identify and monitor heathcare information security risks in the information society	Alistair Duff
-22. Mathew Miehling	2008	2014	Correlation of affiliate performance against web evaluation metrics	Bill Buchanan
-23. Owen Lo	2010	2015	Framework for evaluation of e-health platform and services	Bill Buchanan
-24. Rania Molla	2009	2017	Mobile User Authentication System (MUAS) for e-commerce applications	Imed Romdhani (2nd supervisor)
-25. Philip Penrose	2013	2017	Forensic analysis of large capacity digital storage devices	Bill Buchanan
-26. Marwa Salayma	2014	2018	Reliable and energy efficient scheduling protocols for Wireless Body Area Networks (WBAN) (2nd supervisor)
-27. Solomon Uwagbole	2011	2018	A pattern-driven corpus to predictive analytics in mitigating SQL injection attack
-28. Peter McLaren	2016	2019	Investigations into decrypting live secure traffic in virtual environments
-29. Sean McKeown	2015	2019	Utilising reduced file representations to facilitate fast contraband detection
-30. Elo Ukwandu	2014	2019	RESCUE: Evaluation of a fragmented secret share system in distributed cloud architecture
-31. Grzegorz Spyra	2013	2019	Embedded document security using sticky policies and identity-based encryption
-32. Adrian Smales	2013	2021	Test-bed and evaluation of a home-based adverse event prediction infrastructure
-33. Pavlos Papadopoulos	2019	2022	Privacy-preserving systems around security, trust and identity (2nd supervisor)
-34. Nilupulee Gunathilake	2018	2023	Electromagnetic side-channel resilience against lightweight cryptography (2nd supervisor)
-35. Peter Aaby	2016	2024	Advancing touch-based continuous authentication by automatically extracting user behaviours (2nd supervisor)
-36. Hisham Ali	2021	2024	Privacy-preserving and trusted threat intelligence sharing using distributed ledgers
-37. Simon Davies	2020	2024	Contributions to crypto-ransomware analysis and detection (2nd supervisor)
-38. Adam Hall	2018-2024	Advancements in privacy-enhancing technologies for machine learning
-39. Will Abramson	2018-2021		Identity and identification in an information society: Augmenting formal systems of identification with technological artefacts
-40. Kiran 2022-2026		Blockchain-based Privacy-preserving Cybersecurity Intelligence Sharing
-41. Dimitrios Kasimatis	2023-2026		Digital ID
-
-MPhil completions:
-
-1. 	Steven Cordiner	1997	1998		Abid Almaini
-2. 	Hsiu-Chiung Wang	1998	2001	Speed improvements for the RSA encryption method	Abid Almaini
-3. 	Hasanain Golam	2000	2003	Component-based network test tools platform for network design and maintenance	Bill Buchanan	
-
-## 9 Current PhD students
-1. 	Jonathan Barton	2025		Privacy-aware trusted AI, PQC and HE
-2. 	Huma Zil E	2024		Adversarial machine learning for intrusion detection system
-3. 	Faneela Faneela	2024		Enhancing the Security and Privacy of Blockchain-based Healthcare Systems using Multi-Party Computation and Threshold Signatures
-4. 	Mark Golparvaran Tehrani	2025		Investigating Quantum Machine Learning for Cyber Security
-5. 	Callum Turino	2023		6G/Homomorphic Encryption for Health Care Data
-6. 	Sam Grierson	2021		Privacy-preserving systems around trust and identity within smartphones	
-
-## 10 PhD Panel Chair
-1. PhD Soundscape mapping: comparing listening experiences	Complete	Iain McGregor		2011	Soundscape mapping: comparing listening experiences	
-2. Tom Flint	2009	2016	Appropriating interaction	Phil Turner
-3. Nseabasi Igoniderigha	2010	2015	Data navigation and visualisation: navigating coordinated multiple views of data	David Benyon	Discoverable
-4. Martin Graham	1998	2002	Visualising Multiple Overlapping Classification Hierarchies
-5. Timothy Chamberlain	2003	2009	Measuring pedestrian gait using low-resolution infrared people counters	
-
-## 11 PhD Vivas
-Over 30 PhD Vivas, including:
-* 11 PhD Vivas, ENU
-* 2025 Sunderland University (Bamidele Ajayi).
-* 2025 Nottingham University (Dimah Almani ).
-* 2021 Liverpool John Moores (Anuoluwapo Adewuyi).
-* 2019 University of Plymouth (Neameh Hasan Al-Naffakh).
-* 2019 University of Plymouth (J Crume).
-* 2018 Royal Holloway, University of London (Ian Sargeant).
-* 2016	Royal Holloway, University of London.
-* 2016	Cranfield University 		
-* 2016	University of Bedfordshire 		
-* 2013	 Dublin City University
-* 2012	 Royal Holloway, University of London 		
-* 2012	University of Plymouth 		
-* 2011	 Dublin City University 		
-* 2011	 University of Essex 		
-* 2010	 University of the West of Scotland (x2)	
-* 2010	 University of Plymouth
-* University of Jena.
-* Loughborough University
-
-## 12 External examiner
-These include:
-
-* Robert Gordon's University, Aberdeen (1997 - 2001), BSc (Hons).
-* Paisley University, Paisley (1998 - 2003), BSc.
-* University of Central Lancashire (1999 - 2003), MSc.
-* Staffordshire University (2004 –2007), BSc (Hons).
-* University of Sunderland (2007 –2011), MSc Security.
-* Dublin College University, Dublin (2011 - 2014), BEng in Media Engineering.
-* MSc in Information Security (2012-2018), Royal Holloway, University of London.
-* Oxford Brookes University (2020-2024), BSc.
-
-## 13 Papers
-The following are a range of published works:
-
-### 2026
-
-* Gillot, O., Buchanan, W. J., & Turino, C. (2026, November 17-20). Testing TLS 1.3 PQC on constrained devices and microcontrollers [Paper presentation]. QSIoT 2026 (Workshop on Quantum-Safe and Intelligent Security for IoT and Cyber-Physical Systems), Newcastle. 
-* Yigit, Y., Buchanan, W. J., Tehrani, M. G., & Maglaras, L. (2026). Review of generative ai methods in cybersecurity. Internet of Things and Cyber-Physical Systems. https://doi.org/10.1016/j.iotcps.2026.04.001
-* Huma, Z. E., Jan, S. U., & Buchanan, W. J. (2026, May). Lightweight Online Meta-Learning for Intrusion Detection under Drift and Adversarial Attacks. In ICC 2026-IEEE International Conference on Communications (pp. 1-6). IEEE. https://doi.org/10.1109/ICC59461.2026.11587666
-* Papadopoulos P., Buchanan W. J., Lo O.,  Guide to Distributed Ledger Technology and Blockchain, Artech House Publishers. ISBN: 1685690238.
-* Faneela, F., Ghaleb, B., Ahmad, J., Al-Dubai, A. Y., Buchanan, W. J., & Jan, S. U. (2026, June). A Split-Trust Architecture for Confidential NLP Inference with CKKS Encryption. In 2026 International Wireless Communications and Mobile Computing (IWCMC) (pp. 1635-1640). IEEE. https://doi.org/10.1109/IWCMC69287.2026.11579855
-* Gillot, O., Buchanan, W. J., & Tehrani, M. G. (2026). Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures. Cryptography, 10(4), 55. https://doi.org/10.3390/cryptography10040055 
-* Sayeed, S., Papadopoulos, P., Kasimatis, D., Pitropakis, N., Buchanan, W. J., Markakis, E. K., ... & Politis, I. (2026). A Secure and Auditable Distributed Data-Sharing Framework for Multi-Domain Systems. ICCK Transactions on Information Security and Cryptography, 2(3), 172-191.
-* Gunathilake, N. A., Al-Dubai, A., & Buchanan, W. J. (2026, July). Lightweight Cryptanalysis in Resource-Constrained Environments: A Systematic Review. In 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET) (pp. 1-6). IEEE.
-* G. Tehrani, M., J. Buchanan, W., Sultanow, E., Houmani, M., H. Djaha Fodja, C., & Lemoudden, M. (2026, June). A Methodology for Analysing Coding Bugs for LLMs and SAST. In Computing Conference (pp. 666-684). Cham: Springer Nature Switzerland.
-* Khan, M. S., Pitropakis, N., Al-Dubai, A., Ahmad, J., Ghaleb, B., & Buchanan, W. J. (2026). Chaos-Based Quantum Image Encryption for Future Edge Computing and IoT Networks Security: Taxonomy, Review, and Future Directions. In Intelligent Transformative Technologies (pp. 249-283). Cham: Springer Nature Switzerland.
-* Rochford, P., Buchanan, W. J., Macfarlane, R., & Tehrani, M. (2026). Securely Scaling Autonomy: The Role of Cryptography in Future Unmanned Aircraft Systems (UASs). Cryptography, 10(2), 20. https://doi.org/10.3390/cryptography10020020
-* Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, M. S. (2026). Defining Quantum Agents: Formal Foundations, Architectures, and NISQ-Era Prototypes. Quantum Reports, 8(1), 24.
-* Huma, Z. E., Jan, S. U., Ahmad, J., Buchanan, W., & Pitropakis, N. (2026). Adversarial Machine Learning in IoT Security: A Comprehensive Survey. ACM Computing Surveys, 58(8), 1-35.
-* Sultanow, E., Jeschke, A., Tfiha, A. D., Tehrani, M., & Buchanan, W. J. (2026). On Families of Elliptic Curves E p, q: y 2= x 3− pqx That Intersect the Same Line L a, b: y= abx of Rational Slope. AppliedMath, 6(1), 14.
-* Kasimatis, D., Buchanan, W. J., Papadopoulos, P., & Pitropakis, N. (2026). Secure communication and privacy-preserving techniques in edge intelligence. In Edge Intelligence (pp. 155-178). Syngress. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B978044338297000012X
-* Faneela, B. G., Ahmad, J., Al-Dubai, A., Buchanan, W. J., Jan, S. U., & Khan, M. A. (2026). Privacy-Preserving Sentiment Analysis on Noisy Tweets Using CKKS-based Encrypted Inference.
-
-
-### 2025
-* Turino, C., Buchanan, W. J., Lo, O., & Thümmler, C. (2025, November). PQC-LEO: An Evaluation Framework for Post-Quantum Cryptographic Algorithms. In 2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) (pp. 237-247). IEEE.
-* Fox, J., Buchanan, W. J., & Papadopoulos, P. (2025). Adversarial Robustness of Vision in Open Foundation Models. IEEE Access, 13, 216272-216289.
-* Kasimatis, D., Politis, I., Pitropakis, N., Papadopoulos, P., & Buchanan, W. J. (2025). Decentralised Device Identity: PUF‑Driven Soulbound Token Verification for IoT Supply Chain Security. IEEE Transactions on Consumer Electronics.
-* Jan, S. U., Ahmad, J., Buchanan, W. J., & Pitropakis, N. (2025). Enhancing IoT Security: A Meta-Learning Approach to Adversarial Robustness.
-* Goddard, L., Shahbaz Khan, M., Driss, M., Ghaleb, B., Lemoudden, M., Buchanan, W. J., & Ahmad, J. (2025). Resilience without AI: Assessing the Viability of Deception-Based Ransomware Detection. Procedia Computer Science, 270, 871-880. https://doi.org/10.1016/j.procs.2025.09.207
-* Jones, G., Kasimatis, D., Pitropakis, N., Macfarlane, R., & Buchanan, W. J. (2025). Analysing the role of LLMs in cybersecurity incident management. International Journal of Information Security, 24(6), 228. https://doi.org/10.1007/s10207-025-01144-7
-* Kasimatis, D., Papadopoulos, P., Buchanan, W. J., Chrysoulas, C., Sayeed, S., Mylonas, A., & Pitropakis, N. (2025). DISTIL: Digital Identities for the Evaluation of Job Skills. 2025 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 1057-1062). IEEE. https://doi.org/10.1109/csr64739.2025.11130029
-* Korac, S., Moradpoor, N., Buchanan, W., Canberk, B., Maglaras, L., & Kioskli, K. (2025). Ransomware: Analysis and Evaluation of Live Forensic Techniques and the Impact on Linux-Based IoT Systems. 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) (pp. 507-514). IEEE. https://doi.org/10.1109/DCOSS-IoT65416.2025.00084
-* Faneela., Ahmad, J., Ghaleb, B., Khan, I. U., Buchanan, W. J., Jan, S. U., & Khan, M. S. (2025). Performance Evaluation of Threshold Signing Schemes in Cryptography. In F. Saeed, F. Mohammed, E. Mohammed, S. Basurra, & M. Al-Sarem (Eds.), Advances on Intelligent Computing and Data Science II (pp. 13-24). Springer. https://doi.org/10.1007/978-3-031-91351-8_2
-* Bakhsh, S. A., Ahmed, F., Almas Khan, M., Boulila, W., Aziz, A., Ghaleb, B., Buchanan, W. J., & Ahmad, J. (2025). A Secure Dockerized Architecture using IIoT Sensors Predicting Machine Health and Maintenance. In A. A. Abd El-Latif, M. A. ElAffendi, M. Ali AlShara, & Y. Maleh (Eds.), Proceedings of the Second International Conference on Cybersecurity, Cybercrimes, and Smart Emerging Technologies (CCSET 2023), Riyadh, Saudi Arabia, 5th–7th December, 2023. Taylor and Francis. https://doi.org/10.1201/9781003614197-19
-* Saeed, U., Jan, S. U., Ahmad, J., Shah, S. A., Alshehri, M. S., Ghadi, Y. Y., Pitropakis, N., & Buchanan, W. J. (2026). Generative Adversarial Networks-enabled Anomaly Detection Systems: A Survey. Expert Systems with Applications, 296(B), 128978. https://doi.org/10.1016/j.eswa.2025.128978
-* Patterson, J. C., Buchanan, W. J., & Turino, C. (2025). Energy Consumption Framework and Analysis of Post-Quantum Key-Generation on Embedded Devices. Journal of Cybersecurity and Privacy, 5(3), 42. https://doi.org/10.3390/jcp5030042
-* Buchanan, W. J., Gilchrist, J., Jaroucheh, Z., Timosenko, D., Ramchandani, N., & Ali, H. (2025, September 20-21). Privacy-aware White and Black List Searching for Fraud Analysis [Paper presentation]. 14th International Conference on Cryptography and Information Security, Copenhagen, Denmark. https://airccse.org/cscp.html
-* Buchanan, W. J., & Gilchrist, J. (2025, September 20-21). Anamorphic Cryptography using Baby-Step Giant-Step Recovery [Paper presentation]. 14th International Conference on Cryptography and Information Security, Copenhagen, Denmark. https://airccse.org/cscp.html
-* Ali, H., Buchanan, W. J., Ahmad, J., Abubakar, M., Khan, M. S., & Wadhaj, I. (2025). TrustShare: Secure and Trusted Blockchain Framework for Threat Intelligence Sharing. Future Internet, 17(7), 289. https://doi.org/10.3390/fi17070289
-* Buchanan, W. J., & Ali, H. (2025). Evaluation of Privacy-Preserving Support Vector Machine (SVM) Learning Using Homomorphic Encryption. Cryptography, 9(2), 33. https://doi.org/10.3390/cryptography9020033
-* Faneela., Ahmad, J., Ghaleb, B., Jan, S. U., & Buchanan, W. J. (2025). Cross-Platform Benchmarking of the FHE Libraries: Novel Insights into SEAL and OpenFHE. 2025 International Conference on New Trends in Computing Sciences (ICTCS) (pp. 219-226). Institute of Electrical and Electronics Engineers (IEEE). https://doi.org/10.1109/ictcs65341.2025.10989417
-* Elnour, S., Buchanan, W. J., Keating, P., Abubakar, M., & Elnour, S. (2025). vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election. Proceedings of the International Conference on Cybersecurity, Situational Awareness and Social Media (pp. 61-76). Springer. https://doi.org/10.1007/978-981-96-0401-2_4
-* Connell, J., Kasimatis, D., Papadopoulos, P., Buchanan, W. J., Sarigiannidis, P., & Pitropakis, N. (2025). Towards a Secure Manufacturing Framework for Single Malt Whisky in Industry 4.0. Proceedings of the International Conference on Cybersecurity, Situational Awareness and Social Media (pp. 349-365). Springer Nature. https://doi.org/10.1007/978-981-96-0401-2_19
-* Kumar, G., Saha, R., Conti, M., & Buchanan, W. J. (2025). LEAGAN: A Decentralized Version-Control Framework for Upgradeable Smart Contracts. IEEE Transactions on Services Computing, 18(3), 1529-1542. https://doi.org/10.1109/tsc.2025.3562323
-* Berger, D., Lemoudden, M., & Buchanan, W. J. (2025). Post-Quantum Migration of the Tor Application. Journal of Cybersecurity and Privacy, 5(2), 13. https://doi.org/10.3390/jcp5020013
-* Konstantinou, A., Kasimatis, D., Buchanan, W. J., Ullah Jan, S., Ahmad, J., Politis, I., & Pitropakis, N. (2025). Leveraging LLMs for Non-Security Experts in Threat Hunting: Detecting Living off the Land Techniques. Machine Learning and Knowledge Extraction, 7(2), 31. https://doi.org/10.3390/make7020031
-* Batool, F., Kureshi, N., Marie, R. R., Ahmad, F., Khan, M. S., Lemoudden, M., Buchanan, W. J., & Ahmad, J. (2025). Image Encryption in Frequency Domain Using Hybrid Chaotic Maps, Hashing, and Lifting Wavelet Transform. In A. Bennour, A. Bouridane, S. Almaadeed, B. Bouaziz, & E. Edirisinghe (Eds.), Intelligent Systems and Pattern Recognition (pp. 262-273). Springer. https://doi.org/10.1007/978-3-031-82153-0_20
-* Abubakar, M. A., Onyeashie, B. I., Wadhaj, I., Leimich, P., Ali, H., & Buchanan, W. J. (2025). A Systematic Review of the Blockchain Technology Security Challenges and Threats Classification. 2024 6th International Conference on Blockchain Computing and Applications (BCCA) (pp. 684-697). Institute of Electrical and Electronics Engineers (IEEE). https://doi.org/10.1109/BCCA62388.2024.10844455
-* Sultanow, E., Tehrani, M., Dutta, S., Buchanan, W. J., & Khan, S. (2025). Quantum agents. arXiv. https://doi.org/10.48550/arXiv.2506.01536
-* Buchanan, W., Grierson, S., & Uribe, D. (2024). Privacy-Aware Single-Nucleotide Polymorphisms (SNPs) Using Bilinear Group Accumulators in Batch Mode. Proceedings of the 10th International Conference on Information Systems Security and Privacy (1, pp. 226-233). Scitepress Digital Library. https://doi.org/10.5220/0012454300003648
-
-### 2024
-* Khan, M. S., Ahmad, J., Al-Dubai, A., Ghaleb, B., Pitropakis, N., & Buchanan, W. J. (2025). RNA-TransCrypt: Image encryption using chaotic RNA encoding, novel transformative substitution, and tailored cryptographic operations. In A. A. Abd El-Latif, M. A. ElAffendi, M. Ali AlShara, & Y. Maleh (Eds.), Cybersecurity, Cybercrimes, and Smart Emerging Technologies. Taylor and Francis. https://doi.org/10.1201/9781003614197
-* Gursu, K., Ozdem, M., Buchanan, W. J., & Canberk, B. (2024). Autonomous Queue Management System in Software-defined Routers for Sensor Networks. 2024 IEEE 10th World Forum on Internet of Things (WF-IoT) (pp. 719-724). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/WF-IoT62078.2024.10811245
-* Ahmed, H. O., Kim, D., & Buchanan, B. (2024). A True Random Number Generator Based On Race Hazard And Jitter Of Braided And Cross-Coupled Logic Gates Using FPGA. IEEE Access, 12, 182943-182955. https://doi.org/10.1109/ACCESS.2024.3512419
-* Khan, M. S., Ahmad, J., Al-Dubai, A., Pitropakis, N., Driss, M., & Buchanan, W. J. (2024). A Novel Cosine-Modulated-Polynomial Chaotic Map to Strengthen Image Encryption Algorithms in IoT Environments. Procedia Computer Science, 246, 4214-4223. https://doi.org/10.1016/j.procs.2024.09.261
-* Kasimatis, D., Grierson, S., Buchanan, W. J., Eckl, C., Papadopoulos, P., Pitropakis, N., Chrysoulas, C., Thomson, C., & Ghaleb, B. (2024). DID:RING: Ring Signatures Using Decentralised Identifiers For Privacy-Aware Identity Proof. 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 866-871). IEEE. https://doi.org/10.1109/csr61664.2024.10679351
-* Yigit, Y., Maglaras, L., Buchanan, W. J., Canberk, B., Shin, H., & Duong, T. Q. (2024). AI-Enhanced Digital Twin Framework for Cyber-Resilient 6G Internet of Vehicles Networks. IEEE Internet of Things, 11(22), 36168-36181. https://doi.org/10.1109/jiot.2024.3455089
-* Baird, I., Ghaleb, B., Wadhaj, I., Russell, G., & Buchanan, W. J. (2024). Securing IoT: Mitigating Sybil Flood Attacks with Bloom Filters and Hash Chains. Electronics, 13(17), 3467. https://doi.org/10.3390/electronics13173467
-* Khan, M. S., Ahmad, J., Ali, M., Al Dubai, A., Pitropakis, N., & Buchanan, W. J. (2024). VisCrypt: Image Encryption Featuring Novel Chaotic Key Generation and Block Permutation Techniques with Visual Cryptography. 2024 IEEE 7th International Conference on Advanced Technologies, Signal and Image Processing (ATSIP) (pp. 376-381). IEEE. https://doi.org/10.1109/atsip62566.2024.10639041
-* Baird, I., Ghaleb, B., Wadhaj, I., Russell, G., & Buchanan, W. J. (2024). Safeguarding IoT Systems: Novel Authentication Method to Counteract Sybil and Flood Attacks. RobCE '24: Proceedings of the 2024 4th International Conference on Robotics and Control Engineering (pp. 165-170). ACM. https://doi.org/10.1145/3674746.3674772
-* Bolat-Akça, B., Bozkaya-Aras, E., Canberk, B., Buchanan, B., & Schmid, S. (2024). An Intelligent Digital Twin Model for Attack Detection in Zero-Touch 6G Networks. 2024 IEEE International Conference on Communications Workshops (ICC Workshops) (pp. 773-778). IEEE. https://doi.org/10.1109/iccworkshops59551.2024.10615338
-* Kasimatis, D., Buchanan, W. J., Abubakar, M., Lo, O., Chrysoulas, C., Pitropakis, N., Papadopoulos, P., Sayeed, S., & Sel, M. (2024). Transforming EU Governance: The Digital Integration Through EBSI and GLASS. ICT Systems Security and Privacy Protection. SEC 2024 (pp. 250-263). Springer. https://doi.org/10.1007/978-3-031-65175-5_18
-* Chandran, A. C. S., Schneider, J., Nair, R., Buchanan, B., Gadegaard, N., Hogg, R., Kumar, S., & Manjakkal, L. (2024). Enhancing Supercapacitor Electrochemical Performance with 3D Printed Cellular PEEK/MWCNT Electrodes Coated with PEDOT: PSS. ACS Omega, 9(31), 33998-34007. https://doi.org/10.1021/acsomega.4c04576
-* Khan, M. S., Ahmad, J., Al-Dubai, A., Pitropakis, N., Ghaleb, B., Ullah, A., Khan, M. A., & Buchanan, W. J. (2024). Chaotic Quantum Encryption to Secure Image Data in Post Quantum Consumer Technology. IEEE Transactions on Consumer Electronics, 70(4), 7087 - 7101. https://doi.org/10.1109/tce.2024.3415411
-* Huma, Z. e., Ahmad, J., Hamadi, H. A., Ghaleb, B., Buchanan, W. J., & Jan, S. U. (2024). ACNN-IDS: An Attention-Based CNN for Cyberattack Detection in IoT. 2024 2nd International Conference on Cyber Resilience (ICCR) (pp. 1-6). IEEE. https://doi.org/10.1109/iccr61006.2024.10532958
-* Buchanan, B., McLaren, P., Russell, G., & Tan, Z. (2024). Detection of Ransomware. (Patent No. US20240152616A1).
-* Khan, M. S., Ahmad, J., Al-Dubai, A., Jaroucheh, Z., Pitropakis, N., & Buchanan, W. J. (2024). PermutEx: Feature-Extraction-Based Permutation — A New Diffusion Scheme for Image Encryption Algorithms. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD). IEEE. https://doi.org/10.1109/camad59638.2023.10478378
-* Saha, R., Kumar, G., Geetha, G., Conti, M., & Buchanan, W. J. (2024). Application of Randomness for Security and Privacy in Multi-Party Computation. IEEE Transactions on Dependable and Secure Computing, 21(6), 5694-5705. https://doi.org/10.1109/tdsc.2024.3381959
-* Bhatti, D. S., Saleem, S., Ali, Z., Park, T.-J., Suh, B., Kamran, A., Buchanan, W. J., & Kim, K.-I. (2024). Design and Evaluation of Memory Efficient Data Structure Scheme for Energy Drainage Attacks in Wireless Sensor Networks. IEEE Access, 12, 41499-41516. https://doi.org/10.1109/access.2024.3377144
-* Alshehri, M. S., Ahmad, J., Almakdi, S., Qathrady, M. A., Ghadi, Y. Y., & Buchanan, W. J. (2024). SkipGateNet: A Lightweight CNN-LSTM Hybrid Model with Learnable Skip Connections for Efficient Botnet Attack Detection in IoT. IEEE Access, 12. https://doi.org/10.1109/access.2024.3371992
-* Abubakar, M., Gunathilake, N. A., Buchanan, W. J., & O’Reilly, B. (2024). A Review of the Non-Fungible Tokens (NFT): Challenges and Opportunities. Big Data Technologies and Applications (pp. 171-190). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-52265-9_12
-* Tehrani, M. G., Sultanow, E., Buchanan, W. J., Amir, M., Jeschke, A., Houmani, M., Chow, R., & Lemoudden, M. (2024). Stabilized quantum-enhanced SIEM architecture and speed-up through Hoeffding tree algorithms enable quantum cybersecurity analytics in botnet detection. Scientific Reports, 14, 1732. https://doi.org/10.1038/s41598-024-51941-8
-
-### 2023
-* Aaby, P., Giuffrida, M. V., Buchanan, W. J., & Tan, Z. (2023). TouchEnc: a Novel Behavioural Encoding Technique to Enable Computer Vision for Continuous Smartphone User Authentication. 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 788-795). IEEEE. https://doi.org/10.1109/TrustCom60117.2023.00115
-* Thaeler, A., Yigit, Y., Maglaras, L. A., Buchanan, B., Moradpoor, N., & Russell, G. (2023). Enhancing Mac OS Malware Detection through Machine Learning and Mach-O File Analysis. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD) (pp. 170-175). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CAMAD59638.2023.10478430
-* Grierson, S., Ghaleb, B., Buchanan, W. J., Thomson, C., Maglaras, L., & Eckl, C. (2023). Scalable Multi-domain Trust Infrastructures for Segmented Networks. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CAMAD59638.2023.10478427
-* Shahbaz Khan, M., Ahmad, J., Ali, H., Pitropakis, N., Al-Dubai, A., Ghaleb, B., & Buchanan, W. J. (2023). SRSS: A New Chaos-Based Single-Round Single S-Box Image Encryption Scheme for Highly Auto-Correlated Data. 2023 International Conference on Engineering and Emerging Technologies (ICEET). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/ICEET60227.2023.10525758
-* Ali, H., Abubakar, M., Ahmad, J., Buchanan, W. J., & Jaroucheh, Z. (2023). PASSION: Permissioned Access Control for Segmented Devices and Identity for IoT Networks. 28th IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks , CAMAD 2023, Edinburgh, United Kingdom, November 6-8, 2023 (pp. 200-205). IEEE. https://doi.org/10.1109/camad59638.2023.10478386
-* Grierson, S., Chalkias, K., Buchanan, W. J., & Maglaras, L. (2023). Double Public Key Signing Function Oracle Attack on EdDSA Software Implementations. 2023 IEEE 28th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD) (pp. 194-199). IEEE. https://doi.org/10.1109/camad59638.2023.10478409
-* Ali, H., Khan, M. S., Driss, M., Ahmad, J., Buchanan, W. J., & Pitropakis, N. (2023). CellSecure: Securing Image Data in Industrial Internet-of-Things via Cellular Automata and Chaos-Based Encryption. 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall). IEEE. https://doi.org/10.1109/vtc2023-fall60731.2023.10333478
-* Elmiger, M., Lemoudden, M., Pitropakis, N., & Buchanan, W. J. (2024). Start thinking in graphs: using graphs to address critical attack paths in a Microsoft cloud tenant. International Journal of Information Security, 23, 467-485. https://doi.org/10.1007/s10207-023-00751-6
-* Sayeed, S., Pitropakis, N., Buchanan, W. J., Markakis, E., Papatsaroucha, D., & Politis, I. (2023). TRUSTEE: Towards the creation of secure, trustworthy and privacy-preserving framework. ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security. ACM. https://doi.org/10.1145/3600160.3604997
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2023). Majority Voting Ransomware Detection System. Journal of Information Security, 14(4), 264-293. https://doi.org/10.4236/jis.2023.144016
-* McKeown, S., & Buchanan, W. J. (2023). Hamming Distributions of Popular Perceptual Hashing Techniques. Forensic Science International: Digital Investigation, 44(Supplement), 301509. https://doi.org/10.1016/j.fsidi.2023.301509
-* Ahmed, F., Rehman, M. U., Ahmad, J., Khan, M. S., Boulila, W., Srivastava, G., Lin, J. C.-W., & Buchanan, W. J. (2023). A DNA Based Colour Image Encryption Scheme Using A Convolutional Autoencoder. ACM transactions on multimedia computing communications and applications, 19(3s), 128. https://doi.org/10.1145/3570165
-* Aaby, P., Giuffrida, M. V., Buchanan, W. J., & Tan, Z. (2023). An omnidirectional approach to touch-based continuous authentication. Computers and Security, 128, 103146. https://doi.org/10.1016/j.cose.2023.103146
-* Haddad, J., Pitropakis, N., Chrysoulas, C., Lemoudden, M., & Buchanan, W. J. (2023). Attacking Windows Hello for Business: Is It What We Were Promised?. Cryptography, 7(1), 9. https://doi.org/10.3390/cryptography7010009
-* Abubakar, M., Ali, H., Ghaleb, B., Wadhaj, I., & Buchanan, W. J. (2023). An Overview of Blockchain-Based IoT Architectures and Designs. Proceedings of the 2nd International Conference on Emerging Technologies and Intelligent Systems: ICETIS 2022 Volume 1 (pp. 596-605). Springer International Publishing. https://doi.org/10.1007/978-3-031-25274-7_52
-* Papadopoulos, P., Buchanan, W. J., Sayeed, S., & Pitropakis, N. (2023). Towards The Creation Of The Future Fish Farm. Journal of Surveillance, Security and Safety, 4, 1-3. https://doi.org/10.20517/jsss.2022.16
-* Barton, J., Pitropakis, N., Buchanan, W., Sayeed, S., & Abramson, W. (2022). Post Quantum Cryptography Analysis of TLS Tunneling on a Constrained Device. Proceedings of the 8th International Conference on Information Systems Security and Privacy - ICISSP (pp. 551-561). SCITEPRESS - Science and Technology Publications. https://doi.org/10.5220/0010903000003120
-* Hasselgren, B., Chrysoulas, C., Pitropakis, N., & Buchanan, W. J. (2023). Using Social Media & Sentiment Analysis to Make Investment Decisions. Future Internet, 15(1), 5. https://doi.org/10.3390/fi15010005
-* Holmes, A., & Buchanan, W. J. (2023). A framework for live host-based Bitcoin wallet forensics and triage. Forensic Science International: Digital Investigation, 44, 301486. https://doi.org/10.1016/j.fsidi.2022.301486
-
- ### 2022
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Comparison of Entropy Calculation Methods for Ransomware Encrypted File Identification. Entropy, 24(10), 1503. https://doi.org/10.3390/e24101503
-* Ali, H., Ahmad, J., Jaroucheh, Z., Papadopoulos, P., Pitropakis, N., Lo, O., Abramson, W., & Buchanan, W. J. (2022). Trusted Threat Intelligence Sharing in Practice and Performance Benchmarking through the Hyperledger Fabric Platform. Entropy, 24(10), 1379. https://doi.org/10.3390/e24101379
-* Gunathilake, N. A., Al-Dubai, A., Buchanan, W. J., & Lo, O. (2022). Electromagnetic Side-Channel Attack Resilience against PRESENT Lightweight Block Cipher. 2022 6th International Conference on Cryptography, Security and Privacy (CSP). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/CSP55486.2022.00018
-* Kumar, A., Saha, R., Conti, M., Kumar, G., Buchanan, W. J., & Kim, T. H. (2022). A comprehensive survey of authentication methods in Internet-of-Things and its conjunctions. Journal of Network and Computer Applications, 204, 103414. https://doi.org/10.1016/j.jnca.2022.103414
-* Alharbi, A. R., Ahmad, J., Arshad., Shaukat, S., Masood, F., Ghadi, Y. Y., Pitropakis, N., & Buchanan, W. J. (2022). A New Multistage Encryption Scheme Using Linear Feedback Register and Chaos-Based Quantum Map. Complexity, 2022, 7047282. https://doi.org/10.1155/2022/7047282
-* Lo, O., Buchanan, W., Sayeed, S., Papadopoulos, P., Pitropakis, N., & Chrysoulas, C. (2022). GLASS: A Citizen-Centric Distributed Data-Sharing Model within an e-Governance Architecture. Sensors, 22(6), 2291. https://doi.org/10.3390/s22062291
-* Gunathilake, N. A., Al-Dubai, A., & Buchanan, W. J. (2022). Internet of Things: Concept, Implementation and Challenges. Internet of Things and Its Applications: Select Proceedings of ICIA 2020 (pp. 145-155). Springer. https://doi.org/10.1007/978-981-16-7637-6_14
-* Abubakar, M., McCarron, P., Jaroucheh, Z., Al Dubai, A., & Buchanan, B. (2022). Blockchain-based Platform for Secure Sharing and Validation of Vaccination Certificates. 2021 14th International Conference on Security of Information and Networks (SIN). Institute of Electrical and Electronics Engineers (IEEE). https://doi.org/10.1109/SIN54109.2021.9699221
-* Abramson, W., Buchanan, W. J., Sayeed, S., Pitropakis, N., & Lo, O. (2022). PAN-DOMAIN: Privacy-preserving Sharing and Auditing of Infection Identifier Matching. 14th International Conference on Security of Information and Networks. IEEE. https://doi.org/10.1109/SIN54109.2021.9699138
-* Ali, H., Papadopoulos, P., Ahmad, J., Pit, N., Jaroucheh, Z., & Buchanan, W. J. (2022). Privacy-preserving and Trusted Threat Intelligence Sharing using Distributed Ledgers. IEEE SINCONF: 14th International Conference on Security of Information and Networks. IEEE. https://doi.org/10.1109/SIN54109.2021.9699366
-* Grierson, S., Thomson, C., Papadopoulos, P., & Buchanan, B. (2022). Min-max Training: Adversarially Robust Learning Models for Network Intrusion Detection Systems. 2021 14th International Conference on Security of Information and Networks (SIN). IEEE. https://doi.org/10.1109/sin54109.2021.9699157
-* Ullah, S., Khan, M. A., Ahmad, J., Jamal, S. S., e Huma, Z., Hassan, M. T., Pitropakis, N., Arshad., & Buchanan, W. J. (2022). HDL-IDS: A Hybrid Deep Learning Architecture for Intrusion Detection in the Internet of Vehicles. Sensors, 22(4), 1340. https://doi.org/10.3390/s22041340
-* Chrysoulas, C., Thomson, A., Pitropakis, N., Papadopoulos, P., Lo, O., Buchanan, W. J., Domalis, G., Karacapilidis, N., Tsakalidis, D., & Tsolis, D. (2022). GLASS: Towards Secure and Decentralized eGovernance Services using IPFS. Computer Security. ESORICS 2021 International Workshops. Springer. https://doi.org/10.1007/978-3-030-95484-0_3
-* Barati, M., Buchanan, W. J., Lo, O., & Rana, O. (2022). A Privacy-Preserving Platform for Recording COVID-19 Vaccine Passports. UCC '21: Proceedings of the 14th IEEE/ACM International Conference on Utility and Cloud Computing Companion. ACM. https://doi.org/10.1145/3492323.3495626
-* McDonald, G., Papadopoulos, P., Pitropakis, N., Ahmad, J., & Buchanan, W. J. (2022). Ransomware: Analysing the Impact on Windows Active Directory Domain Services. Sensors, 22(3), 953. https://doi.org/10.3390/s22030953
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). NapierOne: A modern mixed file data set alternative to Govdocs1. Forensic Science International: Digital Investigation, 40, 301330. https://doi.org/10.1016/j.fsidi.2021.301330
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Exploring the Need For an Updated Mixed File Research Data Set. 2021 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 426-430). IEEE. https://doi.org/10.1109/iceet53442.2021.9659618
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2022). Review of Current Ransomware Detection Techniques. 2021 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 696-701). IEEE. https://doi.org/10.1109/iceet53442.2021.9659643
-
-### 2021
-* Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). Decentralised Privacy: A Distributed Ledger Approach. In C. Mustansar Hussain, & P. Di Sia (Eds.), Handbook of Smart Materials, Technologies, and Devices (pp. 1-26). Springer International Publishing. https://doi.org/10.1007/978-3-030-58675-1_58-1
-* Hughes, K., Papadopoulos, P., Pitropakis, N., Smales, A., Ahmad, J., & Buchanan, W. J. (2021). Browsers’ Private Mode: Is It What We Were Promised?. Computers, 10(12), 165. https://doi.org/10.3390/computers10120165
-* Abubakar, M., Jaroucheh, Z., Al Dubai, A., & Buchanan, W. (2021). Blockchain-Based Authentication and Registration Mechanism for SIP-Based VoIP Systems. 2021 5th Cyber Security in Networking Conference (CSNet). IEEE. https://doi.org/10.1109/csnet52717.2021.9614646
-* Young, E. H., Chrysoulas, C., Pitropakis, N., Papadopoulos, P., & Buchanan, W. J. (2021, October 25-26). Evaluating Tooling and Methodology when Analysing Bitcoin Mixing Services After Forensic Seizure [Paper presentation]. International Conference on Data Analytics for Business and Industry (ICDABI) 2021 - (DATA'21), Online. https://data21.uob.edu.bh/
-* Almas Khan, M., Khan, M. A., Ullah Jan, S., Ahmad, J., Jamal, S. S., Shah, A. A., Pitropakis, N., Buchanan, W. J., Alonistioti, N., Panagiotakis, S., & Markakis, E. K. (2021). A Deep Learning-Based Intrusion Detection System for MQTT Enabled IoT. Sensors, 21(21), 7016. https://doi.org/10.3390/s21217016
-* Saha, R., Kumar, G., Devgun, T., Buchanan, W., Thomas, R., Alazab, M., Kim, T.-H., & Rodrigues, J. (2023). A Blockchain Framework in Post-Quantum Decentralization. IEEE Transactions on Services Computing, 16(1). https://doi.org/10.1109/tsc.2021.3116896
-* Abubakar, M., Jaroucheh, Z., Al Dubai, A., & Buchanan, W. J. (2021). A Decentralised Authentication and Access Control Mechanism for Medical Wearable Sensors Data. 2021 IEEE International Conference on Omni-Layer Intelligent Systems (COINS). IEEE. https://doi.org/10.1109/coins51742.2021.9524172
-* Marchand, B., Pitropakis, N., Buchanan, W. J., & Lambrinoudakis, C. (2021). Launching Adversarial Label Contamination Attacks Against Malicious URL Detection. Trust, Privacy and Security in Digital Business: 18th International Conference, TrustBus 2021, Virtual Event, September 27–30, 2021, Proceedings (pp. 69-82). Springer International Publishing. https://doi.org/10.1007/978-3-030-86586-3_5
-* Saha, R., Geetha, G., Kumar, G., Buchanan, W. J., & Kim, T. (2021). A Secure Random Number Generator with Immunity and Propagation Characteristics for Cryptography Functions. Applied Sciences, 11(17), 8073. https://doi.org/10.3390/app11178073
-* Kim, T.-H., Kumar, G., Saha, R., Buchanan, W. J., Devgun, T., & Thomas, R. (2021). LiSP-XK: Extended Light-Weight Signcryption for IoT in Resource-Constrained Environments. IEEE Access, 9, 100972-100980. https://doi.org/10.1109/access.2021.3097267
-* Abramson, W., Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2021). PyDentity: A playground for education and experimentation with the hyperledger verifiable information exchange platform. Software Impacts, 9, 100101. https://doi.org/10.1016/j.simpa.2021.100101
-* Gunathilake, N. A., Al-Dubai, A., Buchanan, W. J., & Lo, O. (2021). Electromagnetic Analysis of an Ultra-Lightweight Cipher: PRESENT. 10th International Conference on Cryptography and Information Security (CRYPIS 2021) (11, pp. 185-205). https://airccse.org/csit/V11N09.html
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2021). Differential Area Analysis for Ransomware Attack Detection within Mixed File Datasets. Computers and Security, 108, 102377. https://doi.org/10.1016/j.cose.2021.102377
-* Masood, F., Driss, M., Boulila, W., Ahmad, J., ur Rehman, S., Jan, S. U., Qayyum, A., & Buchanan, W. J. (2022). A Lightweight Chaos-Based Medical Image Encryption Scheme Using Random Shuffling and XOR Operations. Wireless Personal Communications, 127, 1405-1432. https://doi.org/10.1007/s11277-021-08584-z
-* Papadopoulos, P., Thornewill Von Essen, O., Pitropakis, N., Chrysoulas, C., Mylonas, A., & Buchanan, W. J. (2021). Launching Adversarial Attacks against Network Intrusion Detection Systems for IoT. Journal of Cybersecurity and Privacy, 1(2), 252-273. https://doi.org/10.3390/jcp1020014
-* Kelly, C., Pitropakis, N., Mylonas, A., McKeown, S., & Buchanan, W. J. (2021). A Comparative Analysis of Honeypots on Different Cloud Platforms. Sensors, 21(7), 2433. https://doi.org/10.3390/s21072433
-* Papadopoulos, P., Abramson, W., Hall, A. J., Pitropakis, N., & Buchanan, W. J. (2021). Privacy and Trust Redefined in Federated Machine Learning. Machine Learning and Knowledge Extraction, 3(2), 333-356. https://doi.org/10.3390/make3020017
-* Churcher, A., Ullah, R., Ahmad, J., Ur Rehman, S., Masood, F., Gogate, M., Alqahtani, F., Nour, B., & Buchanan, W. J. (2021). An experimental analysis of attack classification using machine learning in IoT networks. Sensors, 21(2), 446. https://doi.org/10.3390/s21020446
-
-### 2020
-* Abubakar, M. A., Jaroucheh, Z., Al-Dubai, A., & Buchanan, B. (2020). PoNW: A Secure and Scalable Proof-of-Notarized-Work-Based Consensus Mechanism. ICVISP 2020: Proceedings of the 2020 4th International Conference on Vision, Image and Signal Processing (pp. 1-8). Association for Computing Machinery (ACM). https://doi.org/10.1145/3448823.3448875
-* Christou, O., Pitropakis, N., Papadopoulos, P., Mckeown, S., & Buchanan, W. J. (2020). Phishing URL Detection Through Top-Level Domain Analysis: A Descriptive Approach. Proceedings of the 6th International Conference on Information Systems Security and Privacy (1, pp. 289-298). Scitepress. https://doi.org/10.5220/0008902202890298
-* Buchanan, W. J., Imran, M. A., Ur-Rehman, M., Zhang, L., Abbasi, Q. H., Chrysoulas, C., Haynes, D., Pitropakis, N., & Papadopoulos, P. (2020). Review and Critical Analysis of Privacy-preserving Infection Tracking and Contact Tracing. Frontiers in Communications and Networks. https://doi.org/10.3389/frcmn.2020.583376
-* Gunathilake, N. A., Al-Dubai, A., & Buchanan, W. J. (2020, November 2-6). Recent Advances and Trends in Lightweight Cryptography for IoT Security [Paper presentation]. 2020 16th International Conference on Network and Service Management (CNSM), Izmir, Turkey. https://doi.org/10.23919/cnsm50824.2020.9269083
-* Stamatellis, C., Papadopoulos, P., Pitropakis, N., Katsikas, S., & Buchanan, W. J. (2020). A Privacy-Preserving Healthcare Framework Using Hyperledger Fabric. Sensors, 20(22), 6587. https://doi.org/10.3390/s20226587
-* Aaby, P., Giuffrida, M. V., Buchanan, W. J., & Tan, Z. (2020). Towards Continuous User Authentication Using Personalised Touch-Based Behaviour. 2020 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00023
-* Müller, S., Penzkofer, A., Ku´smierz, B., Camargo, D., & Buchanan, W. J. (2020). Fast Probabilistic Consensus with Weighted Votes. Proceedings of the Future Technologies Conference (FTC) 2020, Volume 2 (pp. 360-378). Springer. https://doi.org/10.1007/978-3-030-63089-8_24
-* Xu, H., Zhang, L., Onireti, O., Fang, Y., Buchanan, W. J. a., & Imran, M. A. (2021). BeepTrace: Blockchain-enabled Privacy-preserving Contact Tracing for COVID-19 Pandemic and Beyond. IEEE Internet of Things Journal, 8(5), 3915-3929. https://doi.org/10.1109/jiot.2020.3025953
-* Abramson, W., Hall, A. J., Papadopoulos, P., Pitropakis, N., & Buchanan, W. J. (2020). A Distributed Trust Framework for Privacy-Preserving Machine Learning. Trust, Privacy and Security in Digital Business (pp. 205-220). Springer. https://doi.org/10.1007/978-3-030-58986-8_14
-* Popov, S., & Buchanan, W. J. (2021). FPC-BI: Fast Probabilistic Consensus within Byzantine Infrastructures. Journal of Parallel and Distributed Computing, 147, 77-86. https://doi.org/10.1016/j.jpdc.2020.09.002
-* Khan, J. S., Boulila, W., Ahmad, J., Rubaiee, S., Rehman, A. U., Alroobaea, R., & Buchanan, W. J. (2020). DNA and Plaintext Dependent Chaotic Visual Selective Image Encryption. IEEE Access, 8, 159732-159744. https://doi.org/10.1109/access.2020.3020917
-* Jaroucheh, Z., Alissa, M., & Buchanan, W. J. (2020, May 2-6). Trust-based Ecosystem to Combat Fake News [Paper presentation]. 2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), Toronto, ON, Canada. https://doi.org/10.1109/icbc48266.2020.9169435
-* Papadopoulos, P., Pitropakis, N., Buchanan, W. J., Lo, O., & Katsikas, S. (2020). Privacy-Preserving Passive DNS. Computers, 9(3), 64. https://doi.org/10.3390/computers9030064
-* Jaroucheh, Z., Alissa, M., Buchanan, W. J., & Liu, X. (2020). TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies. 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC 2020) (pp. 1215-1220). Institute of Electrical and Electronics Engineers. https://ieeecompsac.computer.org/2020/wp-content/uploads/sites/8/2020/07/compsac2020_frontmatter.pdf
-* Qayyum, A., Ahmad, J., Boulila, W., Rubaiee, S., Arshad., Masood, F., Khan, F., & Buchanan, W. J. (2020). Chaos-Based Confusion and Diffusion of Image Pixels Using Dynamic Substitution. IEEE Access, 8, 140876-140895. https://doi.org/10.1109/access.2020.3012912
-* Khan, J. S., Tahir, A., Ahmad, J., Shah, S. A., Abbasi, Q. H., Russell, G., & Buchanan, W. (2020). 5G-FOG: Freezing of Gait Identification in Multi-Class Softmax Neural Network Exploiting 5G Spectrum. Intelligent Computing: Proceedings of the 2020 Computing Conference, Volume 3. Springer. https://doi.org/10.1007/978-3-030-52243-8_3
-* Kumar, G., Saha, R., Buchanan, W. J., Geetha, G., Thomas, R., Rai, M. K., Kim, T.-H., & Alazab, M. (2020). Decentralized Accessibility of e-commerce Products through Blockchain Technology. Sustainable Cities and Society, 62, 102361. https://doi.org/10.1016/j.scs.2020.102361
-* Abramson, W., van Deursen, N. E., & Buchanan, W. J. (2020). Trust-by-Design: Evaluating Issues and Perceptions within Clinical Passporting. Blockchain in Healthcare Today, 3. https://doi.org/10.30953/bhty.v3.140
-* Masood, F., Boulila, W., Ahmad, J., Arshad, A., Sankar, S., Rubaiee, S., & Buchanan, W. J. (2020). A Novel Privacy Approach of Digital Aerial Images Based on Mersenne Twister Method with DNA Genetic Encoding and Chaos. Remote Sensing, 12(11), 1893. https://doi.org/10.3390/rs12111893
-* Davies, S. R., Macfarlane, R., & Buchanan, W. J. (2020). Evaluation of Live Forensic Techniques in Ransomware Attack Mitigation. Forensic Science International: Digital Investigation, 33, 300979. https://doi.org/10.1016/j.fsidi.2020.300979
-* Kim, T.-H., Kumar, G., Saha, R., Alazab, M., Buchanan, W. J., Rai, M. K., Geetha, G., & Thomas, R. (2020). CASCF: Certificateless Aggregated SignCryption Framework for Internet-of-Things Infrastructure. IEEE Access, 8, 94748-94756. https://doi.org/10.1109/access.2020.2995443
-* Jaroucheh, Z., Ghaleb, B., & Buchanan, W. J. (2020, March 16-20). SklCoin: Toward a Scalable Proof-of-Stake and Collective Signature Based Consensus Protocol for Strong Consistency in Blockchain [Paper presentation]. 2020 IEEE International Conference on Software Architecture Companion (ICSA-C), Salvador, Brazil. https://doi.org/10.1109/icsa-c50368.2020.00034
-* Kim, T.-H., Kumar, G., Saha, R., Rai, M. K., Buchanan, W. J., Thomas, R., & Alazab, M. (2020). A Privacy Preserving Distributed Ledger Framework for Global Human Resource Record Management: The Blockchain Aspect. IEEE Access, 8, 96455-96467. https://doi.org/10.1109/access.2020.2995481
-* Ahmad, J., Tahir, A., Larijani, H., Ahmed, F., Aziz Shah, S., Hall, A. J., & Buchanan, W. J. (2020). Energy demand forecasting of buildings using random neural networks. Journal of Intelligent and Fuzzy Systems, 38(4), 4753-4765. https://doi.org/10.3233/jifs-191458
-* Kumar, G., Rai, M., Saha, R., Buchanan, W. J., Thomas, R., Geetha, G., Kim, T.-H., & Rodrigues, J. (2020). A Privacy-Preserving Secure Framework for Electric Vehicles in IoT using Matching Market and Signcryption. IEEE Transactions on Vehicular Technology, 69(7), 7707-7722. https://doi.org/10.1109/tvt.2020.2989817
-* Aziz Shah, S., Ahmad, J., Tahir, A., Ahmed, F., Russell, G., Shah, S. Y., Buchanan, W., & Abbasi, Q. H. (2020). Privacy-Preserving Non-Wearable Occupancy Monitoring System Exploiting Wi-Fi Imaging for Next-Generation Body Centric Communication. Micromachines, 11(4), 379. https://doi.org/10.3390/mi11040379
-* Wadhaj, I., Ghaleb, B., Thomson, C., Al-Dubai, A., & Buchanan, W. J. (2020). Mitigation Mechanisms Against the DAO Attack on the Routing Protocol for Low Power and Lossy Networks (RPL). IEEE Access, 8, 43665-43675. https://doi.org/10.1109/ACCESS.2020.2977476
-* Dyson, S. F., Buchanan, W. J., & Bell, L. (2020). Scenario-based creation and digital investigation of ethereum ERC20 tokens. Digital Investigation, 32, 200894. https://doi.org/10.1016/j.fsidi.2019.200894
-* Ilyas, M., Ahmad, J., Lawson, A., Khan, J. S., Tahir, A., Adeel, A., Larijani, H., Kerrouche, A., Shaikh, M. G., Buchanan, W., & Hussain, A. (2020). Height Prediction for Growth Hormone Deficiency Treatment Planning Using Deep Learning. Advances in Brain Inspired Cognitive Systems (pp. 76-85). Springer International Publishing. https://doi.org/10.1007/978-3-030-39431-8_8
-* Major, W., Buchanan, W. J., & Ahmad, J. (2020). An authentication protocol based on chaos and zero knowledge proof. Nonlinear Dynamics, 99, 3065-3087. https://doi.org/10.1007/s11071-020-05463-3
-* Lowe, I., Buchanan, W. J., Macfarlane, R., & Lo, O. (2019). Wi-Fi Channel Saturation as a Mechanism to Improve Passive Capture of Bluetooth Through Channel Usage Restriction. Journal of Networking Technology, 10(4), 124-155. https://doi.org/10.6025/jnt/2019/10/4/124-155
-
-### 2019 
-* Li, S., Yuan, Y., Zhang, J. J., Buchanan, B., Liu, E., & Ramadoss, R. (2019). Guest Editorial Special Issue on Blockchain-Based Secure and Trusted Computing for IoT [Editorial]. IEEE Transactions on Computational Social Systems, 6(6), 1369-1372. https://doi.org/10.1109/tcss.2019.2954939
-* Kim, T.-H., Goyat, R., Rai, M. K., Kumar, G., Buchanan, W. J., Saha, R., & Thomas, R. (2019). A Novel Trust Evaluation Process for Secure Localization using a Decentralized Blockchain in Wireless Sensor Networks. IEEE Access, 7, 184133-184144. https://doi.org/10.1109/access.2019.2960609
-* Saha, R., Geetha, G., Kumar, G., Kim, T.-H., & Buchanan, W. J. (2019). MRC4: A Modified RC4 Algorithm using Symmetric Random Function Generator for Improved Cryptographic Features. IEEE Access, 7, 172045-172054. https://doi.org/10.1109/access.2019.2956160
-* Buchanan, W. J., Smales, A., Lawson, A., & Chute, C. (2019, November 24-28). Machine Learning for Health and Social Care Demographics in Scotland [Paper presentation]. HEALTHINFO 2019, Valencia, Spain. http://www.iaria.org/conferences2019/ProgramHEALTHINFO19.html
-* McLaren, P., Buchanan, W. J., Russell, G., & Tan, Z. (2019). Deriving ChaCha20 Key Streams From Targeted Memory Analysis. Journal of Information Security and Applications, 48, 102372. https://doi.org/10.1016/j.jisa.2019.102372
-* Gunathilake, N. A., Buchanan, W. J., & Asif, R. (2019, April 15-19). Next Generation Lightweight Cryptography for Smart IoT Devices: Implementation, Challenges and Applications [Paper presentation]. IEEE 5th World Forum on Internet of Things (WF-IoT), Limerick. https://doi.org/10.1109/WF-IoT.2019.8767250
-* Muir, M., Leimich, P., & Buchanan, W. J. (2019). A Forensic Audit of the Tor Browser Bundle. Digital Investigation, 29, 118-128. https://doi.org/10.1016/j.diin.2019.03.009
-* Mclaren, P., Russell, G., Buchanan, W. J., & Tan, Z. (2019). Decrypting Live SSH Traffic in Virtual Environments. Digital Investigation, 29, 109-117. https://doi.org/10.1016/j.diin.2019.03.010
-* Li, S., Li, S., Choo, K.-K. R., Sun, Q., Buchanan, W. J., & Cao, J. (2019). IoT Forensics: Amazon Echo as a Use Case. IEEE Internet of Things Journal, 1-11. https://doi.org/10.1109/jiot.2019.2906946
-* Halamka, J. D., Alterovitz, G., Buchanan, W. J., Cenaj, T., Clauson, K. A., Dhillon, V., Hudson, F. D., Mokhtari, M. (., Porto, D. A., Rutschman, A., & Ngo, A. L. (2019). Top 10 Blockchain Predictions for the (Near) Future of Healthcare. Blockchain in Healthcare Today, 2. https://doi.org/10.30953/bhty.v2.106
-* Hall, A. J., Pitropakis, N., Buchanan, W. J., & Moradpoor, N. (2019). Predicting Malicious Insider Threat Scenarios Using Organizational Data and a Heterogeneous Stack-Classifier. 2018 IEEE International Conference on Big Data (Big Data). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/BigData.2018.8621922
-
-### 2018
-* Buchanan, B., Lo, O., Macfarlane, R., Penrose, P., & Ramsay, B. (2018). System and method for management of confidential data. (Patent No. GB2561176A).
-* Ukwandu, E., Buchanan, W. J., & Russell, G. (2018). Mitigating Disaster using Secure Threshold-Cloud Architecture. Current Trends in Computer Sciences & Applications, 1(2).
-* Dyson, S., Buchanan, W., & Bell, L. (2018). The Challenges of Investigating Cryptocurrencies and Blockchain Related Crime. The Journal of the British Blockchain Association, 1(2), 1-6. https://doi.org/10.31585/jbba-1-2-%288%292018
-* Rooney, L., Chute, C., Buchanan, W. J., Smales, A., & Hepburn, L.-A. (2018). Open-source Data Analysis and Machine Learning for Asthma Hospitalisation Rates. Proceedings of ThinkMind - GLOBAL HEALTH 2018, The Seventh International Conference on Global Health Challenges. International Academy, Research, and Industry Association. http://www.thinkmind.org/index.php?view=article&articleid=global_health_2018_1_10_70037
-* Tweneboah-Kodua, S., Atsu, F., & Buchanan, W. (2018). Impact of cyberattacks on stock performance: a comparative study. Information and Computer Security, 26(5), 637-652. https://doi.org/10.1108/ics-05-2018-0060
-* Thuemmler, C., Hindricks, G., Rolffs, C., Buchanan, W., & Bollmann, A. (2018). Requirements for 5G based telemetric cardiac monitoring. 2018 14th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/WiMOB.2018.8589139
-* Buchanan, B., Lo, O., Penrose, P., Ramsay, B., & Macfarlane, R. (2018). Method for identification of digital content. (Patent Application No. GB2561177A). World Intellectual Property Organization.
-* Aaby, P., Mata De Acuña, J. J., Macfarlane, R., & Buchanan, W. J. (2018). Privacy Parameter Variation using RAPPOR on a Malware Dataset. Proceedings of 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (IEEE TrustCom-18) (pp. 8). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/TrustCom/BigDataSE.2018.00133
-* Lo, O., Buchanan, W. J., & Carson, D. (2018). Correlation Power Analysis on the PRESENT Block Cipher on an Embedded Device. ARES 2018 Proceedings of the 13th International Conference on Availability, Reliability and Security. ACM Press. https://doi.org/10.1145/3230833.3232801
-* Gobeo, A., Fowler, C., & Buchanan, B. (2018). GDPR and Cyber Security for Business Information Systems. River Publishers.
-* Asif, R., Haithem, M., & Buchanan, W. J. (2018). Experimental High Speed Data Encryption via SDM-CV-QKD Signaling for High-Capacity Access Network. Advanced Photonics Networks. OSA. https://doi.org/10.1364/networks.2018.neth2f.3
-* Bell, L., Buchanan, W. J., Cameron, J., & Lo, O. (2018). Applications of Blockchain Within Healthcare. Blockchain in Healthcare Today.
-* Agyepong, E., Buchanan, W., & Jones, K. (2018). Detection of Algorithmically Generated Malicious Domain. CS & IT-CSCP 2018 (pp. 13-32). Academy & Industry Research Collaboration Center (AIRCC). https://doi.org/10.5121/csit.2018.80802
-* Buchanan, B., & Naqvi, N. (2018). Analysis: Building the Future of EU: Moving Forward with International Collaboration on Blockchain. The Journal of the British Blockchain Association, 1(1), 1-4.
-* Sudozai, M. A. K., Saleem, S., Buchanan, W. J., Habib, N., & Zia, H. (2018). Forensics study of IMO call and chat app. Digital Investigation. https://doi.org/10.1016/j.diin.2018.04.006
-* Murnion, S., Buchanan, W. J., Smales, A., & Russell, G. (2018). Machine learning and semantic analysis of in-game chat for cyber bullying. Computers and Security, 76, 197-213. https://doi.org/10.1016/j.cose.2018.02.016
-* Buchanan, W. J., Li, S., & Asif, R. (2018). Lightweight cryptography methods. Journal of Cyber Security Technology, 1(3-4), 187-201. https://doi.org/10.1080/23742917.2017.1384917
-* Tweneboah-Koduah, S., & Buchanan, W. J. (2018). Security Risk Assessment of Critical Infrastructure Systems: A Comparative Study. Computer Journal, 61(9), 1389-1406. https://doi.org/10.1093/comjnl/bxy002
-* Lo, O., Buchanan, W. J., Griffiths, P., & Macfarlane, R. (2018). Distance Measurement Methods for Improved Insider Threat Detection. Security and Communication Networks, 2018, 1-18. https://doi.org/10.1155/2018/5906368
-* Moradpoor, N., Clavie, B., & Buchanan, B. (2018). Employing machine learning techniques for detection and classification of phishing emails. Proceedings of the IEEE Technically Sponsored Computing Conference 2017. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/SAI.2017.8252096
-* McLaren, P., Russell, G., & Buchanan, B. (2018). Mining malware command and control traces. Proceedings of the SAI Computing Conference 2017. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/SAI.2017.8252185
-
-### 2017
-* Spyra, G., Buchanan, W. J., & Ekonomou, E. (2017, November 29-30). Blockchain and Git repositories for sticky policies protected OOXML. [Conference session]. FTC 2017 - Future Technologies Conference 2017.
-* Uwagbole, S. O., Buchanan, W. J., & Fan, L. (2017). An applied pattern-driven corpus to predictive analytics in mitigating SQL injection attack. 2017 Seventh International Conference on Emerging Security Technologies (EST),. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/est.2017.8090392
-* Ukwandu, E., Buchanan, W. J., & Russell, G. (2017). Performance Evaluation of a Fragmented Secret Share System. Proceedings of the International Conference on Cyber Situational Awareness, Data Analytics and Assessment (Cyber SA 2017). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/cybersa.2017.8073396
-* Buchanan, W. J., Chiale, S., & Macfarlane, R. (2017). A methodology for the security evaluation within third-party Android Marketplaces. Digital Investigation, 23, 88-98. https://doi.org/10.1016/j.diin.2017.10.002
-* Buchanan, W. J., Helme, S., & Woodward, A. (2018). Analysis of the adoption of security headers in HTTP. IET Information Security, 12(2), 118-126. https://doi.org/10.1049/iet-ifs.2016.0621
-* Buchanan, B. (2017). Cryptography. River Publishers.
-* Uwagbole, S. O., Buchanan, W. J., & Fan, L. (2017). Applied Machine Learning predictive analytics to SQL Injection Attack detection and prevention. 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM),. Institute of Electrical and Electronics Engineers. https://doi.org/10.23919/INM.2017.7987433
-* Asif, R., & Buchanan, W. J. (2017). Quantum-to-the-Home: Achieving Gbits/s Secure Key Rates via Commercial Off-the-Shelf Telecommunication Equipment. Security and Communication Networks, 2017, 1-10. https://doi.org/10.1155/2017/7616847
-* Spyra, G., Buchanan, W. J., & Ekonomou, E. (2017). Sticky policies approach within cloud computing. Computers and Security, 70, 366-375. https://doi.org/10.1016/j.cose.2017.07.005
-* Asif, R., & Buchanan, W. J. (2017). Seamless Cryptographic Key Generation via Off-the-Shelf Telecommunication Components for End-to-End Data Encryption. International Conference on Internet of Things (iThings-2017). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2017.140
-* Buchanan, W. J., Woodward, A., & Helme, S. (2017). Cryptography across industry sectors. Journal of Cyber Security Technology, 1(3-4), 145-162. https://doi.org/10.1080/23742917.2017.1327221
-* Buchanan, B. (2017, May 18). How WannaCry caused global panic but failed to turn much of a profit. The Conversation.
-* Uwagbole, S. O., Buchanan, W. J., & Fan, L. (2017, May 8). Numerical Encoding to Tame SQL Injection Attacks [Paper presentation]. 3RD IEEE/IFIP Workshop on Security for Emerging Distributed Network Technologies (DISSECT), Lisbon, Portugal. http://researchrepository.napier.ac.uk/Output/687572
-* Buchanan, B. (2017, March 27). The next cyberattack could come from sound waves. The Conversation.
-* Buchanan, W., Thuemmler, C., Spyra, G., Smales, A., & Prajapati, B. (2017). Towards Trust and Governance in Integrated Health and Social Care Platforms. Health 4.0: How Virtualization and Big Data are Revolutionizing Healthcare (1, pp. 219-231). Springer International Publishing. https://doi.org/10.1007/978-3-319-47617-9_11
-* Saleem, K., Tan, Z., & Buchanan, W. (2017). Security for Cyber-Physical Systems in Healthcare. Health 4.0: How Virtualization and Big Data are Revolutionizing Healthcare (pp. 233-251). Springer Nature. https://doi.org/10.1007/978-3-319-47617-9_12
-
-### 2016 and before
-* Spyra, G., & Buchanan, W. J. (2016). Protecting Documents with Sticky Policies and Identity-Based Encryption. Proceedings of the Future Technologies Conference (FTC) 2016. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/FTC.2016.7821719
-* Molla, R., Romdhani, I., & Buchanan, B. (2016, November 29-December 2). 3LS-authenticate: an e-commerce challenge-response mobile application. [Paper presentation]. 13th ACS/IEEE International Conference on Computer Systems and Applications AICCSA 2016. http://researchrepository.napier.ac.uk/Output/353515
-* Buchanan, W. J., & van Deursen, N. (2016). HI-risk: A method to analyse health information risk intelligence. 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/healthcom.2016.7749536
-* Buchanan, W., & Woodward, A. (2016). Will quantum computers be the end of public key encryption?. Journal of Cyber Security Technology, 1(1), 1-22. https://doi.org/10.1080/23742917.2016.1226650
-* Lo, O., Buchanan, W. J., & Carson, D. (2016). Power analysis attacks on the AES-128 S-box using differential power analysis (DPA) and correlation power analysis (CPA). Journal of Cyber Security Technology, 1(2), 88-107. https://doi.org/10.1080/23742917.2016.1231523
-* Spyra, G., Buchanan, W. J., & Ekonomou, E. (2016). Sticky policy enabled authenticated OOXML. Conference Proceedings of the IEEE Technically Sponsored SAI Computing Conference 2016. Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/SAI.2016.7556117
-* Buchanan, B. (2016, August 5). If two countries waged cyber war on each another, here’s what to expect. The Conversation.
-* Lanc, D., Fan, L., MacKinnon, L., & Buchanan, B. (2016). Resilient secret sharing cloud based architecture for data vault. (Patent Application No. US20170005797A1).
-* Leimich, P., Harrison, J., & Buchanan, W. J. (2016). A RAM triage methodology for Hadoop HDFS forensics. Digital Investigation, 18, 96-109. https://doi.org/10.1016/j.diin.2016.07.003
-* Uwagbole, S., Buchanan, W., & Fan, L. (2016). Applied web traffic analysis for numerical encoding of SQL Injection attack features. ECCWS-2016. https://dl.acm.org/citation.cfm?id=3055937
-* Uwagbole, S., Buchanan, W. J., & Fan, L. (2016). Numerical encoding to tame SQL injection attacks. 2016 IEEE/IFIP Network Operations and Management Symposium (NOMS),. IEEE. https://doi.org/10.1109/NOMS.2016.7502997
-* Li, S., Romdhani, I., & Buchanan, W. (2016). Password Pattern and Vulnerability Analysis for Web and Mobile Applications. ZTE Communications, 14, 32-36. https://doi.org/10.3969/j.issn.1673-5188.2016.S0.006
-* Buchanan, W. J. (2016, April 26). Bitcoin mining is about to become a lot less profitable. The Conversation.
-* Buchanan, W. J., Ukwandu, E., van Deursen, N., Fan, L., Russell, G., Lo, O., & Thuemmler, C. (2016). Secret shares to protect health records in Cloud-based infrastructures. 2015 17th International Conference on E-health Networking, Application & Services (HealthCom). IEEE. https://doi.org/10.1109/HealthCom.2015.7454589
-* Prajapati, B., Buchanan, W. J., Smales, A., Macfarlane, R., & Spyra, G. (2015). Review of e-Health Frameworks. Health Informatics Conference 2015. BCS eWiC.
-* Buchanan, W. J. (2015). When amateurs do the job of a professional, the result is smart grids secured by dumb crypto. The Conversation.
-* Buchanan, W. J. (2015). US hack shows data is the new frontier in cyber security conflict. The Conversation.
-* Ukwandu, E., Buchanan, W. J., Fan, L., Russell, G., & Lo, O. (2015). RESCUE: Resilient Secret Sharing Cloud-based Architecture. 2015 IEEE Trustcom/BigDataSE/ISPA Vol. 1 (pp. 872-879). IEEE Computer Society. https://doi.org/10.1109/Trustcom.2015.459
-* Buchanan, W. J., Lanc, D., Ukwandu, E., Fan, L., Russell, G., & Lo, O. (2015). The future internet: a world of secret shares. Future Internet, 7(4), 445-464. https://doi.org/10.3390/fi7040445
-* Sieklik, B., Macfarlane, R., & Buchanan, W. J. (2016). Evaluation of TFTP DDoS amplification attack. Computers and Security, 57, 67-92. https://doi.org/10.1016/j.cose.2015.09.006
-* Spyra, G., Buchanan, W. J., & Ekonomou, E. (2015). Sticky-Policy enabled authenticated OOXML for Health Care. Proceedings of BCS Health Informatics Scotland 2015 Conference. BCS Health Informatics. https://doi.org/10.14236/ewic/HIS2015.3
-* Buchanan, W. J., Ramsay, B., Macfarlane, R., Smales, A., Keane, E., Callahan, C., Blazic, B. J., & Popov, O. (2015, September 3-4). Evaluation of the DFET Cloud. [Paper presentation]. Cybercrime Forensics Education and Training (CFET) conference.
-* Buchanan, W. J. (2015, July 21). Ashley Madison breach reveals the rise of the moralist hacker. The Conversation.
-* Buchanan, W. J. (2015, June 18). Cyber security challenges for cloud based services. [Paper presentation]. Scot-Cloud 2015, Dynamic Earth, Edinburgh.
-* Buchanan, W. J., Ramsay, B., Macfarlane, R., Smales, A., & Russell, G. (2015, June 1). Teaching penetration and malware analysis in a cloud-based environment. [Paper presentation]. UK Workshop on Cybersecurity Training & Education. http://researchrepository.napier.ac.uk/id/eprint/8916
-* Buchanan, W. J. (2015, May 19). Apple and Starbucks could have avoided being hacked if they'd taken this simple step. The Conversation.
-* Buchanan, W. J. (2015, May 14). Vulnerability analysis. [Presentation / Talk]. Advanced Threat Protection.
-* Buchanan, W. J. (2015, May 8). Edinburgh leading world in beating online crime. The Scotsman. http://www.scotsman.com/news/edinburgh-leading-world-in-beating-online-crime-1-3766467
-* Buchanan, W. J. (2015, April 30). Identifying areas of vulnerability. [Conference session]. Scot-secure 2015.
-* Buchanan, W. J. (2015, April 23). Promoting passion in an innovation and enterprise culture. [Conference session]. Exploring 21st Century Organisational Culture: inclusivity, agility and innovation.
-* Buchanan, W. J., & Smales, A. (2015, April 1). New forensic investigation and training methods in a virtual environment (cloud) (D-FET project). [Paper presentation]. Cybercrime and Cyberterrorism - the EU Research roadmap. http://researchrepository.napier.ac.uk/id/eprint/8760
-* Buchanan, W. J. (2015, March 17). Creating efficiency by managing innovation. [Paper presentation]. Efficiency Through Technology: Public Sector 2.0.
-* Penrose, P., Buchanan, W. J., & Macfarlane, R. (2015). Fast contraband detection in large capacity disk drives. Digital Investigation, 12(S1), S22-S29. https://doi.org/10.1016/j.diin.2015.01.007
-* Buchanan, W. J. (2015, February 24). Lenovo’s security debacle reveals blurred boundary between adware and malware. The Conversation.
-* Buchanan, W. J. (2015, February 12). It's all hackable. [Paper presentation]. SBRC Insider Threat Conference 2015.
-* Buchanan, W. J., & Smales, A. (2015, February 5). Cyber security in practice: identifying areas of vulnerability. [Paper presentation]. Scot-Secure 2015.
-* Buchanan, W. J. (2015). The increasing challenge for digital forensics. The Texas Investigator, 10-12. http://www.nxtbook.com/naylor/TLIQ/TLIQ0414/index.php?startid=10
-* Buchanan, W. J. (2015, January 22). If Obama is talking about securing the net, it should be on everyone else’s lips too. The Conversation.
-* Buchanan, W. J. (2015, January 14). If you seek to ‘switch off’ encryption, you may as well switch off the whole internet. The Conversation.
-* Buchanan, W. J. (2015, January 1). Advanced persistent threat and Insiders. [Paper presentation]. Advanced Persistent Threat.
-* Buchanan, W. J. (2015, January 1). An Analysis of N5 and Higher Computing. [Paper presentation]. Computing at School.
-* Smales, A., Buchanan, W. J., & Thuemmler, C. (2015, January 1). Review of e-Frailty evaluation frameworks. [Paper presentation]. HIS 2015. http://researchrepository.napier.ac.uk/id/eprint/9031
-* Buchanan, W. J. (2014). How the love of one teenager brought Tweetdeck to its knees. The Conversation.
-* Buchanan, W. J. (2014). Traffic light hacking shows the Internet of Things must come with better security. The Conversation.
-* Buchanan, W. J., Fan, L., Uthmani, O., & Lawson, A. Information sharing.
-* Spyra, G., Buchanan, W. J., Cruickshank, P., & Ekonomou, E. (2014). Cloud-based identity and identity meta-data: secure and control own data in globalization era. International Journal of Reliable and Quality E-Healthcare, 3. https://doi.org/10.4018/ijrqeh.2014010105
-* Buchanan, W. J. (2014, November 24). Codebreaking has moved on since Turing’s day, with dangerous implications. The Conversation.
-* Buchanan, W. J. (2014, November 5). Better locks to secure our data are the inevitable result of too many prying eyes. The Conversation.
-* Buchanan, W. J. (2014, October 31). In cybersecurity, the weakest link is … you. The Conversation.
-* Buchanan, W. J. (2014, October 13). When the ATM runs Windows, how safe is your money?. The Conversation.
-* Buchanan, W. J. (2014, October 8). iWorm hack shows Macs are vulnerable too. The Conversation.
-* Buchanan, W. J. (2014, September 9-11). Complete anatomy of Heartbleed, Truecrypt and large-scale vulnerabilities. [Paper presentation]. 7th International Conference on Security of Information and Networks (SIN 2014).
-* Flandrin, F., Buchanan, W. J., Macfarlane, R., Ramsay, B., & Smales, A. (2014, July 10-11). Evaluating Digital Forensic Tools (DFTs).. 7th International Conference : Cybercrime Forensics Education & Training. http://researchrepository.napier.ac.uk/id/eprint/6906
-* Molla, R., Romdhani, I., Buchanan, W. J., & Fadel, E. Y. (2014, June 17-19). Mobile User Authentication System for E-commerce Applications. [Paper presentation]. International Conference on Advanced Networking, Distributed Systems and Applications 2014. http://researchrepository.napier.ac.uk/id/eprint/6850
-* Buchanan, W. J. (2014, April 1). Discrete Logarithms within Computer and Network Security. [Conference session]. Napier 400 - Numerical Algorithms and Intelligent Software Symposium. http://researchrepository.napier.ac.uk/id/eprint/6872
-*  Kwecka, Z., Buchanan, W. J., Schafer, B., & Rauhofer, J. (2014). “I am Spartacus”: privacy enhancing technologies, collaborative obfuscation and privacy as a public good. Artificial Intelligence and Law, 22(2), 113-139. https://doi.org/10.1007/s10506-014-9155-5
-* Buchanan, W. J., & Smales, A. (2014, February 1). The Risks and Opportunities of Mobile Working within Cloud Environments. [Paper presentation]. Practical Perspectives on Secure Mobile Working. http://researchrepository.napier.ac.uk/id/eprint/6848
-* Fricker, S., Fiedler, M., Grottland, A., Jell, T., Magedanz, T., Thuemmler, C., Mival, O., Benyon, D., Buchanan, W. J., & Paulin, A. (2014). Norms and standards in modular medical architectures. 2013 IEEE 15th International Conference on e-Health Networking, Applications and Services (Healthcom) (IEEE Healthcom 2013) (pp. 382-387). IEEE. https://doi.org/10.1109/HealthCom.2013.6720705
-* Buchanan, W. J. (2014, January 1). Creating engaging and stimulating Web based material [Conference session]. LTT 2014. http://researchrepository.napier.ac.uk/id/eprint/6873
-* Buchanan, W. J. (2014, January 1). The New Enlightenment in Scotland. [Paper presentation]. Secure Scotland.
-* Buchanan, W. J. (2014, January 1). The future of computer science education and observations from on-line learning. [Paper presentation]. Higher Computing Science National Qualifications Support. http://researchrepository.napier.ac.uk/id/eprint/6909
-* Buchanan, W. J., Macfarlane, R., & Clayton, J. (2013). Experimental evaluation of disk sector hash comparison for forensic triage using a Bloom filter. In G. Weir, & M. Daley (Eds.), Cyberforensics Perspectives : Proceedings of the 3rd International Conference on Cybercrime, Security and Digital Forensics (Cyberforensics 2013). https://pureportal.strath.ac.uk/en/publications/cyberforensics-perspectives-proceedings-of-the-3rd-international-
-* Buchanan, W. J., Uthmani, O., Fan, L., Burns, N., Lo, O., Lawson, A., Varga, J., & Anderson, C. (2013, April). Modelling of integrated trust, governance and access safi.re: Information Sharing Architecture.. CSP 2013: Cyber Security and Privacy. https://doi.org/10.1007/978-3-642-41205-9_8
-* Kwecka, Z., Buchanan, W. J., Schafer, B., & Rauhofer, J. (2013, September 16-20). Schutz der Anonymität als Gemeinschaftsaufgabe – eine neue Generation von PETs?. INFORMATIK 2013. http://www.iidi.napier.ac.uk/c/publications/publicationid/13375205
-* Lo, O., Fan, L., Buchanan, W. J., & Thuemmler, C. (2013). Conducting Performance Evaluation of an e-Health Platform. In T. Issa, P. Isaías, & P. Kommers (Eds.), Advances in Business Information Systems and Analytics; Information Systems and Technology for Organizations in a Networked Society (pp. 295-315). IGI Global Publishing. https://doi.org/10.4018/978-1-4666-4062-7.ch016
-* Uthmani, O., Buchanan, W. J., Fan, L., & Lawson, A. (2013). Evaluation of binary decision diagrams for redundancy, shadowing, generalisation and correlation in an Information sharing model. http://researchrepository.napier.ac.uk/id/eprint/6469
-* Uthmani, O., Buchanan, W. J., Fan, L., & Lawson, A. (2013). A novel Information sharing model using binary decision diagrams for redundancy, shadowing, generalisation and correlation. http://researchrepository.napier.ac.uk/id/eprint/6467
-* Penrose, P., Macfarlane, R., & Buchanan, W. J. (2013). Approaches to the classification of high entropy file fragments. Digital Investigation, 10(4), 372-384. https://doi.org/10.1016/j.diin.2013.08.004
-* Buchanan, W. J., & Smales, A. (2013, September 1). Cyber risk and opportunities in the Cloud. [Paper presentation]. Cloud Security Congress 2013. http://researchrepository.napier.ac.uk/id/eprint/6456
-* Buchanan, W. J., Fan, L., Uthmani, O., & Schafer, B. (2013). Interagency data exchange, privacy protection and governance architecture for Information sharing across domains. http://researchrepository.napier.ac.uk/id/eprint/6464
-* van Deursen, N., Buchanan, W. J., & Duff, A. (2013). Monitoring information security risks within health care. Computers and Security, 37, 31-45. https://doi.org/10.1016/j.cose.2013.04.005
-* Buchanan, W. J., Burns, N., Lo, O., Lewis, R., Uthmani, O., & Fan, L. (2013, April 1). A scaleable and trusted e-Health eco-system: safi.re [Paper presentation]. Cyber Security and Privacy EU Forum 2013. http://researchrepository.napier.ac.uk/id/eprint/6065
-* Buchanan, W. J. (2013, March 1). The challenges of Big Data: future risks, governance and trust. [Paper presentation]. The Future of Cyber Security 2013. http://researchrepository.napier.ac.uk/id/eprint/6021
-* Buchanan, W. J. (2013, January 1). Building a new nation: risk, goverance and trust. [Conference session]. Cyber Security 2013. http://researchrepository.napier.ac.uk/id/eprint/6023
-* Buchanan, W. J., & Smales, A. (2013, January 1). Public perceptions in health care security. [Paper presentation]. Health Informatics 2013. http://researchrepository.napier.ac.uk/id/eprint/6455
-* Buchanan, W. J., & Smales, A. (2013, January 1). e-Health in the Cloud [Conference session]. Future of e-Health.
-* Buchanan, W. J. (2012). Advanced cloud and virtualisation.. CRC Press.
-* Buchanan, W. J. (2012, June 13-15). Future risks – Including the rise of the hacktivism.. National Information Security Conference (NISC). http://researchrepository.napier.ac.uk/id/eprint/5564
-* Buchanan, W. J. (2012). Plugging the Gaps. ITNOW, 54, 36-37. https://doi.org/10.1093/itnow/bws108
-* Buchanan, W. J., Fan, L., Lawson, A., Schafer, B., Scott, R., Thuemmler, C., & Uthmani, O. (2012, December 17-19). Computational data protection law: trusting each other offline and online. https://doi.org/10.3233/978-1-61499-167-0-31
-* Fan, L., Buchanan, W. J., Lo, O., Thuemmler, C., Lawson, A., Uthmani, O., Ekonomou, E., & Khedim, A. S. (2012, January 30-February 4). SPoC: Protecting Patient Privacy for e-Health Services in the Cloud. http://researchrepository.napier.ac.uk/id/eprint/4992
-* Lo, O., Fan, L., Buchanan, W. J., & Thuemmler, C. (2012, July 17-19). Technical evaluation of an e-health platform.. IADIS International Conference e-Health 2012. http://researchrepository.napier.ac.uk/id/eprint/5565
-* Thuemmler, C., Fan, L., Buchanan, W. J., Lo, O., Ekonomou, E., & Khedim, A. S. (2012). E-Health: chances and challenges of distributed, service oriented architectures. Journal of cyber security and mobility, 37. http://riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439%20_113.pdf
-* Uwagbole, S., Buchanan, W. J., & Fan, L. (2012). Novel tracking of rogue network packets using danger theory approach. Proceedings of the ... international conference on information warfare and security, 277-286.
-* Bani Khalaf, M., Al-Dubai, A., & Buchanan, W. J. (2012, April 18-20). A new efficient distributed route discovery for wireless mobile ad hoc networks.. Wireless Telecommunications Symposium (WTS), 2012. https://doi.org/10.1109/WTS.2012.6266129
-* Lo, O., Fan, L., Buchanan, W. J., Thuemmler, C., & Lawson, A. (2012, June 25-26). Towards simulation of patient data for evaluation of E-health platform and services. [Paper presentation]. 13th Annual Post Graduate Symposium on the Convergence of Telecommunications, Networking and Broadcasting. http://researchrepository.napier.ac.uk/id/eprint/5522
-* Buchanan, W. J. (2012, June 1). Training the next generation. [Paper presentation]. http://researchrepository.napier.ac.uk/id/eprint/5657
-* Buchanan, W. J. (2012, June 1). Innovation in cloud environments. [Paper presentation]. Future of Technology. http://researchrepository.napier.ac.uk/id/eprint/5567
-* Buchanan, W. J. (2012, June 1). Introducing Cloud-based virtualised environments and their use in supporting learning and teaching. [Paper presentation]. Enhancing, extending and empowering student learning within online environments. http://researchrepository.napier.ac.uk/id/eprint/5566
-* Buchanan, W. J., Uthmani, O., Lewis, R., Steyven, A., Fan, L., Thuemmler, C., Ekonomou, E., Lo, O., & Lawson, A. (2012, June 1). Information sharing around child protection. [Paper presentation]. Information Sharing in the Public Sector. http://researchrepository.napier.ac.uk/id/eprint/5656
-* Buchanan, W. J. (2012, May 23). Education & training for future threats. [Paper presentation]. ITEC 2012. http://researchrepository.napier.ac.uk/id/eprint/5523
-* Buchanan, W. J. (2012, May 17-18). Towards a new health and social care information sharing architecture. [Presentation / Talk]. http://researchrepository.napier.ac.uk/id/eprint/5839
-* Buchanan, W. J., Fan, L., Ekonomou, E., & Lo, O. (2012, May 17-18). Cloud4Health. [Paper presentation]. Symposium on the Future of e-Health. http://researchrepository.napier.ac.uk/id/eprint/5521
-* Buchanan, W. J., Fan, L., Ekonomou, E., Lo, O., Uthmani, O., & Thuemmler, C. (2012, May 1). Integrating assisted living with primary and secondary health care. [Paper presentation]. Data Handling in Health and Social Care: Striking the balance between confidentiality, security and information sharing. http://researchrepository.napier.ac.uk/id/eprint/5519
-* Buchanan, W. J., Kwecka, Z., & Ekonomou, E. (2013). A Privacy Preserving Method Using Privacy Enhancing Techniques for Location Based Services. Mobile Networks and Applications, 18(5), 728-737. https://doi.org/10.1007/s11036-012-0362-6
-* Buchanan, W. J., Macfarlane, R., Graves, J., Fan, L., Ekonomou, E., & Bose, N. (2012, March 1). Cloud Forensics. [Paper presentation]. International Seminar on Policing Digital Crime.
-* Buchanan, W. J., Fan, L., Ekonomou, E., Thuemmler, C., & Lo, O. (2012, February 29). Holistic healthcare within dynamic information infrastructures-the cloud based eHealth platform. [Paper presentation]. eHealth 2012. http://researchrepository.napier.ac.uk/id/eprint/5226
-* Buchanan, W. J., Fan, L., Ekonomou, E., Lo, O., & Thuemmler, C. (2012, February 21). Case Study: moving towards an e-health platform to store NHS patient Information in the cloud. [Paper presentation]. Cloud Computing in the Public Sector: The Way Forward. http://researchrepository.napier.ac.uk/id/eprint/5115
-* Buchanan, W. J. (2012, February 1). Skills for cyber security. [Paper presentation]. Cybercrime and Data Protection, Edinburgh. http://researchrepository.napier.ac.uk/id/eprint/5114
-* Buchanan, W. J., Fan, L., Ekonomou, E., Lo, O., & Thuemmler, C. (2012, February 1). Patient centric health care: an integrated and secure, cloud-based, e-Health platform. [Paper presentation]. BCS Branch Meeting. http://researchrepository.napier.ac.uk/id/eprint/5113
-* Buchanan, W. J., Fan, L., Ekonomou, E., Lo, O., Thuemmler, C., & Lawson, A. (2012, January 23-24). The UK’s eHealth cloud project: EHR and the cloud: assessing the benefits and mitigating the risks. [Paper presentation]. Arab Health 2012 (Electronic Healthcare Records). http://www.iirme.com/ehealthrecords/agenda/day-two
-* Buchanan, W. J. (2012, January 1). New Threats [Paper presentation]. Transatlantic Conference 2012. http://researchrepository.napier.ac.uk/id/eprint/5520
-* Buchanan, W. J., Flandrin, F., Macfarlane, R., & Graves, J. (2011, June 27-28). A methodology to evaluate rate-based intrusion prevention system against distributed denial-of-service (DDoS).. Cyberforensics 2011. http://researchrepository.napier.ac.uk/id/eprint/4432
-* Buchanan, W. J., Graves, J., Bose, N., Macfarlane, R., Davison, B., & Ludwiniak, R. (2011). Performance and student perception evaluation of cloud-based virtualised security and digital forensics labs. HEA ICS Conference.
-* Buchanan, W. J., & Kwecka, Z. (2011). A novel privacy preserving method for the location tracking of mobile devices. Wireless Networks.
-* Buchanan, W. J., Fan, L., Thuemmler, C., Lo, O., & Ekonomou, E. (2011, September 1). Cloud-based e-Health System. [Paper presentation]. BCS Health Informatics. http://researchrepository.napier.ac.uk/id/eprint/4708
-* Buchanan, W. J. (2011). Introduction to security and network forensics.. Auerbach Publications.
-* Miehling, M. J., Buchanan, W. J., & Lawson, A. (2011, August 1). Detection framework for the reduction of click-through and ID theft fraud in affiliate marketing. [Paper presentation]. SCONE-the Scottish Networking Event.
-* Uthmani, O., Buchanan, W. J., & Lawson, A. (2011, August 1). Risk analysis for criminal context in information sharing policies. [Paper presentation]. SCONE - the Scottish Networking event.
-* Buchanan, W. J. (2011, June 30). Next generation secure e-health platform. [Paper presentation]. BCS ISSG seminar "The Insider Threat". http://researchrepository.napier.ac.uk/id/eprint/4612
-* Buchanan, W. J., Macfarlane, R., Flandrin, F., Graves, J., Fan, L., Ekonomou, E., Bose, N., & Ludwiniak, R. (2011, June 27-28). Cloud-based digital forensics evaluation test (D-FET) platform. [Paper presentation]. Cyberforensics 2011. http://researchrepository.napier.ac.uk/id/eprint/4429
-* Uthmani, O., Buchanan, W. J., Lawson, A., Scott, R., Schafer, B., & Fan, L. (2011). Crime risk evaluation within information sharing between the police and community partners. Information and Communications Technology Law, 20(2), 57-81. https://doi.org/10.1080/13600834.2011.578922
-* Buchanan, W. J., & Macfarlane, R. (2011, June 1). D-FET – A community cloud for enhancing skills using virtualised environments and cloud-based infrastructures. [Paper presentation]. Scottish Higher Education Employability Conference: Strengthening Partnerships with Employers. http://researchrepository.napier.ac.uk/id/eprint/4592
-* Scott, R., Uthmani, O., Buchanan, W. J., & Lawson, A. (2011, June 1). Intelligence information sharing between the police and their community partners [Paper presentation]. Symposium on Security and Cybercrime. http://researchrepository.napier.ac.uk/id/eprint/4613
-* Buchanan, W. J. (2011, May 1). A next generation Cloud-based health care platform. [Paper presentation]. Innovation in Healthcare. http://researchrepository.napier.ac.uk/id/eprint/4436
-* Buchanan, W. J. (2011, January 1). Making assessment and feedback fun: feedback before and after assessments. [Paper presentation]. Edinburgh Napier University Staff Conference. http://researchrepository.napier.ac.uk/id/eprint/4593
-* Buchanan, W. J. (2011, January 1). Student perception of on-line lectures with a blended learning environment. [Paper presentation]. Edinburgh Napier University Staff Conference.
-* Bani Khalaf, M., Al-Dubai, A., & Buchanan, W. J. (2010, June 27-29). A new adaptive broadcasting approach for mobile ad hoc networks. https://doi.org/10.1109/WIAD.2010.5544944
-* Buchanan, W. J., Graves, J., & Bose, N. Patent: Improvements in or relating to digital forensics.
-* Kwecka, Z., Buchanan, W. J., & Spiers, D. A. (2010, July 11-15). Privacy-preserving data acquisition protocol.. https://doi.org/10.1109/SIBIRCON.2010.5555325
-* Mason, A. M., Dingle, N. J., Knottenbelt, W. J., Bell, D., Buchanan, W. J., & Thuemmler, C. (2010). Modelling infection spread using location tracking. International Journal of Healthcare Technology and Management, 11, 442-461. https://doi.org/10.1504/IJHTM.2010.036925
-* Miehling, M. J., Buchanan, W. J., Old, L. J., Batey, A., & Rahman, A. (2010, July 1-2). Analysis of malicious affiliate network activity as a test case for an investigatory framework.. http://researchrepository.napier.ac.uk/id/eprint/3818
-* Smith, M., Buchanan, W. J., Thuemmler, C., Bell, D., & Hazelhoff Roelfzema, N. (2010). Analysis of Information governance and patient data protection within primary health care. International Journal for Quality in Health Care.
-* Thuemmler, C., & Buchanan, W. J. (2010, October). Review of "Coding for Success" implementation.. Department of Health. http://www.dh.gov.uk/en/Healthcare/Patientsafety/DH_4066328
-* Thuemmler, C., & Buchanan, B. (2010, October 21). Review of Coding for Success implementation. http://www.dh.gov.uk/en/Healthcare/Patientsafety/DH_4066328
-* Buchanan, W. J., Thuemmler, C., Fan, L., Lo, O., & Khedim, A. S. (2010, August 1). Information sharing framework: next generation e-Health cloud.. BCS Health Informatics Scotland. http://researchrepository.napier.ac.uk/id/eprint/4045
-* Buchanan, W. J., Thuemmler, C., Fan, L., Lo, O., & Khedim, A. S. (2010, August 1). An e-Health cloud.. Cloud Computing for the Public Sector. http://researchrepository.napier.ac.uk/id/eprint/4046
-* Buchanan, W. J., Fan, L., Lawson, A., Schafer, B., Scott, R., Thuemmler, C., & Uthmani, O. (2010, December 16-17). Interagency data exchange protocols as computational data protection law. JURIX 2010. http://researchrepository.napier.ac.uk/id/eprint/3875
-* Uthmani, O., Buchanan, W. J., Lawson, A., Thuemmler, C., Fan, L., Scott, R., Lavery, A., & Mooney, C. (2010, July 1-2). Novel information sharing syntax for data sharing between police and community partners, using role-based security.. 9th European Conference on Information Warfare and Security, University of Macedonia, Thessaloniki, Greece. http://researchrepository.napier.ac.uk/id/eprint/3866
-* Lo, O. C. W., Graves, J. R., & Buchanan, W. J. (2010). Towards a framework for the generation of enhanced attack/background network traffic for evaluation of network-based intrusion detection systems. In J. Demergis (Ed.), Proceedings of 9th European Conference on Information Warfare and Security (pp. 190-200). ACI.
-* Uthmani, O., Buchanan, W. J., & Lawson, A. (2010, February 1). Novel information sharing architecture between the Police and their community partners.. Scottish Networking Event 2010. http://researchrepository.napier.ac.uk/id/eprint/4052
-* Kwecka, Z., Buchanan, W. J., & Spiers, D. A. (2009, July 6-7). Application and analysis of private matching schemes based on commutative cryptosystems.. 9th European Conference on Information Warfare and Security. http://researchrepository.napier.ac.uk/id/eprint/3938
-* Fekri, A. H., Thuemmler, C., Buchanan, W., Fekri, H., & Lawson, A. (2009). Radio frequency identification (RFID) in pervasive healthcare. International Journal of Healthcare Technology and Management, 10(1/2), 119. https://doi.org/10.1504/ijhtm.2009.023731
-* Garrigues, C., Migas, N., Buchanan, W., Robles, S., & Borrell, J. (2009). Protecting mobile agents from external replay attacks. Journal of Systems and Software, 82(2), 197-206. https://doi.org/10.1016/j.jss.2008.05.018
-* Kwecka, Z., Buchanan, W. J., & Saliou, L. (2008, June 30-July 1). Validation of 1-N OT algorithms in privacy-preserving investigations.. 7th European Conference on Information Warfare and Security. http://researchrepository.napier.ac.uk/id/eprint/3956
-* Migas, N., & Buchanan, W. J. (2008). Ad-hoc routing metrics and applied weighting for QoS support. 22nd IEEE International Parallel & Distributed Processing Symposium (pp. 1-8). IEEE. https://doi.org/10.1109/IPDPS.2008.4536496
-* Migas, N., Anastasiadou, C., & Buchanan, W. J. (2007). Mass customisation through personalised brochures: the role of digital printing. Information Systems.
-* Saliou, L., Buchanan, W. J., Graves, J., & Munoz, J. (2007, July 2-3). Scenario Analysis using Out-of-line Firewall Evaluation Framework. [Paper presentation]. 6th European Conference on Information Warfare, and Security, Shrivenham, UK. http://researchrepository.napier.ac.uk/id/eprint/2602
-* Thuemmler, C., Buchanan, W. J., & Kumar, V. (2007). Setting safety standards by designing a low-budget and compatible patient identification system based on passive RFID technology. International Journal of Healthcare Technology and Management, 8, 571-583. https://doi.org/10.1504/IJHTM.2007.013524
-* Abimbola, A., Munoz, J., & Buchanan, W. J. (2006). Enhancing intrusion detection via an active target host.. IEEE ICTe 2006. http://researchrepository.napier.ac.uk/id/eprint/3977
-* Abimbola, A., Munoz, J., & Buchanan, W. J. (2006). A framework to detect novel computer viruses via system calls.. 7th Annual PG Symposium on The Convergence of Telecommunications, Networking and Broadcasting. http://researchrepository.napier.ac.uk/id/eprint/3976
-* Buchanan, W. J., Migas, N., & McArtney, K. (2006, April 3). Agent-based systems for Ad-hoc routing.. BCS Symposium on Intelligence in Security and Forensic Computing. http://researchrepository.napier.ac.uk/id/eprint/4040
-* Intrusion Detection Systems (IDSs) are systems that protect against violation of data integrity, confidentiality and availability of resources. In the past 20 years, these systems have evolved with the technology and have become more sophisticated. D... Read More about NetHost-Sensor: Investigating the capture of end-to-end encrypted intrusive data.
- * Abimbola, A., Munoz, J., & Buchanan, W. J. (2006, July 16-18). Investigating false positive reduction in HTTP via procedure analysis.. IEEE International Conference on Networking and Services (ICNS 2006). https://doi.org/10.1109/ICNS.2006.65
- * Graves, J., Buchanan, W. J., Saliou, L., & Old, L. J. (2006, June 1-2). Performance analysis of network based forensic systems for in-line and out-of-line detection and logging.. 5th European Conference on Information Warfare and Security (ECIW). http://researchrepository.napier.ac.uk/id/eprint/1838
-* Saliou, L., Buchanan, W. J., Graves, J., & Munoz, J. (2006, June 1-2). Analysis of Firewall Performance Variation to Identify the Limits of Automated Network Reconfigurations.. 5th European Conference on Information Warfare and Security. http://researchrepository.napier.ac.uk/id/eprint/2601
-* Migas, N., & Buchanan, W. (2006, March 27-30). An auto-configurable, and, adaptable, metric-driven cluster-head organisation for hybrid multi-hop routing. 13th Annual IEEE International Symposium and Workshop on Engineering of Computer-Based Systems (ECBS'06). https://doi.org/10.1109/ecbs.2006.23
-* Abimbola, A. A., Munoz, J. M., & Buchanan, W. J. (2006). NetHost-sensor: Monitoring a target host's application via system calls. Information Security Technical Report, 11(4), 166-175. https://doi.org/10.1016/j.istr.2006.10.003
-* Buchanan, W. J., Graves, J., Saliou, L., Sebea, A. L., & Migas, N. (2005, July 11-12). Agent-based forensic investigations with an integrated framework.. 4th European Conference of Information Warfare and Security. http://researchrepository.napier.ac.uk/id/eprint/3953
-* Buchanan, W. J., Migas, N., Sinclair, G., & McArtney, K. (2006). Analysis of an agent-based metric-driven method for ad-hoc, on-demand routing. Ad hoc networks, 4(2), 147-167. https://doi.org/10.1016/j.adhoc.2004.04.009
-* Buchanan, W. (2006). Correlation between academic and skills-based tests in computer networks. British Journal of Educational Technology, 37(1), 69-78. https://doi.org/10.1111/j.1467-8535.2005.00476.x
-* Saliou, L., Buchanan, W. J., Graves, J., & Munoz, J. (2005, July 11-12). Novel Framework for Automated Security Abstraction, Modelling, Implementation and Verification. 4th European Conference on Information Warfare and Security. http://researchrepository.napier.ac.uk/id/eprint/2600
-* Migas, N., & Buchanan, W. J. (2005). Metric Evaluation of Embedded Java-Based Proxies on Handheld Devices in Cluster-Based Ad Hoc Routing. The 2005 IEEE Congress on Evolutionary Computation (3, pp. 147-154). IEEE. https://doi.org/10.1109/ecbs.2005.51
-* Buchanan, W. J., & Saliou, L. (2005). Enhanced Methods of Coursework Provision in Computer Networks. ITRE 2004. 2nd International Conference Information Technology: Research and Education (pp. 111-115). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/ITRE.2004.1393657
-* Buchanan, W. J., Raja, A., & Munoz, J. (2005). Critical analysis and error determination of locating-finding techniques in GSM. International Journal of Mobile Communications, 3, 165-182. https://doi.org/10.1504/IJMC.2005.005905
-* Abimbola, A., Munoz, J., & Buchanan, W. J. (2006, August 6-10). Analysis and detection of cruising computer viruses.. 3rd International Conference on Electronic Warfare and Security (EIWC). http://researchrepository.napier.ac.uk/id/eprint/3950
-* Buchanan, W. J. (2004). Handbook of data communications and networks.. Springer.
-* Buchanan, W. J. (2004). Uzytkowanie Komputerow.. Wkt (Poland).
-* Buchanan, W. J., Munoz, J., Manson, R., & Raja, K. A. (2004, October 18-24). Analysis and migration of location-finding methods for GSM and 3G networks.. 3G Mobile Communication Technologies, 2004. 3G 2004. Fifth IEE International Conference on, London. https://doi.org/10.1049/cp%3A20040695
-* Migas, N., Buchanan, W. J., & McArtney, K. (2004, May 27). Migration of mobile agents in ad-hoc wireless networks.. https://doi.org/10.1109/ECBS.2004.1316743
-* Buchanan, W. J., & Llamas, D. (2004, June). Covert channel analysis and detection using reverse proxy servers. [Paper presentation]. 3rd International Conference on Electronic Warfare and Security (EIWC). http://researchrepository.napier.ac.uk/id/eprint/3949
-* Raja, K., Buchanan, W. J., & Munoz, J. (2004). We know where you are [cellular location tracking]. Communications engineer, 2(3), 34-39. https://doi.org/10.1049/ce%3A20040307
-* Migas, N., Buchanan, W. J., & McArtney, K. (2003, November 5-8). MARIAN: A framework using mobile agents for routing, topology discovery and automatic network reconfiguration in ad-hoc networks.. IADIS International Conference, WWW/Internet 2003. http://researchrepository.napier.ac.uk/id/eprint/3986
-* Migas, N., Buchanan, W. J., & McArtney, K. (2003). Mobile agents for routing, topology discovery, and automatic network reconfiguration in ad-hoc networks. Proceedings. 10th IEEE International Conference and Workshop on the Engineering of Computer-Based Systems, 2003. (pp. 200-206). IEEE. https://doi.org/10.1109/ECBS.2003.1194800
-* Brown, E., & Buchanan, W. J. (2002). EML in the support of minority languages. LSTN, 106-107. http://www.ics.heacademy.ac.uk/Events/conf2002/ebrown.pdf
-* Buchanan, W. J. (2002). Mastering Computing.. Macmillan Press.
-* Buchanan, W. J. (2002)., Mastering Delphi programming. (2002)
-* Buchanan, W. J. (2002). The complete handbook of the Internet.. KLUWER ACADEMIC PUBLISHERS BOSTON.
-* Buchanan, W. J. (2002). Software development. The Complete Handbook of the Internet (pp. 941-968). Springer US. https://doi.org/10.1007/978-0-306-48331-8_44
-* Brown, E., & Buchanan, W. (2002). Towards reusable and reconfigurable models for the WWW. Proceedings 26th Annual International Computer Software and Applications (pp. 814-815). IEEE. https://doi.org/10.1109/cmpsac.2002.1045106
-* Pikoulas, J., Buchanan, W., Mannion, M., & Triantafyllopoulos, K. (2002). An intelligent agent security intrusion system. Proceedings Ninth Annual IEEE International Conference and Workshop on the Engineering of Computer-Based Systems (pp. 94-99). IEEE. https://doi.org/10.1109/ecbs.2002.999827
-* Pikoulas, J., Buchanan, W. J., Mannion, M., & Triantafyllopoulos, K. (2001, April 20). An agent based Bayesian forecasting model for enhanced network security.. ECBS 2001. https://doi.org/10.1109/ECBS.2001.922429
-* Buchanan, W. J., & Wilson, A. (2000). Advanced PC architecture.. Addison Wesley.
-* Buchanan, W. J. (2000). Computer Busses: design and application.. CRC Press.
-* Buchanan, W. J. (2000). Distributed systems and networks.. McGraw-Hill.
-* Buchanan, W. J., Naylor, M., & Scott, A. (2000, April 7). Enhancing network management using mobile agents.. https://doi.org/10.1109/ECBS.2000.839880
-* Lewis, O., Mannion, M., & Buchanan, W. J. (2000, June 4-11). Performance issues of variability design for embedded system product lines.. http://researchrepository.napier.ac.uk/id/eprint/3960
-* Pikoulas, J., Mannion, M., & Buchanan, W. J. (2000, April 7). Software agents and computer network security.. https://doi.org/10.1109/ECBS.2000.839879
-* Scott, A., & Buchanan, W. J. (2000, April 7). Truly distributed control systems using fieldbus technology.. https://doi.org/10.1109/ECBS.2000.839874
-* Scott, A., & Buchanan, W. J. (2000). Investigation, analysis and determination of inclusions in high‐tolerance board design. Circuit World, 26(2), 7-9. https://doi.org/10.1108/03056120010310873
-* Buchanan, W. J. (1999). Mastering Microsoft Windows, Novell NetWare and UNIX.. Palgrave Publishers.
-* Buchanan, W. J. (1999). Mastering Networks.. Macmillan Press.
-* Buchanan, W. J. (1999). PC Interfacing, communications and Windows programming.. Addison-Wesley Longman Ltd.
-* Scott, A. V., & Buchanan, W. J. (1999). Excluding inclusions [PCB inspection]. Manufacturing Engineer, 78(4), 154-156. https://doi.org/10.1049/me%3A19990403
-* Buchanan, W. J. (1998). Advanced PC interfacing, communications and Windows programming.. Addison-Wesley.
-* Buchanan, W. J. (1998). Mastering Java.. Macmillan Press.
-* Buchanan, W. J. (1998). Mastering Pascal and Delphi programming.. Macmillan Press.
-* Buchanan, W. J. (1997). Advanced data communications and networks.. Chapman and Hall.
-* Buchanan, W. J. (1997). Mastering Global Information Systems.. Macmillan Press.
-* Buchanan, W. J. (1997). Mastering the Internet.. Macmillan Press.
-* Buchanan, W. J. (1997). Microelectronic systems: design, modelling and test.. Arnold.
-* Buchanan, W. J. (1997). Software development for engineers.. Butterworth-Heinemann.
-* Buchanan, W. J. (1997). Wiedziec wiecej Internet. Wkt (Poland).
-* Buchanan, W. J., & Gupta, N. K. (1997). A novel parallel processing synchronization method for observing electric fields in and around PCBs. International Journal of Electronics, 82(1), 61-76. https://doi.org/10.1080/002072197136273
-* Buchanan, W. J. (1996). Applied PC interfacing, graphics and interrupts.. Addison Wesley.
-* Buchanan, W. J. (1996). Applied data communications and networks.. Springer.
-* Buchanan, W. J., & Gupta, N. K. (1996, April 10-12). Machine independent algorithm for concurrent finite-element problems. 3rd International Conference on Computation in Electromagnetics (CEM 96). https://doi.org/10.1049/cp%3A19960150
-* Buchanan, W. J. (1996). Analysis of electromagnetic wave propogation using 3D finite-difference time-domain methods with parallel processing. [Doctoral thesis, Edinburgh Napier University]. http://researchrepository.napier.ac.uk/id/eprint/4022
-* Buchanan, W. J., & Gupta, N. K. (1995). Prediction of electric fields from conductors on a PCB by 3D finite-difference time-domain method. Engineering Science and Education Journal, 4, 177-182. https://doi.org/10.1049/esej%3A19950410
-* Buchanan, W. J. (1995). C for Electronic Engineering with Applied Software Engineering.. Prentice Hall.
-* Buchanan, W. J., & Gupta, N. K. (1995). Prediction of electric fields in and around PCBs — 3D finite-difference time-domain approach with parallel processing. Advances in engineering software, 23(2), 111-114. https://doi.org/10.1016/0965-9978%2895%2900068-8
-* Buchanan, W. J., & Gupta, N. K. (1993). Parallel processing techniques in EMP propagation using 3D finite-difference time-domain (FDTD) method. Advances in engineering software, 18(3), 149-159. https://doi.org/10.1016/0965-9978%2893%2990062-X
-* Buchanan, W. J., Gupta, N. K., & Arnold, J. M. (1993, March 30-April 2). Simulation of radiation from a microstrip antenna using three-dimensional finite-difference time-domain (FDTD) method.. Antennas and Propagation, 1993., Eighth International Conference on. http://researchrepository.napier.ac.uk/id/eprint/3943
-* Buchanan, W. J., & Gupta, N. K. (1991, November 25-27). Simulation of three-dimensional finite-difference time-domain method on limited memory systems.. International Conference on Computation in Electromagnetics. http://researchrepository.napier.ac.uk/id/eprint/3942
-* Buchanan, W. J. (1988, March 8). Microwaves in the laboratory.. IEE Colloquium on 'Teaching Antennas and Propagation to Undergraduates'. http://researchrepository.napier.ac.uk/id/eprint/3940
-* Buchanan, W. J., Anderson, C., Smales, A., Varga, J., Burns, N., Uthmani, O., Fan, L., Lo, O., & Lawson, A. (n.d.). Who would you trust to identify you in accessing your health record? [Paper presentation]. http://researchrepository.napier.ac.uk/id/eprint/6191
-* Buchanan, B., Imran, M., Pagliari, C., Pell, J., & Rimpiläinen, S. (n.d.). Use Of Participatory Apps In Contact Tracing: Options And Implications for Public Health, Privacy and Trust. https://doi.org/10.17868/73197
-
-
-
-
-
-
+- **[ASecuritySite](https://asecuritysite.com):** Worked examples, demonstrations, explanatory articles and teaching material for cryptography and cybersecurity.
+- **[World Leaders in Cryptography](https://asecuritysite.com/interviews):** Interviews exploring the history, theory and practice of cryptography, including conversations with Whitfield Diffie, Martin Hellman, Ralph Merkle, Leonard Adleman, Neal Koblitz and Victor Miller.
+- **[YouTube](https://www.youtube.com/billbuchanan):** Online lectures, demonstrations and educational videos.
+- **[Medium](https://medium.com/asecuritysite-when-bob-met-alice):** Articles on security, cryptography and technology.
+- **[Digital Forensics Research Conference Europe 2027](https://dfrws.org/conferences/dfceurope2027/):** Conference leadership and engagement, as recorded in the original profile.
+
+## Patents and intellectual property
+
+The original repository lists a range of national and international patent publications relating to:
+
+- Insider-threat detection and digital behavioural analysis.
+- Policy-based information sharing and access control.
+- Digital forensics and identification of digital content.
+- Management and protection of confidential data.
+- Resilient secret sharing and secure cloud architectures.
+- Ransomware detection and privacy-preserving data systems.
+
+For the complete patent identifiers and associated details, consult the [original expanded profile](https://github.com/billbuchanan/github.io/). Patent publications, granted patents and patent families are distinct measures and should not be treated as interchangeable.
+
+## Research and professional links
+
+| Resource | Link |
+| --- | --- |
+| University research profile | [Edinburgh Napier / Worktribe](https://napier-repository.worktribe.com/person/110736/bill-buchanan) |
+| Royal Society of Edinburgh | [FRSE profile](https://rse.org.uk/fellowship/fellow/professor-william-buchanan-48498/) |
+| Google Scholar | [Research citations](https://scholar.google.co.uk/citations?hl=en&user=ov8KfAsAAAAJ) |
+| ORCID | [0000-0003-0809-3523](https://orcid.org/0000-0003-0809-3523) |
+| DBLP | [Publications](https://dblp.org/pid/04/5266.html) |
+| arXiv | [Research](https://arxiv.org/search/cs?searchtype=author&query=Buchanan%2C+W+J) |
+| ASecuritySite | [asecuritysite.com](https://asecuritysite.com) |
+| World Leaders in Cryptography | [Interviews](https://asecuritysite.com/interviews) |
+| Scottish Centre of Excellence in Digital Trust and DLT | [coetrust.com](https://coetrust.com/) |
+| Blockpass Identity Lab | [identity-lab.blockpass.org](https://identity-lab.blockpass.org/) |
+| YouTube | [Bill Buchanan](https://www.youtube.com/billbuchanan) |
+| LinkedIn | [billatnapier](https://www.linkedin.com/in/billatnapier/) |
+| GitHub | [billbuchanan](https://github.com/billbuchanan) |
+
+## Contact and media
+
+**Professor William J Buchanan OBE FRSE**  
+Edinburgh Napier University, Edinburgh, Scotland  
+**Email:** [b.buchanan@napier.ac.uk](mailto:b.buchanan@napier.ac.uk)
+
+Media images available in this repository: [Headshot 1](headshot01.png) · [Headshot 2](headshot02.png) · [Photo 1](Bill_Buchanan_-0001.jpg) · [Photo 2](Bill_Buchanan_-0003.jpg)
+
+---
+
+*Profile refreshed: 23 November 2026. This is a concise, modernised replacement for the longer source README. It preserves principal claims, awards, research themes and useful links, but does not reproduce the original full patent list, public PGP key or detailed historic record. The original GitHub repository has not been modified.*
